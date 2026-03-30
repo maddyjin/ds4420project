@@ -1,0 +1,1921 @@
+id,givenName,familyName,middleName,honorificSuffix,birthYear,deathYear,num_terms,positions,states,parties,congress_range
+A000003,Joel,Abbot,,,1776.0,1826.0,4,['Representative'],['GA'],"['Democratic Republican', 'Crawford Republican']",15-18
+A000026,John,Adair,,,1757.0,1840.0,2,"['Senator', 'Representative']",['KY'],"['Democratic Republican', 'Jacksonian']",9-22
+A000030,Benjamin,Adams,,,1764.0,1837.0,3,['Representative'],['MA'],['Federalist'],14-16
+A000041,John,Adams,Quincy,,1767.0,1848.0,12,"['Senator', 'Representative']",['MA'],"['Whig', 'Federalist', 'Anti-Jacksonian', 'Anti-Masonic']",8-30
+A000039,John,Adams,,,1735.0,1826.0,2,['Delegate'],['MA'],[],1-2
+A000038,John,Adams,,,1778.0,1854.0,2,['Representative'],['NY'],"['Democratic Republican', 'Jacksonian']",14-23
+A000042,Parmenio,Adams,,,1776.0,1832.0,2,['Representative'],['NY'],"['Adams', 'Adams-Clay Republican']",18-19
+A000043,Robert,Adams,Huntington,,1792.0,1830.0,1,['Senator'],['MS'],['Jacksonian'],21-21
+A000053,William,Addams,,,1777.0,1858.0,2,['Representative'],['PA'],['Jacksonian'],19-20
+A000056,Asa,Adgate,,,1767.0,1832.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+A000089,Adam,Alexander,Rankin,,1781.0,1848.0,2,['Representative'],['TN'],"['Jackson Republican', 'Jacksonian']",18-19
+A000092,Evan,Alexander,Shelby,,1767.0,1809.0,2,['Representative'],['NC'],['Democratic Republican'],9-10
+A000096,John,Alexander,,,1777.0,1848.0,2,['Representative'],['OH'],['Democratic Republican'],13-14
+A000099,Mark,Alexander,,,1792.0,1883.0,7,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",16-22
+A000100,Nathaniel,Alexander,,,1756.0,1808.0,1,['Representative'],['NC'],['Democratic Republican'],8-8
+A000108,Chilton,Allan,,,1786.0,1858.0,3,['Representative'],['KY'],"['Whig', 'Anti-Jacksonian']",22-24
+A000122,Heman,Allen,,,1779.0,1852.0,1,['Representative'],['VT'],['Democratic Republican'],15-15
+A000123,Heman,Allen,,,1777.0,1844.0,4,['Representative'],['VT'],"['Whig', 'Anti-Jacksonian']",22-25
+A000132,John,Allen,James,,1797.0,1871.0,1,['Representative'],['VA'],['Anti-Jacksonian'],23-23
+A000129,John,Allen,,,1763.0,1812.0,1,['Representative'],['CT'],['Federalist'],5-5
+A000136,Joseph,Allen,,,1749.0,1827.0,1,['Representative'],['MA'],['Federalist'],11-11
+A000140,Nathaniel,Allen,,,1780.0,1832.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+A000143,Robert,Allen,,,1794.0,1859.0,3,['Representative'],['VA'],['Jacksonian'],20-22
+A000142,Robert,Allen,,,1778.0,1844.0,4,['Representative'],['TN'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",16-19
+A000146,Samuel,Allen,Clesson,,1772.0,1842.0,6,['Representative'],['MA'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",15-20
+A000150,William,Allen,,,1803.0,1879.0,7,"['Senator', 'Representative']",['OH'],"['Democrat', 'Jacksonian']",23-30
+A000157,James,Allison,,Jr.,1772.0,1854.0,1,['Representative'],['PA'],['Jackson Republican'],18-18
+A000159,Robert,Allison,,,1777.0,1840.0,1,['Representative'],['PA'],['Anti-Masonic'],22-22
+A000165,Lemuel,Alston,James,,1760.0,1836.0,2,['Representative'],['SC'],['Democratic Republican'],10-11
+A000167,Willis,Alston,,,1769.0,1837.0,11,['Representative'],['NC'],"['Democratic Republican', 'Jacksonian']",6-21
+A000174,Fisher,Ames,,,1758.0,1808.0,4,['Representative'],['MA'],"['Pro-Administration', 'Federalist']",1-4
+A000191,Isaac,Anderson,,,1760.0,1838.0,2,['Representative'],['PA'],['Democratic Republican'],8-9
+A000193,John,Anderson,,,1792.0,1853.0,4,['Representative'],['ME'],['Jacksonian'],19-22
+A000197,Joseph,Anderson,Inslee,,1757.0,1837.0,9,['Senator'],['TN'],['Democratic Republican'],5-13
+A000230,Richard,Anderson,Clough,Jr.,1788.0,1826.0,2,['Representative'],['KY'],['Democratic Republican'],15-16
+A000231,Samuel,Anderson,,,1773.0,1850.0,1,['Representative'],['PA'],['Adams'],20-20
+A000235,William,Anderson,,,1762.0,1829.0,4,['Representative'],['PA'],['Democratic Republican'],11-15
+A000256,William,Angel,G.,,1790.0,1858.0,3,['Representative'],['NY'],"['Adams', 'Jacksonian']",19-22
+A000263,Joseph,Anthony,Biles,,1795.0,1851.0,2,['Representative'],['PA'],['Jacksonian'],23-24
+A000269,Nathan,Appleton,,,1779.0,1861.0,2,['Representative'],['MA'],"['Whig', 'Anti-Jacksonian']",22-27
+A000272,John,Archer,,,1741.0,1810.0,3,['Representative'],['MD'],['Democratic Republican'],7-9
+A000273,Stevenson,Archer,,,1786.0,1848.0,4,['Representative'],['MD'],['Democratic Republican'],12-16
+A000275,William,Archer,Segar,,1789.0,1855.0,11,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Whig', 'Jacksonian', 'Crawford Republican']",16-29
+A000280,James,Armstrong,,,1748.0,1828.0,1,['Representative'],['PA'],['Pro-Administration'],3-3
+A000282,John,Armstrong,,Jr.,1758.0,1843.0,5,"['Senator', 'Delegate']","['PA', 'NY']",['Democratic Republican'],1-8
+A000284,William,Armstrong,,,1782.0,1865.0,4,['Representative'],['VA'],"['Adams', 'Anti-Jacksonian']",19-22
+A000287,Benedict,Arnold,,,1780.0,1849.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+A000297,Thomas,Arnold,Dickens,,1798.0,1870.0,2,['Representative'],['TN'],"['Whig', 'Anti-Jacksonian']",22-27
+A000307,John,Ashe,Baptista,,1748.0,1802.0,3,"['Delegate', 'Representative']",['NC'],['Anti-Administration'],1-2
+A000313,Henry,Ashley,,,1778.0,1829.0,1,['Representative'],['NY'],['Jacksonian'],19-19
+A000315,William,Ashley,Henry,,1778.0,1838.0,3,['Representative'],['MO'],['Jacksonian'],22-24
+A000317,Eli,Ashmun,Porter,,1770.0,1819.0,2,['Senator'],['MA'],['Federalist'],14-15
+A000324,Charles,Atherton,Humphrey,,1773.0,1853.0,1,['Representative'],['NH'],['Federalist'],14-14
+A000340,Archibald,Austin,,,1772.0,1837.0,1,['Representative'],['VA'],['Democratic Republican'],15-15
+A000345,Daniel,Avery,,,1766.0,1842.0,3,['Representative'],['NY'],['Democratic Republican'],12-14
+B000006,William,Babcock,,,1785.0,1838.0,1,['Representative'],['NY'],['Anti-Masonic'],22-22
+B000015,Ezekiel,Bacon,,,1776.0,1870.0,3,['Representative'],['MA'],['Democratic Republican'],10-12
+B000017,John,Bacon,,,1738.0,1820.0,1,['Representative'],['MA'],['Democratic Republican'],7-7
+B000023,Luther,Badger,,,1785.0,1869.0,1,['Representative'],['NY'],['Adams'],19-19
+B000026,George,Baer,,Jr.,1763.0,1834.0,3,['Representative'],['MD'],['Federalist'],5-14
+B000041,John,Bailey,,,1786.0,1835.0,4,['Representative'],['MA'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-21
+B000049,Theodorus,Bailey,,,1758.0,1828.0,5,"['Senator', 'Representative']",['NY'],"['Democratic Republican', 'Anti-Administration']",3-8
+B000056,Caleb,Baker,,,1762.0,1849.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+B000058,David,Baker,Jewett,,1792.0,1869.0,1,['Senator'],['IL'],['Democrat'],21-21
+B000060,Ezra,Baker,,,1765.0,,1,['Representative'],['NJ'],['Democratic Republican'],14-14
+B000067,John,Baker,,,,1823.0,1,['Representative'],['VA'],['Federalist'],12-12
+B000084,Abraham,Baldwin,,,1754.0,1807.0,11,"['Senator', 'Delegate', 'Representative']",['GA'],"['Democratic Republican', 'Anti-Administration']",1-10
+B000087,Henry,Baldwin,,,1780.0,1844.0,3,['Representative'],['PA'],['Democratic Republican'],15-17
+B000090,John,Baldwin,,,1772.0,1850.0,2,['Representative'],['CT'],['Adams'],19-20
+B000097,Simeon,Baldwin,,,1761.0,1851.0,1,['Representative'],['CT'],['Federalist'],8-8
+B000103,William,Ball,Lee,,1781.0,1824.0,4,['Representative'],['VA'],"['Democratic Republican', 'Crawford Republican']",15-18
+B000114,John,Banks,,,1793.0,1864.0,3,['Representative'],['PA'],['Anti-Masonic'],22-24
+B000124,Levi,Barber,,,1777.0,1833.0,2,['Representative'],['OH'],['Democratic Republican'],15-17
+B000125,Noyes,Barber,,,1781.0,1844.0,7,['Representative'],['CT'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",17-23
+B000127,James,Barbour,,,1775.0,1842.0,7,['Senator'],['VA'],"['Democratic Republican', 'Anti-Democrat']",13-19
+B000128,John,Barbour,Strode,,1790.0,1855.0,5,['Representative'],['VA'],"['Jacksonian', 'Crawford Republican']",18-22
+B000131,Philip,Barbour,Pendleton,,1783.0,1841.0,8,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",13-21
+B000137,David,Bard,,,1744.0,1815.0,9,['Representative'],['PA'],['Democratic Republican'],4-14
+B000143,David,Barker,,Jr.,1797.0,1834.0,1,['Representative'],['NH'],['Adams'],20-20
+B000144,Joseph,Barker,,,1751.0,1815.0,2,['Representative'],['MA'],['Democratic Republican'],9-10
+B000150,Stephen,Barlow,,,1779.0,1845.0,1,['Representative'],['PA'],['Jacksonian'],20-20
+B000152,Daniel,Barnard,Dewey,,1797.0,1861.0,4,['Representative'],['NY'],"['Whig', 'Adams']",20-28
+B000154,Isaac,Barnard,Dutton,,1791.0,1834.0,3,['Senator'],['PA'],['Jacksonian'],20-22
+B000161,William,Barnett,,,1761.0,1832.0,2,['Representative'],['GA'],['Democratic Republican'],12-13
+B000162,John,Barney,,,1785.0,1857.0,2,['Representative'],['MD'],['Adams'],19-20
+B000165,Charles,Barnitz,Augustus,,1780.0,1850.0,1,['Representative'],['PA'],['Anti-Masonic'],23-23
+B000168,Robert,Barnwell,Woodward,,1801.0,1882.0,3,"['Senator', 'Representative']",['SC'],"['Democrat', 'Jacksonian', 'Nullifier']",21-31
+B000167,Robert,Barnwell,,,1761.0,1814.0,2,"['Delegate', 'Representative']",['SC'],['Pro-Administration'],1-2
+B000181,Daniel,Barringer,Laurens,,1788.0,1852.0,5,['Representative'],['NC'],"['Jacksonian', 'Anti-Jacksonian']",19-23
+B000192,William,Barry,Taylor,,1784.0,1835.0,3,"['Senator', 'Representative']",['KY'],['Democratic Republican'],11-14
+B000194,Gamaliel,Barstow,Henry,,1784.0,1865.0,1,['Representative'],['NY'],['Anti-Masonic'],22-22
+B000195,Gideon,Barstow,,,1783.0,1852.0,1,['Representative'],['MA'],['Democratic Republican'],17-17
+B000198,Bailey,Bartlett,,,1750.0,1830.0,2,['Representative'],['MA'],['Federalist'],5-6
+B000205,Ichabod,Bartlett,,,1786.0,1853.0,3,['Representative'],['NH'],"['Adams', 'Adams-Clay Republican']",18-20
+B000207,Josiah,Bartlett,,Jr.,1768.0,1838.0,1,['Representative'],['NH'],['Democratic Republican'],12-12
+B000210,Mordecai,Bartley,,,1783.0,1870.0,4,['Representative'],['OH'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-21
+B000212,David,Barton,,,1783.0,1837.0,5,['Senator'],['MO'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",17-21
+B000224,Burwell,Bassett,,,1764.0,1841.0,10,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",9-20
+B000226,Richard,Bassett,,,1745.0,1815.0,2,['Senator'],['DE'],['Anti-Administration'],1-2
+B000228,Ephraim,Bateman,,,1780.0,1829.0,6,"['Senator', 'Representative']",['NJ'],"['Democratic Republican', 'Adams']",14-20
+B000231,Edward,Bates,,,1793.0,1869.0,1,['Representative'],['MO'],['Adams'],20-20
+B000233,Isaac,Bates,Chapman,,1779.0,1845.0,8,"['Senator', 'Representative']",['MA'],"['Whig', 'Adams', 'Anti-Jacksonian']",20-29
+B000235,James,Bates,Woodson,,1788.0,1846.0,2,['Delegate'],['AR'],[],16-17
+B000234,James,Bates,,,1789.0,1882.0,1,['Representative'],['ME'],['Jacksonian'],22-22
+B000249,James,Bayard,Asheton,Sr.,1767.0,1815.0,8,"['Senator', 'Representative']",['DE'],['Federalist'],5-12
+B000255,Francis,Baylies,,,1783.0,1852.0,3,['Representative'],['MA'],"['Jackson Federalist', 'Jacksonian', 'Federalist']",17-19
+B000256,William,Baylies,,,1776.0,1865.0,4,['Representative'],['MA'],"['Federalist', 'Anti-Jacksonian']",11-23
+B000257,Robert,Baylor,Emmett Bledsoe,,1793.0,1874.0,1,['Representative'],['AL'],['Jacksonian'],21-21
+B000260,Thomas,Bayly,Monteagle,,1775.0,1834.0,1,['Representative'],['VA'],['Federalist'],13-13
+B000258,Thomas,Bayly,,,1775.0,1829.0,3,['Representative'],['MD'],['Federalist'],15-17
+B000266,James,Beale,Madison Hite,,1786.0,1866.0,4,['Representative'],['VA'],"['Democrat', 'Jacksonian']",23-32
+B000273,Reasin,Beall,,,1769.0,1843.0,1,['Representative'],['OH'],['Democratic Republican'],13-13
+B000277,Benning,Bean,Moulton,,1782.0,1866.0,2,['Representative'],['NH'],['Jacksonian'],23-24
+B000281,Samuel,Beardsley,,,1790.0,1860.0,4,['Representative'],['NY'],"['Democrat', 'Jacksonian']",22-28
+B000282,John,Beatty,,,1749.0,1826.0,2,"['Delegate', 'Representative']",['NJ'],['Pro-Administration'],1-3
+B000285,Martin,Beaty,,,1784.0,1856.0,1,['Representative'],['KY'],['Anti-Jacksonian'],23-23
+B000286,Andrew,Beaumont,,,1790.0,1853.0,2,['Representative'],['PA'],['Jacksonian'],23-24
+B000301,George,Bedinger,Michael,,1756.0,1843.0,2,['Representative'],['KY'],['Democratic Republican'],8-9
+B000306,Philemon,Beecher,,,1775.0,1839.0,5,['Representative'],['OH'],"['Adams', 'Adams-Clay Republican', 'Federalist']",15-20
+B000308,Thomas,Beekman,,,1790.0,1870.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+B000324,George,Belden,Ogilvie,,1797.0,1833.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+B000338,James,Bell,Martin,,1796.0,1849.0,1,['Representative'],['OH'],['Anti-Jacksonian'],23-23
+B000340,John,Bell,,,1796.0,1869.0,13,"['Senator', 'Representative']",['TN'],"['Whig', 'Opposition', 'Jacksonian', 'American (Know-Nothing)', 'Anti-Jacksonian']",20-35
+B000345,Samuel,Bell,,,1770.0,1850.0,6,['Senator'],['NH'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-23
+B000350,Joseph,Bellinger,,,1773.0,1830.0,1,['Representative'],['SC'],['Democratic Republican'],15-15
+B000368,Benjamin,Bennet,,,1764.0,1840.0,2,['Representative'],['NJ'],['Democratic Republican'],14-15
+B000388,Egbert,Benson,,,1746.0,1833.0,4,"['Delegate', 'Representative']",['NY'],"['Pro-Administration', 'Federalist']",1-13
+B000396,Lemuel,Benton,,,1754.0,1818.0,3,['Representative'],['SC'],"['Democratic Republican', 'Anti-Administration']",3-5
+B000398,Thomas,Benton,Hart,,1782.0,1858.0,16,"['Senator', 'Representative']",['MO'],"['Democratic Republican', 'Jacksonian', 'Democrat']",17-33
+B000405,John,Bergen,Teunis,,1786.0,1855.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+B000413,John,Berrien,Macpherson,,1781.0,1856.0,10,['Senator'],['GA'],"['Whig', 'Jacksonian']",19-32
+B000423,Lauchlin,Bethune,,,1785.0,1874.0,1,['Representative'],['NC'],['Jacksonian'],22-22
+B000425,Silas,Betton,,,1768.0,1822.0,2,['Representative'],['NH'],['Federalist'],8-9
+B000427,Samuel,Betts,Rossiter,,1787.0,1868.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+B000433,George,Bibb,Mortimer,,1776.0,1859.0,5,['Senator'],['KY'],"['Democratic Republican', 'Jacksonian', 'Republican']",12-23
+B000434,William,Bibb,Wyatt,,1781.0,1820.0,7,"['Senator', 'Representative']",['GA'],['Democratic Republican'],9-14
+B000441,John,Biddle,,,1792.0,1859.0,1,['Delegate'],['MI'],[],21-21
+B000446,Barnabas,Bidwell,,,1763.0,1833.0,2,['Representative'],['MA'],['Democratic Republican'],9-10
+B000453,Abijah,Bigelow,,,1775.0,1860.0,3,['Representative'],['MA'],['Federalist'],11-13
+B000455,Lewis,Bigelow,,,1785.0,1838.0,1,['Representative'],['MA'],['Federalist'],17-17
+B000467,Thomas,Bines,,,,1826.0,1,['Representative'],['NJ'],['Democratic Republican'],13-13
+B000474,William,Bingham,,,1752.0,1804.0,4,"['Senator', 'Delegate']",['PA'],['Federalist'],1-6
+B000475,Horace,Binney,,,1780.0,1875.0,1,['Representative'],['PA'],['Anti-Jacksonian'],23-23
+B000477,John,Bird,,,1768.0,1806.0,2,['Representative'],['NY'],['Federalist'],6-7
+B000482,James,Birdsall,,,1783.0,1856.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+B000484,Victory,Birdseye,,,1782.0,1853.0,2,['Representative'],['NY'],"['Democratic Republican', 'Whig']",14-27
+B000488,Phanuel,Bishop,,,1739.0,1812.0,4,['Representative'],['MA'],['Democratic Republican'],6-9
+B000503,John,Black,,,1800.0,1854.0,4,['Senator'],['MS'],"['Whig', 'Jacksonian', 'Anti-Jacksonian']",22-25
+B000512,William,Blackledge,Salter,,1793.0,1856.0,2,['Representative'],['NC'],['Democratic Republican'],16-17
+B000511,William,Blackledge,,,,1828.0,4,['Representative'],['NC'],['Democratic Republican'],8-12
+B000526,James,Blair,,,1790.0,1834.0,4,['Representative'],['SC'],"['Democratic Republican', 'Jacksonian']",17-23
+B000528,John,Blair,,,1790.0,1863.0,6,['Representative'],['TN'],"['Jackson Republican', 'Jacksonian']",18-23
+B000530,Daniel,Blaisdell,,,1762.0,1833.0,1,['Representative'],['NH'],['Federalist'],11-11
+B000533,John,Blake,,Jr.,1762.0,1826.0,2,['Representative'],['NY'],['Democratic Republican'],9-10
+B000534,Thomas,Blake,Holdsworth,,1792.0,1849.0,1,['Representative'],['IN'],['Adams'],20-20
+B000546,Theodorick,Bland,,,1742.0,1790.0,3,"['Delegate', 'Representative']",['VA'],['Anti-Administration'],1-2
+B000554,Jesse,Bledsoe,,,1776.0,1836.0,1,['Senator'],['KY'],['Democratic Republican'],13-13
+B000555,Harmanus,Bleecker,,,1779.0,1849.0,1,['Representative'],['NY'],['Federalist'],12-12
+B000563,Timothy,Bloodworth,,,1736.0,1814.0,5,"['Senator', 'Delegate', 'Representative']",['NC'],"['Democratic Republican', 'Anti-Administration']",1-6
+B000566,Joseph,Bloomfield,,,1753.0,1823.0,2,['Representative'],['NJ'],['Democratic Republican'],15-16
+B000569,Thomas,Blount,,,1759.0,1812.0,6,['Representative'],['NC'],"['Democratic Republican', 'Anti-Administration']",3-12
+B000571,William,Blount,Grainger,,1784.0,1827.0,2,['Representative'],['TN'],['Democratic Republican'],14-15
+B000570,William,Blount,,,1749.0,1800.0,3,"['Senator', 'Delegate']","['TN', 'NC']",['Democratic Republican'],1-5
+B000577,Elijah,Boardman,,,1760.0,1823.0,2,['Senator'],['CT'],['Democratic Republican'],17-18
+B000581,Abraham,Bockee,,,1784.0,1865.0,3,['Representative'],['NY'],['Jacksonian'],21-24
+B000583,Andrew,Boden,,,,1835.0,2,['Representative'],['PA'],['Democratic Republican'],15-16
+B000585,Charles,Bodle,,,1787.0,1835.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+B000612,Shadrack,Bond,,,1773.0,1832.0,2,['Delegate'],['IL'],[],12-13
+B000628,Ratliff,Boon,,,1781.0,1844.0,6,['Representative'],['IN'],"['Democrat', 'Jacksonian']",19-25
+B000641,Charles,Borland,,Jr.,1786.0,1852.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+B000645,Peter,Borst,I.,,1797.0,1848.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+B000650,John,Boss,Linscom,Jr.,1780.0,1819.0,2,['Representative'],['RI'],['Federalist'],14-15
+B000659,Joseph,Bouck,,,1788.0,1858.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+B000660,Thomas,Boude,,,1752.0,1822.0,1,['Representative'],['PA'],['Federalist'],7-7
+B000661,Elias,Boudinot,,,1740.0,1821.0,5,"['Delegate', 'Representative']",['NJ'],['Pro-Administration'],1-3
+B000662,James,Bouldin,Wood,,1792.0,1854.0,3,['Representative'],['VA'],"['Democrat', 'Jacksonian']",23-25
+B000663,Thomas,Bouldin,Tyler,,1781.0,1834.0,3,['Representative'],['VA'],['Jacksonian'],21-23
+B000664,Charles,Bouligny,Dominique Joseph,,1773.0,1833.0,3,['Senator'],['LA'],['Adams-Clay Republican'],18-20
+B000669,Benjamin,Bourne,,,1755.0,1808.0,4,['Representative'],['RI'],"['Pro-Administration', 'Federalist']",1-4
+B000671,Shearjashub,Bourne,,,1746.0,1806.0,2,['Representative'],['MA'],['Pro-Administration'],2-3
+B000684,John,Bowen,H.,,1780.0,1822.0,1,['Representative'],['TN'],['Democratic Republican'],13-13
+B000691,John,Bowers,Myer,,1772.0,1846.0,1,['Representative'],['NY'],['Federalist'],13-13
+B000697,Walter,Bowie,,,1748.0,1810.0,2,['Representative'],['MD'],['Democratic Republican'],7-8
+B000714,Adam,Boyd,,,1746.0,1835.0,4,['Representative'],['NJ'],['Democratic Republican'],8-12
+B000715,Alexander,Boyd,,,1764.0,1857.0,1,['Representative'],['NY'],['Federalist'],13-13
+B000729,John,Boyle,,,1774.0,1835.0,3,['Representative'],['KY'],['Democratic Republican'],8-10
+B000731,Jonathan,Brace,,,1754.0,1837.0,2,['Representative'],['CT'],['Federalist'],5-6
+B000733,George,Bradbury,,,1770.0,1823.0,2,['Representative'],['MA'],['Federalist'],13-14
+B000735,Theophilus,Bradbury,,,1739.0,1803.0,2,['Representative'],['MA'],['Federalist'],4-5
+B000739,William,Bradford,,,1729.0,1808.0,3,['Senator'],['RI'],['Pro-Administration'],3-5
+B000745,Stephen,Bradley,Row,,1754.0,1830.0,8,['Senator'],['VT'],"['Democratic Republican', 'Anti-Administration']",2-12
+B000748,William,Bradley,Czar,,1782.0,1867.0,3,['Representative'],['VT'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",13-19
+B000763,John,Branch,,,1782.0,1863.0,5,"['Senator', 'Representative']",['NC'],"['Jacksonian', 'Crawford Republican']",18-22
+B000783,Samuel,Breck,,,1771.0,1862.0,1,['Representative'],['PA'],['Adams-Clay Federalist'],18-18
+B000786,James,Breckinridge,Douglas,,,1849.0,1,['Representative'],['KY'],['Democratic Republican'],17-17
+B000785,James,Breckinridge,,,1763.0,1833.0,4,['Representative'],['VA'],['Federalist'],11-14
+B000787,John,Breckinridge,,,1760.0,1806.0,3,['Senator'],['KY'],['Democratic Republican'],7-9
+B000802,Richard,Brent,,,1757.0,1814.0,6,"['Senator', 'Representative']",['VA'],['Democratic Republican'],4-13
+B000803,William,Brent,Leigh,,1784.0,1848.0,3,['Representative'],['LA'],"['Adams', 'Adams-Clay Republican']",18-20
+B000808,Joseph,Brevard,,,1766.0,1821.0,1,['Representative'],['SC'],['Democratic Republican'],16-16
+B000830,George,Briggs,Nixon,,1796.0,1861.0,6,['Representative'],['MA'],"['Whig', 'Anti-Jacksonian']",22-27
+B000833,Elijah,Brigham,,,1751.0,1816.0,3,['Representative'],['MA'],['Federalist'],12-14
+B000859,John,Brodhead,Curtis,,1780.0,1859.0,2,['Representative'],['NY'],"['Democrat', 'Jacksonian']",22-25
+B000858,John,Brodhead,,,1770.0,1838.0,2,['Representative'],['NH'],['Jacksonian'],21-22
+B000875,David,Brooks,,,1756.0,1838.0,1,['Representative'],['NY'],['Federalist'],5-5
+B000883,Micah,Brooks,,,1775.0,1857.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+B000888,James,Broom,Madison,,1776.0,1850.0,1,['Representative'],['DE'],['Federalist'],9-9
+B000903,Bedford,Brown,,,1795.0,1870.0,6,['Senator'],['NC'],"['Democrat', 'Jacksonian']",21-26
+B000904,Benjamin,Brown,,,1756.0,1831.0,1,['Representative'],['MA'],['Federalist'],14-14
+B000912,Elias,Brown,,,1793.0,1857.0,1,['Representative'],['MD'],['Jacksonian'],21-21
+B000914,Ethan,Brown,Allen,,1776.0,1852.0,2,['Senator'],['OH'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+B000921,James,Brown,,,1766.0,1835.0,6,['Senator'],['LA'],"['Democratic Republican', 'Adams-Clay Republican']",12-18
+B000932,John,Brown,W.,,1796.0,1875.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+B000929,John,Brown,,,1757.0,1837.0,10,"['Senator', 'Delegate', 'Representative']","['VA', 'KY']","['Democratic Republican', 'Anti-Administration']",1-8
+B000926,John,Brown,,,1772.0,1845.0,2,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican']",17-18
+B000928,John,Brown,,,,1815.0,1,['Representative'],['MD'],['Democratic Republican'],11-11
+B000927,John,Brown,,,1736.0,1803.0,1,['Representative'],['RI'],['Federalist'],6-6
+B000942,Robert,Brown,,,1744.0,1823.0,9,['Representative'],['PA'],['Democratic Republican'],5-13
+B000945,Titus,Brown,,,1786.0,1849.0,2,['Representative'],['NH'],['Adams'],19-20
+B000947,William,Brown,,,1779.0,1833.0,1,['Representative'],['KY'],['Democratic Republican'],16-16
+B000970,Phineas,Bruce,,,1762.0,1809.0,1,['Representative'],['MA'],['Federalist'],8-8
+B000983,Henry,Brush,,,1778.0,1855.0,1,['Representative'],['OH'],['Democratic Republican'],16-16
+B000986,Henry,Bryan,Hunter,,1786.0,1835.0,2,['Representative'],['TN'],['Democratic Republican'],16-17
+B000988,John,Bryan,Heritage,,1798.0,1870.0,2,['Representative'],['NC'],"['Adams', 'Jacksonian']",19-20
+B000990,Joseph,Bryan,Hunter,,1782.0,1839.0,2,['Representative'],['NC'],['Democratic Republican'],14-15
+B000989,Joseph,Bryan,,,1773.0,1812.0,2,['Representative'],['GA'],['Democratic Republican'],8-9
+B000991,Nathan,Bryan,,,1748.0,1798.0,2,['Representative'],['NC'],['Democratic Republican'],4-5
+B001005,James,Buchanan,,,1791.0,1868.0,12,"['Senator', 'Representative']",['PA'],"['Democrat', 'Jackson Federalist', 'Jacksonian', 'Federalist']",17-29
+B001010,John,Bucher,Conrad,,1792.0,1851.0,1,['Representative'],['PA'],['Jacksonian'],22-22
+B001015,Daniel,Buck,Azro Ashley,,1789.0,1841.0,2,['Representative'],['VT'],"['Adams', 'Adams-Clay Republican']",18-20
+B001014,Daniel,Buck,,,1753.0,1816.0,1,['Representative'],['VT'],['Federalist'],4-4
+B001030,Alexander,Buckner,,,1785.0,1833.0,2,['Senator'],['MO'],['Jacksonian'],22-23
+B001033,Richard,Buckner,Aylett,,1763.0,1847.0,3,['Representative'],['KY'],"['Adams', 'Adams-Clay Republican']",18-20
+B001042,Joseph,Buffum,,Jr.,1784.0,1874.0,1,['Representative'],['NH'],['Democratic Republican'],16-16
+B001046,John,Bull,,,1803.0,1863.0,1,['Representative'],['MO'],['Anti-Jacksonian'],23-23
+B001049,Henry,Bullard,Adams,,1788.0,1851.0,3,['Representative'],['LA'],"['Whig', 'Anti-Jacksonian']",22-31
+B001051,William,Bulloch,Bellinger,,1777.0,1852.0,1,['Senator'],['GA'],['Democratic Republican'],13-13
+B001053,Stephen,Bullock,,,1735.0,1816.0,1,['Representative'],['MA'],['Federalist'],5-5
+B001054,Wingfield,Bullock,,,,1821.0,1,['Representative'],['KY'],['Democratic Republican'],17-17
+B001058,Samuel,Bunch,,,1786.0,1849.0,2,['Representative'],['TN'],"['Jacksonian', 'Anti-Jacksonian']",23-24
+B001065,Rudolph,Bunner,,,1779.0,1837.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+B001073,George,Burd,,,1793.0,1844.0,2,['Representative'],['PA'],['Anti-Jacksonian'],22-23
+B001081,Dempsey,Burges,,,1751.0,1800.0,2,['Representative'],['NC'],['Democratic Republican'],4-5
+B001082,Tristam,Burges,,,1770.0,1853.0,5,['Representative'],['RI'],"['Adams', 'Anti-Jacksonian']",19-23
+B001086,Aedanus,Burke,,,1743.0,1802.0,1,['Representative'],['SC'],['Anti-Administration'],1-1
+B001109,William,Burleigh,,,1785.0,1827.0,2,['Representative'],['ME'],"['Adams', 'Adams-Clay Republican']",18-19
+B001117,Jacob,Burnet,,,1770.0,1853.0,2,['Senator'],['OH'],['Adams'],20-21
+B001129,Robert,Burns,,,1792.0,1866.0,2,['Representative'],['NH'],['Jacksonian'],23-24
+B001132,Thomas,Burnside,,,1782.0,1851.0,1,['Representative'],['PA'],['Democratic Republican'],14-14
+B001133,Aaron,Burr,,,1756.0,1836.0,3,['Senator'],['NY'],['Anti-Administration'],2-4
+B001137,James,Burrill,,Jr.,1772.0,1820.0,2,['Senator'],['RI'],['Federalist'],15-16
+B001140,Daniel,Burrows,,,1766.0,1858.0,1,['Representative'],['CT'],['Democratic Republican'],17-17
+B001152,Hutchins,Burton,Gordon,,1782.0,1836.0,3,['Representative'],['NC'],"['Democratic Republican', 'Crawford Republican']",16-18
+B001160,William,Burwell,Armisted,,1780.0,1821.0,8,['Representative'],['VA'],['Democratic Republican'],9-16
+B001176,Ezra,Butler,,,1763.0,1838.0,1,['Representative'],['VT'],['Democratic Republican'],13-13
+B001181,Josiah,Butler,,,1779.0,1854.0,3,['Representative'],['NH'],['Democratic Republican'],15-17
+B001186,Pierce,Butler,,,1744.0,1822.0,7,"['Senator', 'Delegate']",['SC'],"['Democratic Republican', 'Pro-Administration', 'Anti-Administration']",1-8
+B001190,Thomas,Butler,,,1785.0,1847.0,2,['Representative'],['LA'],['Democratic Republican'],15-16
+B001194,William,Butler,,,1759.0,1821.0,6,['Representative'],['SC'],['Democratic Republican'],7-12
+B001198,Samuel,Butman,,,1788.0,1864.0,2,['Representative'],['ME'],"['Adams', 'Anti-Jacksonian']",20-21
+B001204,Jesse,Bynum,Atherton,,1797.0,1868.0,4,['Representative'],['NC'],"['Democrat', 'Jacksonian']",23-26
+C000005,Samuel,Cabell,Jordan,,1756.0,1818.0,4,['Representative'],['VA'],['Democratic Republican'],4-7
+C000009,George,Cabot,,,1752.0,1823.0,3,['Senator'],['MA'],['Pro-Administration'],2-4
+C000012,Lambert,Cadwalader,,,1742.0,1823.0,3,"['Delegate', 'Representative']",['NJ'],['Pro-Administration'],1-3
+C000014,Daniel,Cady,,,1773.0,1859.0,1,['Representative'],['NY'],['Federalist'],14-14
+C000015,John,Cady,Watts,,1790.0,1854.0,1,['Representative'],['NY'],['Adams-Clay Republican'],18-18
+C000018,Harry,Cage,,,,1859.0,1,['Representative'],['MS'],['Jacksonian'],23-23
+C000020,William,Cahoon,,,1774.0,1833.0,2,['Representative'],['VT'],['Anti-Masonic'],21-22
+C000033,James,Caldwell,,,1770.0,1838.0,2,['Representative'],['OH'],['Democratic Republican'],13-14
+C000043,John,Calhoon,,,1797.0,,3,['Representative'],['KY'],"['Whig', 'Adams', 'Anti-Jacksonian']",20-25
+C000044,John,Calhoun,Caldwell,,1782.0,1850.0,13,"['Senator', 'Representative']",['SC'],"['Democratic Republican', 'Democrat', 'Nullifier']",12-31
+C000045,Joseph,Calhoun,,,1750.0,1817.0,2,['Representative'],['SC'],['Democratic Republican'],10-11
+C000049,Jacob,Call,,,,1826.0,1,['Representative'],['IN'],['Jackson Republican'],18-18
+C000050,Richard,Call,Keith,,1792.0,1862.0,1,['Delegate'],['FL'],[],18-18
+C000061,Churchill,Cambreleng,Caldom,,1786.0,1862.0,9,['Representative'],['NY'],"['Democratic Republican', 'Jacksonian', 'Democrat', 'Crawford Republican']",17-25
+C000076,Alexander,Campbell,,,1779.0,1857.0,2,['Senator'],['OH'],['Democratic Republican'],11-12
+C000083,George,Campbell,Washington,,1769.0,1848.0,7,"['Senator', 'Representative']",['TN'],['Democratic Republican'],8-15
+C000095,John,Campbell,Wilson,,1782.0,1833.0,5,['Representative'],['OH'],"['Democratic Republican', 'Adams', 'Jackson Republican']",15-19
+C000090,John,Campbell,,,,1845.0,5,['Representative'],['SC'],"['Democrat', 'Jacksonian', 'Nullifier']",21-28
+C000091,John,Campbell,,,1765.0,1828.0,5,['Representative'],['MD'],['Federalist'],7-11
+C000098,Robert,Campbell,Blair,,1791.0,1862.0,3,['Representative'],['SC'],"['Jackson Republican', 'Nullifier']",18-24
+C000099,Samuel,Campbell,,,1773.0,1853.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+C000123,Newton,Cannon,,,1781.0,1841.0,4,['Representative'],['TN'],['Democratic Republican'],13-17
+C000131,Hugh,Caperton,,,1781.0,1847.0,1,['Representative'],['VA'],['Federalist'],13-13
+C000148,Peter,Carleton,,,1755.0,1828.0,1,['Representative'],['NH'],['Democratic Republican'],10-10
+C000160,Richard,Carmichael,Bennett,,1807.0,1884.0,1,['Representative'],['MD'],['Jacksonian'],23-23
+C000163,Thomas,Carnes,Petters,,1762.0,1822.0,1,['Representative'],['GA'],['Anti-Administration'],3-3
+C000175,Francis,Carr,,,1751.0,1821.0,1,['Representative'],['MA'],['Democratic Republican'],12-12
+C000176,James,Carr,,,1777.0,1818.0,1,['Representative'],['MA'],['Federalist'],14-14
+C000177,John,Carr,,,1793.0,1845.0,4,['Representative'],['IN'],"['Democrat', 'Jacksonian']",22-26
+C000185,Charles,Carroll,,,1737.0,1832.0,3,"['Senator', 'Delegate']",['MD'],['Pro-Administration'],1-2
+C000187,Daniel,Carroll,,,1730.0,1796.0,3,"['Delegate', 'Representative']",['MD'],['Pro-Administration'],1-2
+C000193,Samuel,Carson,Price,,1798.0,1838.0,4,['Representative'],['NC'],['Jacksonian'],19-22
+C000197,John,Carter,,,1792.0,1850.0,4,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-20
+C000212,George,Cary,,,1789.0,1843.0,2,['Representative'],['GA'],"['Jacksonian', 'Crawford Republican']",18-19
+C000222,Walter,Case,,,1776.0,1859.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+C000226,Levi,Casey,,,1752.0,1807.0,2,['Representative'],['SC'],['Democratic Republican'],8-9
+C000230,Zadok,Casey,,,1796.0,1862.0,5,['Representative'],['IL'],"['Democrat', 'Jacksonian', 'Independent Democrat']",23-27
+C000234,George,Cassedy,,,1783.0,1842.0,3,['Representative'],['NJ'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+C000279,John,Chamberlain,Curtis,,1772.0,1834.0,1,['Representative'],['NH'],['Federalist'],11-11
+C000280,William,Chamberlain,,,1755.0,1828.0,2,['Representative'],['VT'],['Federalist'],8-11
+C000281,David,Chambers,,,1780.0,1864.0,1,['Representative'],['OH'],['Democratic Republican'],17-17
+C000282,Ezekiel,Chambers,Forman,,1788.0,1867.0,5,['Senator'],['MD'],['Adams'],19-23
+C000283,George,Chambers,,,1786.0,1866.0,2,['Representative'],['PA'],['Anti-Masonic'],23-24
+C000284,Henry,Chambers,H.,,1790.0,1826.0,1,['Senator'],['AL'],['Jacksonian'],19-19
+C000285,John,Chambers,,,1780.0,1852.0,3,['Representative'],['KY'],"['Whig', 'Adams', 'Anti-Jacksonian']",20-25
+C000288,Epaphroditus,Champion,,,1756.0,1834.0,5,['Representative'],['CT'],['Federalist'],10-14
+C000289,Christopher,Champlin,Grant,,1768.0,1840.0,4,"['Senator', 'Representative']",['RI'],['Federalist'],5-12
+C000291,John,Chandler,,,1762.0,1841.0,7,"['Senator', 'Representative']","['ME', 'MA']","['Democratic Republican', 'Jacksonian', 'Crawford Republican']",9-20
+C000294,Thomas,Chandler,,,1772.0,1866.0,2,['Representative'],['NH'],['Jacksonian'],21-22
+C000300,John,Chaney,,,1790.0,1881.0,3,['Representative'],['OH'],"['Democrat', 'Jacksonian']",23-25
+C000313,John,Chapman,,,1740.0,1800.0,1,['Representative'],['PA'],['Federalist'],5-5
+C000320,John,Chappell,Joel,,1782.0,1871.0,2,['Representative'],['SC'],['Democratic Republican'],13-14
+C000325,Dudley,Chase,,,1771.0,1846.0,6,['Senator'],['VT'],"['Democratic Republican', 'Anti-Jacksonian']",13-21
+C000333,Samuel,Chase,,,,1838.0,1,['Representative'],['NY'],['Adams'],20-20
+C000350,Langdon,Cheves,,,1776.0,1857.0,3,['Representative'],['SC'],['Democratic Republican'],11-13
+C000355,Timothy,Childs,,,1785.0,1847.0,4,['Representative'],['NY'],"['Whig', 'Anti-Jacksonian', 'Anti-Masonic']",21-27
+C000359,Thomas,Chilton,,,1798.0,1854.0,3,['Representative'],['KY'],"['Jacksonian', 'Anti-Jacksonian']",20-23
+C000362,Joseph,Chinn,William,,1798.0,1840.0,2,['Representative'],['VA'],['Jacksonian'],22-23
+C000366,Daniel,Chipman,,,1765.0,1850.0,1,['Representative'],['VT'],['Federalist'],14-14
+C000369,Nathaniel,Chipman,,,1752.0,1843.0,3,['Senator'],['VT'],['Federalist'],5-7
+C000372,Martin,Chittenden,,,1763.0,1840.0,5,['Representative'],['VT'],['Federalist'],8-12
+C000375,Rufus,Choate,,,1799.0,1859.0,5,"['Senator', 'Representative']",['MA'],"['Whig', 'Anti-Jacksonian']",22-28
+C000382,Gabriel,Christie,,,1755.0,1808.0,3,['Representative'],['MD'],"['Democratic Republican', 'Anti-Administration']",3-6
+C000394,Bradbury,Cilley,,,1760.0,1831.0,2,['Representative'],['NH'],['Federalist'],13-14
+C000399,Clifton,Clagett,,,1762.0,1829.0,3,['Representative'],['NH'],"['Democratic Republican', 'Federalist']",8-16
+C000403,John,Claiborne,,,1777.0,1808.0,2,['Representative'],['VA'],['Democratic Republican'],9-10
+C000405,Nathaniel,Claiborne,Herbert,,1777.0,1859.0,6,['Representative'],['VA'],"['Jacksonian', 'Anti-Jacksonian']",19-24
+C000407,Thomas,Claiborne,,,1780.0,1856.0,1,['Representative'],['TN'],['Democratic Republican'],15-15
+C000406,Thomas,Claiborne,,,1749.0,1812.0,5,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",3-8
+C000408,William,Claiborne,Charles Cole,,1775.0,1817.0,3,"['Senator', 'Representative']","['TN', 'LA']",['Democratic Republican'],5-15
+C000418,Abraham,Clark,,,1726.0,1794.0,4,"['Delegate', 'Representative']",['NJ'],['Pro-Administration'],1-3
+C000424,Christopher,Clark,Henderson,,1767.0,1828.0,2,['Representative'],['VA'],['Democratic Republican'],8-9
+C000426,Daniel,Clark,,,1766.0,1813.0,2,['Delegate'],['OL'],[],9-10
+C000438,James,Clark,West,,1779.0,1843.0,1,['Representative'],['NC'],['Democratic Republican'],14-14
+C000436,James,Clark,,,1779.0,1839.0,5,['Representative'],['KY'],"['Democratic Republican', 'Adams', 'Anti-Jacksonian']",13-21
+C000443,John,Clark,Chamberlain,,1793.0,1852.0,4,['Representative'],['NY'],"['Democrat', 'Whig', 'Jacksonian']",20-27
+C000447,Lot,Clark,,,1788.0,1862.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+C000449,Robert,Clark,,,1777.0,1837.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+C000451,Samuel,Clark,,,1800.0,1870.0,2,['Representative'],"['NY', 'MI']","['Democrat', 'Jacksonian']",23-33
+C000453,William,Clark,,,1774.0,1851.0,2,['Representative'],['PA'],['Anti-Masonic'],23-24
+C000456,Archibald,Clarke,Smith,,1788.0,1821.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+C000481,Clement,Clay,Comer,,1789.0,1866.0,6,"['Senator', 'Representative']",['AL'],"['Democrat', 'Jacksonian']",21-27
+C000482,Henry,Clay,,,1777.0,1852.0,16,"['Senator', 'Representative']",['KY'],"['Democratic Republican', 'Whig', 'Adams-Clay Republican', 'Anti-Jacksonian']",9-32
+C000486,Joseph,Clay,,,1769.0,1811.0,3,['Representative'],['PA'],['Democratic Republican'],8-10
+C000487,Matthew,Clay,,,1754.0,1815.0,8,['Representative'],['VA'],['Democratic Republican'],5-12
+C000491,Augustin,Clayton,Smith,,1783.0,1839.0,2,['Representative'],['GA'],['Jacksonian'],22-23
+C000496,John,Clayton,Middleton,,1796.0,1856.0,8,['Senator'],['DE'],"['Whig', 'Opposition', 'Anti-Jacksonian']",21-34
+C000497,Joshua,Clayton,,,1744.0,1798.0,1,['Senator'],['DE'],['Federalist'],5-5
+C000499,Thomas,Clayton,,,1777.0,1854.0,9,"['Senator', 'Representative']",['DE'],"['Whig', 'Adams-Clay Federalist', 'Federalist', 'Adams', 'Anti-Jacksonian']",14-29
+C000510,David,Clendenin,,,1779.0,,2,['Representative'],['OH'],['Democratic Republican'],13-14
+C000525,De,Clinton,Witt,,1769.0,1828.0,2,['Senator'],['NY'],['Democratic Republican'],7-8
+C000527,George,Clinton,,,1739.0,1812.0,1,['Delegate'],['NY'],[],2-2
+C000526,George,Clinton,,Jr.,1771.0,1809.0,3,['Representative'],['NY'],['Democratic Republican'],8-10
+C000531,John,Clopton,,,1756.0,1816.0,10,['Representative'],['VA'],['Democratic Republican'],4-14
+C000534,William,Clowney,Kennedy,,1797.0,1851.0,2,['Representative'],['SC'],['Nullifier'],23-25
+C000538,George,Clymer,,,1739.0,1813.0,3,"['Delegate', 'Representative']",['PA'],['Pro-Administration'],1-2
+C000545,David,Cobb,,,1748.0,1830.0,1,['Representative'],['MA'],['Pro-Administration'],3-3
+C000547,Howell,Cobb,,,1772.0,1818.0,3,['Representative'],['GA'],['Democratic Republican'],10-12
+C000553,Thomas,Cobb,Willis,,1784.0,1830.0,5,"['Senator', 'Representative']",['GA'],"['Democratic Republican', 'Crawford Republican']",15-20
+C000563,James,Cochran,,,1769.0,1848.0,1,['Representative'],['NY'],['Federalist'],5-5
+C000564,James,Cochran,,,1767.0,1813.0,2,['Representative'],['NC'],['Democratic Republican'],11-12
+C000571,John,Cocke,,,1772.0,1854.0,4,['Representative'],['TN'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",16-19
+C000572,William,Cocke,,,1748.0,1828.0,5,['Senator'],['TN'],['Democratic Republican'],4-8
+C000583,John,Coffee,,,1782.0,1836.0,2,['Representative'],['GA'],['Jacksonian'],23-24
+C000591,Peleg,Coffin,,Jr.,1756.0,1805.0,1,['Representative'],['MA'],['Pro-Administration'],3-3
+C000600,Joshua,Coit,,,1758.0,1798.0,3,['Representative'],['CT'],"['Pro-Administration', 'Federalist']",3-5
+C000602,Richard,Coke,,Jr.,1790.0,1851.0,2,['Representative'],['VA'],['Jacksonian'],21-22
+C000604,Cadwallader,Colden,David,,1769.0,1834.0,1,['Representative'],['NY'],['Federalist'],17-17
+C000620,Nicholas,Coleman,Daniel,,1800.0,1874.0,1,['Representative'],['KY'],['Jacksonian'],21-21
+C000624,Isaac,Coles,,,1747.0,1813.0,3,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",1-4
+C000627,John,Colhoun,Ewing,,1749.0,1802.0,1,['Senator'],['SC'],['Democratic Republican'],7-7
+C000631,John,Collier,Allen,,1787.0,1873.0,1,['Representative'],['NY'],['Anti-Masonic'],22-22
+C000635,Ela,Collins,,,1786.0,1848.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+C000650,Edward,Colston,,,1786.0,1852.0,1,['Representative'],['VA'],['Federalist'],15-15
+C000664,Oliver,Comstock,Cromwell,,1780.0,1860.0,3,['Representative'],['NY'],['Democratic Republican'],13-15
+C000667,John,Conard,,,1773.0,1857.0,1,['Representative'],['PA'],['Democratic Republican'],13-13
+C000668,Lewis,Condict,,,1772.0,1862.0,9,['Representative'],['NJ'],"['Democratic Republican', 'Adams', 'Jackson Republican', 'Anti-Jacksonian']",12-22
+C000671,John,Condit,,,1755.0,1834.0,10,"['Senator', 'Representative']",['NJ'],['Democratic Republican'],6-16
+C000672,Silas,Condit,,,1778.0,1861.0,1,['Representative'],['NJ'],['Anti-Jacksonian'],22-22
+C000679,Alfred,Conkling,,,1789.0,1874.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+C000692,Samuel,Conner,Shepard,,1783.0,1820.0,1,['Representative'],['MA'],['Democratic Republican'],14-14
+C000700,Henry,Connor,William,,1793.0,1866.0,10,['Representative'],['NC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian', 'Democrat']",17-26
+C000704,Frederick,Conrad,,,1759.0,1827.0,2,['Representative'],['PA'],['Democratic Republican'],8-9
+C000710,Benjamin,Contee,,,1755.0,1815.0,2,"['Delegate', 'Representative']",['MD'],['Anti-Administration'],1-1
+C000712,Henry,Conway,Wharton,,1793.0,1827.0,3,['Delegate'],['AR'],[],18-20
+C000716,Daniel,Cook,Pope,,1794.0,1827.0,4,['Representative'],['IL'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",16-19
+C000723,Orchard,Cook,,,1763.0,1819.0,3,['Representative'],['MA'],['Democratic Republican'],9-11
+C000728,Zadock,Cook,,,1769.0,1863.0,2,['Representative'],['GA'],['Democratic Republican'],14-15
+C000729,Bates,Cooke,,,1787.0,1841.0,1,['Representative'],['NY'],['Anti-Masonic'],22-22
+C000732,Eleutheros,Cooke,,,1787.0,1864.0,1,['Representative'],['OH'],['Anti-Jacksonian'],22-22
+C000734,Thomas,Cooke,Burrage,,1778.0,1853.0,1,['Representative'],['NY'],['Democratic Republican'],12-12
+C000760,Richard,Cooper,Matlack,,1768.0,1843.0,2,['Representative'],['NJ'],['Anti-Jacksonian'],21-22
+C000762,Thomas,Cooper,,,1764.0,1829.0,2,['Representative'],['DE'],['Federalist'],13-14
+C000764,William,Cooper,,,1754.0,1809.0,2,['Representative'],['NY'],['Federalist'],4-6
+C000791,Thomas,Corwin,,,1794.0,1865.0,10,"['Senator', 'Representative']",['OH'],"['Whig', 'Anti-Jacksonian', 'Republican']",22-37
+C000792,Jeremiah,Cosden,,,1768.0,1824.0,1,['Representative'],['MD'],['Democratic Republican'],17-17
+C000808,Richard,Coulter,,,1788.0,1852.0,4,['Representative'],['PA'],['Jacksonian'],20-23
+C000817,Leonard,Covington,,,1768.0,1813.0,1,['Representative'],['MD'],['Democratic Republican'],9-9
+C000828,Henry,Cowles,Booth,,1798.0,1873.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+C000834,James,Cox,,,1753.0,1810.0,1,['Representative'],['NJ'],['Democratic Republican'],11-11
+C000843,William,Coxe,,Jr.,1762.0,1831.0,1,['Representative'],['NJ'],['Federalist'],13-13
+C000848,Jeremiah,Crabb,,,1760.0,1800.0,1,['Representative'],['MD'],['Federalist'],4-4
+C000851,Samuel,Crafts,Chandler,,1768.0,1853.0,5,"['Senator', 'Representative']",['VT'],"['Democratic Republican', 'Whig', 'Adams-Clay Republican']",15-27
+C000856,Hector,Craig,,,1775.0,1842.0,2,['Representative'],['NY'],"['Jackson Republican', 'Jacksonian']",18-21
+C000859,Robert,Craig,,,1792.0,1852.0,5,['Representative'],['VA'],"['Democrat', 'Jacksonian']",21-26
+C000863,William,Craik,,,1761.0,1814.0,3,['Representative'],['MD'],['Federalist'],4-6
+C000867,John,Cramer,,,1779.0,1870.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+C000872,Joseph,Crane,Halsey,,1782.0,1851.0,4,['Representative'],['OH'],"['Whig', 'Anti-Jacksonian']",21-24
+C000891,Joel,Crawford,,,1783.0,1858.0,2,['Representative'],['GA'],['Democratic Republican'],15-16
+C000893,Thomas,Crawford,Hartley,,1786.0,1863.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+C000895,William,Crawford,Harris,,1772.0,1834.0,4,['Senator'],['GA'],['Democratic Republican'],10-13
+C000894,William,Crawford,,,1760.0,1823.0,4,['Representative'],['PA'],['Democratic Republican'],11-14
+C000902,William,Creighton,,Jr.,1778.0,1851.0,5,['Representative'],['OH'],"['Democratic Republican', 'Adams', 'Anti-Jacksonian']",13-22
+C000910,Henry,Crist,,,1764.0,1844.0,1,['Representative'],['KY'],['Democratic Republican'],11-11
+C000912,John,Crittenden,Jordan,,1786.0,1863.0,12,"['Senator', 'Representative']",['KY'],"['Whig', 'Opposition', 'American (Know-Nothing)', 'Anti-Jacksonian', 'Democratic Republican', 'Unionist']",15-37
+C000914,Henry,Crocheron,,,1772.0,1819.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+C000915,Jacob,Crocheron,,,1774.0,1849.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+C000918,David,Crockett,,,1786.0,1836.0,3,['Representative'],['TN'],"['Jacksonian', 'Anti-Jacksonian']",20-23
+C000934,Edward,Crouch,,,1764.0,1827.0,1,['Representative'],['PA'],['Democratic Republican'],13-13
+C000942,John,Crowell,,,1780.0,1846.0,2,"['Delegate', 'Representative']",['AL'],['Democratic Republican'],15-16
+C000946,Benjamin,Crowninshield,Williams,,1772.0,1851.0,4,['Representative'],['MA'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-21
+C000947,Jacob,Crowninshield,,,1770.0,1808.0,3,['Representative'],['MA'],['Democratic Republican'],8-10
+C000953,Josiah,Crudup,,,1791.0,1872.0,1,['Representative'],['NC'],['Democratic Republican'],17-17
+C000954,Daniel,Cruger,,,1780.0,1843.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+C000956,George,Crump,William,,1786.0,1848.0,1,['Representative'],['VA'],['Jacksonian'],19-19
+C000967,Thomas,Culbreth,,,1786.0,1843.0,2,['Representative'],['MD'],['Democratic Republican'],15-16
+C000976,John,Culpepper,,,1761.0,1841.0,6,['Representative'],['NC'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",10-20
+C001019,John,Cushman,Paine,,1784.0,1848.0,1,['Representative'],['NY'],['Federalist'],15-15
+C001020,Joshua,Cushman,,,1761.0,1834.0,3,['Representative'],"['ME', 'MA']","['Democratic Republican', 'Adams-Clay Republican']",16-18
+C001023,Alfred,Cuthbert,,,1785.0,1856.0,10,"['Senator', 'Representative']",['GA'],"['Democratic Republican', 'Jacksonian', 'Democrat', 'Crawford Republican']",13-27
+C001024,John,Cuthbert,Alfred,,1788.0,1881.0,1,['Representative'],['GA'],['Democratic Republican'],16-16
+C001026,Manasseh,Cutler,,,1742.0,1823.0,2,['Representative'],['MA'],['Federalist'],7-8
+C001031,Charles,Cutts,,,1769.0,1846.0,3,['Senator'],['NH'],['Democratic Republican'],11-13
+C001033,Richard,Cutts,,,1771.0,1845.0,6,['Representative'],['MA'],['Democratic Republican'],7-12
+D000002,David,Daggett,,,1764.0,1851.0,3,['Senator'],['CT'],['Federalist'],13-15
+D000011,George,Dallas,Mifflin,,1792.0,1864.0,1,['Senator'],['PA'],['Jacksonian'],22-22
+D000013,Tristram,Dalton,,,1738.0,1817.0,1,['Senator'],['MA'],['Pro-Administration'],1-1
+D000024,Samuel,Dana,Whittlesey,,1760.0,1830.0,14,"['Senator', 'Representative']",['CT'],['Federalist'],4-16
+D000023,Samuel,Dana,,,1767.0,1835.0,1,['Representative'],['MA'],['Democratic Republican'],13-13
+D000026,Joseph,Dane,,,1778.0,1858.0,2,['Representative'],['ME'],['Federalist'],16-17
+D000033,Henry,Daniel,,,1786.0,1873.0,3,['Representative'],['KY'],['Jacksonian'],20-22
+D000047,Ezra,Darby,,,1768.0,1808.0,2,['Representative'],['NJ'],['Democratic Republican'],9-10
+D000056,Edward,Darlington,,,1795.0,1884.0,3,['Representative'],['PA'],['Anti-Masonic'],23-25
+D000057,Isaac,Darlington,,,1781.0,1839.0,1,['Representative'],['PA'],['Federalist'],15-15
+D000059,William,Darlington,,,1782.0,1863.0,3,['Representative'],['PA'],['Democratic Republican'],14-17
+D000069,Franklin,Davenport,,,1755.0,1832.0,2,"['Senator', 'Representative']",['NJ'],['Federalist'],5-6
+D000073,James,Davenport,,,1758.0,1797.0,2,['Representative'],['CT'],['Federalist'],4-5
+D000076,John,Davenport,,,1788.0,1855.0,1,['Representative'],['OH'],['Adams'],20-20
+D000075,John,Davenport,,,1752.0,1830.0,9,['Representative'],['CT'],['Federalist'],6-14
+D000079,Thomas,Davenport,,,,1838.0,5,['Representative'],['VA'],"['Jacksonian', 'Anti-Jacksonian']",19-23
+D000087,William,Davidson,,,1778.0,1857.0,2,['Representative'],['NC'],['Federalist'],15-16
+D000092,Amos,Davis,,,1794.0,1835.0,1,['Representative'],['KY'],['Anti-Jacksonian'],23-23
+D000117,John,Davis,,,1787.0,1854.0,12,"['Senator', 'Representative']",['MA'],"['Whig', 'Adams', 'Anti-Jacksonian']",19-32
+D000133,Roger,Davis,,,1762.0,1815.0,2,['Representative'],['PA'],['Democratic Republican'],12-13
+D000134,Samuel,Davis,,,1774.0,1831.0,1,['Representative'],['MA'],['Federalist'],13-13
+D000138,Thomas,Davis,Terry,,,1807.0,3,['Representative'],['KY'],['Democratic Republican'],5-7
+D000142,Warren,Davis,Ransom,,1793.0,1835.0,4,['Representative'],['SC'],"['Jacksonian', 'Nullifier']",20-23
+D000151,John,Dawson,,,1762.0,1814.0,10,"['Delegate', 'Representative']",['VA'],['Democratic Republican'],1-13
+D000157,William,Dawson,Johnson,,,1798.0,1,['Representative'],['NC'],['Anti-Administration'],3-3
+D000159,Rowland,Day,,,1779.0,1853.0,2,['Representative'],['NY'],"['Jacksonian', 'Crawford Republican']",18-23
+D000162,Charles,Dayan,,,1792.0,1877.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+D000165,Jonathan,Dayton,,,1760.0,1824.0,8,"['Senator', 'Delegate', 'Representative']",['NJ'],['Federalist'],1-8
+D000193,John,De Graff,Isaac,,1783.0,1848.0,2,['Representative'],['NY'],"['Democrat', 'Jacksonian']",20-25
+D000284,Charles,De Witt,Gerrit,,1789.0,1839.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+D000287,Jacob,De Witt,Hasbrouck,,1784.0,1857.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+D000295,James,De Wolf,,,1764.0,1837.0,3,['Senator'],['RI'],"['Democratic Republican', 'Crawford Republican']",17-19
+D000173,Josiah,Dean,,,1748.0,1818.0,1,['Representative'],['MA'],['Democratic Republican'],10-10
+D000179,Henry,Dearborn,Alexander Scammell,,1783.0,1851.0,1,['Representative'],['MA'],['Anti-Jacksonian'],22-22
+D000178,Henry,Dearborn,,,1751.0,1829.0,2,['Representative'],['MA'],"['Democratic Republican', 'Anti-Administration']",3-4
+D000181,Edmund,Deberry,,,1787.0,1859.0,8,['Representative'],['NC'],"['Whig', 'Anti-Jacksonian']",21-31
+D000226,Benjamin,Deming,F.,,1790.0,1834.0,1,['Representative'],['VT'],['Anti-Masonic'],23-23
+D000238,George,Denison,,,1790.0,1831.0,2,['Representative'],['PA'],['Democratic Republican'],16-17
+D000240,William,Denning,,,1740.0,1819.0,1,['Representative'],['NY'],['Democratic Republican'],11-11
+D000243,John,Dennis,,,1771.0,1806.0,4,['Representative'],['MD'],['Federalist'],5-8
+D000245,Littleton,Dennis,Purnell,,1786.0,1834.0,1,['Representative'],['MD'],['Anti-Jacksonian'],23-23
+D000248,Harmar,Denny,,,1794.0,1852.0,4,['Representative'],['PA'],['Anti-Masonic'],21-24
+D000252,Peter,Denoyelles,,,1766.0,1829.0,1,['Representative'],['NY'],['Democratic Republican'],13-13
+D000254,George,Dent,,,1756.0,1813.0,4,['Representative'],['MD'],"['Federalist', 'Pro-Administration']",3-6
+D000271,Joseph,Desha,,,1768.0,1842.0,6,['Representative'],['KY'],['Democratic Republican'],10-15
+D000272,Robert,Desha,,,1791.0,1849.0,2,['Representative'],['TN'],['Jacksonian'],20-21
+D000273,Jean,Destrehan,Noel,,1754.0,1823.0,1,['Senator'],['LA'],['Unknown'],12-12
+D000289,Lewis,Dewart,,,1780.0,1852.0,1,['Representative'],['PA'],['Jacksonian'],22-22
+D000293,Daniel,Dewey,,,1766.0,1815.0,1,['Representative'],['MA'],['Federalist'],13-13
+D000296,Samuel,Dexter,,,1761.0,1816.0,2,"['Senator', 'Representative']",['MA'],['Federalist'],3-6
+D000306,Samuel,Dickens,,,,1840.0,1,['Representative'],['NC'],['Democratic Republican'],14-14
+D000308,Mahlon,Dickerson,,,1770.0,1853.0,8,['Senator'],['NJ'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",15-22
+D000309,Philemon,Dickerson,,,1788.0,1862.0,3,['Representative'],['NJ'],"['Democrat', 'Jacksonian']",23-26
+D000318,David,Dickinson,W.,,1808.0,1845.0,2,['Representative'],['TN'],"['Whig', 'Jacksonian']",23-28
+D000322,John,Dickinson,Dean,,1767.0,1841.0,4,['Representative'],['NY'],"['Adams', 'Federalist', 'Anti-Jacksonian']",16-21
+D000324,Philemon,Dickinson,,,1739.0,1809.0,3,"['Senator', 'Delegate']","['DE', 'NJ']",['Pro-Administration'],1-2
+D000330,John,Dickson,,,1783.0,1852.0,2,['Representative'],['NY'],['Anti-Masonic'],22-23
+D000331,Joseph,Dickson,,,1745.0,1825.0,1,['Representative'],['NC'],['Federalist'],6-6
+D000333,William,Dickson,,,1770.0,1816.0,3,['Representative'],['TN'],['Democratic Republican'],7-9
+D000342,William,Dietz,,,1778.0,1848.0,1,['Representative'],['NY'],['Jacksonian'],19-19
+D000357,Samuel,Dinsmoor,,,1766.0,1835.0,1,['Representative'],['NH'],['Democratic Republican'],12-12
+D000391,Philip,Doddridge,,,1773.0,1832.0,2,['Representative'],['VA'],['Anti-Jacksonian'],21-22
+D000437,Clement,Dorsey,,,1778.0,1848.0,3,['Representative'],['MD'],"['Adams', 'Anti-Jacksonian']",19-21
+D000444,Ulysses,Doubleday,Freeman,,1792.0,1866.0,2,['Representative'],['NY'],['Jacksonian'],22-24
+D000477,Edward,Dowse,,,1756.0,1828.0,1,['Representative'],['MA'],['Democratic Republican'],16-16
+D000485,John,Drake,Reuben,,1782.0,1857.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+D000487,Joseph,Draper,,,1794.0,1834.0,2,['Representative'],['VA'],['Jacksonian'],21-22
+D000490,William,Drayton,,,1776.0,1846.0,4,['Representative'],['SC'],['Jacksonian'],19-22
+D000511,Charles,Dudley,Edward,,1780.0,1841.0,3,['Senator'],['NY'],['Jacksonian'],20-22
+D000512,Edward,Dudley,Bishop,,1789.0,1855.0,1,['Representative'],['NC'],['Jacksonian'],21-21
+D000535,Joseph,Duncan,,,1794.0,1844.0,4,['Representative'],['IL'],['Jacksonian'],20-23
+D000544,William,Dunlap,Claiborne,,1798.0,1872.0,2,['Representative'],['TN'],['Jacksonian'],23-24
+D000565,Daniel,Durell,Meserve,,1769.0,1841.0,1,['Representative'],['NH'],['Democratic Republican'],10-10
+D000568,Job,Durfee,,,1790.0,1847.0,2,['Representative'],['RI'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+D000577,William,Duval,Pope,,1784.0,1854.0,1,['Representative'],['KY'],['Democratic Republican'],13-13
+D000578,Gabriel,Duvall,,,1752.0,1844.0,2,['Representative'],['MD'],"['Democratic Republican', 'Anti-Administration']",3-4
+D000579,Henry,Dwight,Williams,,1788.0,1845.0,5,['Representative'],['MA'],"['Adams', 'Adams-Clay Federalist', 'Federalist', 'Anti-Jacksonian']",17-21
+D000582,Theodore,Dwight,,,1764.0,1846.0,1,['Representative'],['CT'],['Federalist'],9-9
+D000583,Thomas,Dwight,,,1758.0,1819.0,1,['Representative'],['MA'],['Federalist'],8-8
+D000584,Justin,Dwinell,,,1785.0,1850.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+E000002,Samuel,Eager,Watkins,,1789.0,1860.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+E000007,Elias,Earle,,,1762.0,1823.0,5,['Representative'],['SC'],['Democratic Republican'],9-16
+E000008,John,Earle,Baylis,,1766.0,1836.0,1,['Representative'],['SC'],['Democratic Republican'],8-8
+E000010,Samuel,Earle,,,1760.0,1833.0,1,['Representative'],['SC'],['Democratic Republican'],4-4
+E000011,Jonas,Earll,,Jr.,1786.0,1846.0,2,['Representative'],['NY'],['Jacksonian'],20-21
+E000014,Peter,Early,,,1773.0,1817.0,3,['Representative'],['GA'],['Democratic Republican'],7-9
+E000021,Nehemiah,Eastman,,,1782.0,1856.0,1,['Representative'],['NH'],['Adams'],19-19
+E000022,Rufus,Easton,,,1774.0,1834.0,2,['Delegate'],['MO'],[],13-14
+E000024,John,Eaton,Henry,,1790.0,1856.0,7,['Senator'],['TN'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",15-21
+E000025,Lewis,Eaton,,,1789.0,1857.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+E000040,Samuel,Eddy,,,1769.0,1839.0,3,['Representative'],['RI'],"['Democratic Republican', 'Adams-Clay Republican']",16-18
+E000052,William,Edmond,,,1755.0,1838.0,2,['Representative'],['CT'],['Federalist'],5-6
+E000060,Benjamin,Edwards,,,1753.0,1829.0,1,['Representative'],['MD'],['Pro-Administration'],3-3
+E000070,Henry,Edwards,Waggaman,,1779.0,1847.0,4,"['Senator', 'Representative']",['CT'],"['Democratic Republican', 'Jackson Republican']",16-19
+E000075,John,Edwards,,,1748.0,1837.0,2,['Senator'],['KY'],['Anti-Administration'],2-3
+E000078,Ninian,Edwards,,,1775.0,1833.0,4,['Senator'],['IL'],"['Democratic Republican', 'Adams-Clay Republican']",15-18
+E000080,Samuel,Edwards,,,1785.0,1850.0,4,['Representative'],['PA'],"['Jackson Federalist', 'Jacksonian', 'Federalist']",16-19
+E000083,Weldon,Edwards,Nathaniel,,1788.0,1873.0,6,['Representative'],['NC'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",14-19
+E000089,George,Ege,,,1748.0,1829.0,2,['Representative'],['PA'],['Federalist'],4-5
+E000091,Joseph,Eggleston,,,1754.0,1811.0,2,['Representative'],['VA'],['Democratic Republican'],5-6
+E000114,Christopher,Ellery,,,1768.0,1840.0,2,['Senator'],['RI'],['Democratic Republican'],7-8
+E000118,Benjamin,Ellicott,,,1765.0,1827.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+E000122,James,Elliot,,,1775.0,1839.0,3,['Representative'],['VT'],['Federalist'],8-10
+E000124,John,Elliott,,,1773.0,1827.0,3,['Senator'],['GA'],"['Democratic Republican', 'Crawford Republican']",16-18
+E000130,Caleb,Ellis,,,1767.0,1816.0,1,['Representative'],['NH'],['Federalist'],9-9
+E000136,Powhatan,Ellis,,,1790.0,1863.0,4,['Senator'],['MS'],['Jacksonian'],19-22
+E000137,William,Ellis,Cox,,1787.0,1871.0,2,['Representative'],['PA'],"['Democratic Republican', 'Jackson Federalist']",17-18
+E000147,Oliver,Ellsworth,,,1745.0,1807.0,6,"['Senator', 'Delegate']",['CT'],['Pro-Administration'],1-4
+E000150,William,Ellsworth,Wolcott,,1791.0,1868.0,3,['Representative'],['CT'],['Anti-Jacksonian'],21-23
+E000153,Lucas,Elmendorf,Conrad,,1758.0,1843.0,3,['Representative'],['NY'],['Democratic Republican'],5-7
+E000154,Ebenezer,Elmer,,,1752.0,1843.0,3,['Representative'],['NJ'],['Democratic Republican'],7-9
+E000155,Jonathan,Elmer,,,1745.0,1817.0,3,"['Senator', 'Delegate']",['NJ'],['Pro-Administration'],1-2
+E000168,William,Ely,,,1765.0,1817.0,5,['Representative'],['MA'],['Federalist'],9-13
+E000176,James,Emott,,,1771.0,1850.0,2,['Representative'],['NY'],['Federalist'],11-12
+E000197,John,Eppes,Wayles,,1773.0,1823.0,7,"['Senator', 'Representative']",['VA'],['Democratic Republican'],8-16
+E000209,James,Ervin,,,1778.0,1838.0,2,['Representative'],['SC'],['Democratic Republican'],15-16
+E000223,Benjamin,Estil,,,1780.0,1853.0,1,['Representative'],['VA'],['Adams'],19-19
+E000230,William,Eustis,,,1753.0,1825.0,4,['Representative'],['MA'],['Democratic Republican'],7-17
+E000238,David,Evans,Reid,,1769.0,1843.0,1,['Representative'],['SC'],['Democratic Republican'],13-13
+E000241,George,Evans,,,1797.0,1867.0,9,"['Senator', 'Representative']",['ME'],"['Whig', 'Anti-Jacksonian']",21-29
+E000248,Joshua,Evans,,Jr.,1777.0,1846.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+E000257,Thomas,Evans,,,1755.0,1815.0,2,['Representative'],['VA'],['Federalist'],5-6
+E000264,Edward,Everett,,,1794.0,1865.0,6,"['Senator', 'Representative']",['MA'],"['Whig', 'Adams', 'Anti-Jacksonian']",19-33
+E000265,Horace,Everett,,,1779.0,1851.0,7,['Representative'],['VT'],"['Whig', 'Anti-Jacksonian']",21-27
+E000277,John,Ewing,,,1789.0,1858.0,2,['Representative'],['IN'],"['Whig', 'Anti-Jacksonian']",23-25
+E000281,Thomas,Ewing,,,1789.0,1871.0,4,['Senator'],['OH'],['Anti-Jacksonian'],22-31
+F000032,Patrick,Farrelly,,,1770.0,1826.0,3,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+F000036,Samuel,Farrow,,,1759.0,1824.0,1,['Representative'],['SC'],['Democratic Republican'],13-13
+F000052,John,Fay,,,1773.0,1855.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+F000054,Paul,Fearing,,,1762.0,1822.0,1,['Delegate'],['OH'],['Federalist'],7-7
+F000064,John,Felder,Myers,,1782.0,1851.0,2,['Representative'],['SC'],"['Jacksonian', 'Nullifier']",22-23
+F000074,James,Fenner,,,1771.0,1846.0,2,['Senator'],['RI'],['Democratic Republican'],9-10
+F000090,Charles,Ferris,Goadsby,,1796.0,1848.0,2,['Representative'],['NY'],"['Democrat', 'Jacksonian']",23-27
+F000100,William,Few,,,1748.0,1828.0,4,"['Senator', 'Delegate']",['GA'],['Anti-Administration'],1-2
+F000115,Millard,Fillmore,,,1800.0,1874.0,4,['Representative'],['NY'],"['Whig', 'Anti-Masonic']",23-27
+F000117,Isaac,Finch,,,1783.0,1845.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+F000119,James,Findlay,,,1770.0,1835.0,4,['Representative'],['OH'],['Jacksonian'],19-22
+F000120,John,Findlay,,,1766.0,1838.0,3,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+F000122,William,Findlay,,,1768.0,1846.0,3,['Senator'],['PA'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+F000124,William,Findley,,,1741.0,1821.0,11,['Representative'],['PA'],"['Democratic Republican', 'Anti-Administration']",2-14
+F000144,Charles,Fisher,,,1789.0,1849.0,3,['Representative'],['NC'],"['Democratic Republican', 'Democrat']",15-26
+F000146,George,Fisher,,,1788.0,1861.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+F000154,James,Fisk,,,1763.0,1844.0,5,"['Senator', 'Representative']",['VT'],['Democratic Republican'],9-15
+F000155,Jonathan,Fisk,,,1778.0,1832.0,3,['Representative'],['NY'],['Democratic Republican'],11-14
+F000156,Asa,Fitch,,,1765.0,1843.0,1,['Representative'],['NY'],['Federalist'],12-12
+F000168,William,Fitzgerald,,,1799.0,1864.0,1,['Representative'],['TN'],['Jacksonian'],22-22
+F000178,Thomas,Fitzsimons,,,1741.0,1811.0,4,"['Delegate', 'Representative']",['PA'],['Pro-Administration'],1-3
+F000204,Thomas,Fletcher,,,1779.0,,1,['Representative'],['KY'],['Democratic Republican'],14-14
+F000221,John,Floyd,,,1783.0,1837.0,6,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",15-20
+F000220,John,Floyd,,,1769.0,1839.0,1,['Representative'],['GA'],['Jacksonian'],20-20
+F000224,William,Floyd,,,1734.0,1821.0,4,"['Delegate', 'Representative']",['NY'],['Anti-Administration'],1-2
+F000242,Walter,Folger,,Jr.,1765.0,1849.0,2,['Representative'],['MA'],['Democratic Republican'],15-16
+F000247,Samuel,Foot,Augustus,,1780.0,1846.0,6,"['Senator', 'Representative']",['CT'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",16-23
+F000249,Charles,Foote,Augustus,,1785.0,1828.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+F000263,James,Ford,,,1783.0,1859.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+F000269,William,Ford,Donnison,,1779.0,1833.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+F000273,John,Forester,B.,,,1845.0,2,['Representative'],['TN'],"['Jacksonian', 'Anti-Jacksonian']",23-24
+F000278,Daniel,Forney,Munroe,,1784.0,1847.0,2,['Representative'],['NC'],['Democratic Republican'],14-15
+F000279,Peter,Forney,,,1756.0,1834.0,1,['Representative'],['NC'],['Democratic Republican'],13-13
+F000281,Thomas,Forrest,,,1747.0,1825.0,2,['Representative'],['PA'],['Federalist'],16-17
+F000282,Uriah,Forrest,,,1756.0,1805.0,2,"['Delegate', 'Representative']",['MD'],['Pro-Administration'],1-3
+F000284,John,Forsyth,,,1780.0,1841.0,10,"['Senator', 'Representative']",['GA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",13-23
+F000289,Tomlinson,Fort,,,1787.0,1859.0,1,['Representative'],['GA'],['Jacksonian'],20-20
+F000290,Chauncey,Forward,,,1793.0,1839.0,3,['Representative'],['PA'],['Jacksonian'],19-21
+F000291,Walter,Forward,,,1786.0,1852.0,2,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican']",17-18
+F000292,Nicoll,Fosdick,,,1785.0,1868.0,1,['Representative'],['NY'],['Adams'],19-19
+F000297,Abiel,Foster,,,1735.0,1806.0,6,"['Delegate', 'Representative']",['NH'],"['Pro-Administration', 'Federalist']",1-7
+F000301,Dwight,Foster,,,1757.0,1823.0,6,"['Senator', 'Representative']",['MA'],['Federalist'],3-7
+F000313,Theodore,Foster,,,1752.0,1828.0,7,['Senator'],['RI'],"['Pro-Administration', 'Federalist']",1-7
+F000314,Thomas,Foster,Flournoy,,1790.0,1848.0,4,['Representative'],['GA'],"['Whig', 'Jacksonian']",21-27
+F000322,John,Fowler,,,1755.0,1840.0,5,['Representative'],['KY'],['Democratic Republican'],5-9
+F000327,Samuel,Fowler,,,1779.0,1844.0,2,['Representative'],['NJ'],['Jacksonian'],23-24
+F000344,Jesse,Franklin,,,1760.0,1823.0,7,"['Senator', 'Representative']",['NC'],['Democratic Republican'],4-12
+F000346,Meshack,Franklin,,,1772.0,1839.0,4,['Representative'],['NC'],['Democratic Republican'],10-13
+F000364,Jonathan,Freeman,,,1745.0,1808.0,2,['Representative'],['NH'],['Federalist'],5-6
+F000365,Nathaniel,Freeman,,Jr.,1766.0,1800.0,2,['Representative'],['MA'],"['Democratic Republican', 'Federalist']",4-5
+F000368,Frederick,Frelinghuysen,,,1753.0,1804.0,3,"['Senator', 'Delegate']",['NJ'],['Pro-Administration'],2-4
+F000373,Theodore,Frelinghuysen,,,1787.0,1862.0,3,['Senator'],['NJ'],['Anti-Jacksonian'],21-23
+F000389,Eligius,Fromentin,,,,1822.0,3,['Senator'],['LA'],['Democratic Republican'],13-15
+F000391,Joel,Frost,,,1765.0,1827.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+F000397,Joseph,Fry,,Jr.,1781.0,1860.0,2,['Representative'],['PA'],['Jacksonian'],20-21
+F000411,Philo,Fuller,Case,,1787.0,1855.0,2,['Representative'],['NY'],"['Anti-Jacksonian', 'Anti-Masonic']",23-24
+F000413,Timothy,Fuller,,,1778.0,1835.0,4,['Representative'],['MA'],"['Democratic Republican', 'Adams-Clay Republican']",15-18
+F000415,William,Fuller,Kendall,,1792.0,1883.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+F000416,David,Fullerton,,,1772.0,1843.0,1,['Representative'],['PA'],['Democratic Republican'],16-16
+F000423,John,Fulton,Hall,,,1836.0,1,['Representative'],['VA'],['Jacksonian'],23-23
+G000003,Joshua,Gage,,,1763.0,1831.0,1,['Representative'],['MA'],['Democratic Republican'],15-15
+G000005,John,Gaillard,,,1765.0,1826.0,12,['Senator'],['SC'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",8-19
+G000010,Nathan,Gaither,,,1788.0,1862.0,2,['Representative'],['KY'],['Jacksonian'],21-22
+G000011,John,Galbraith,,,1794.0,1860.0,3,['Representative'],['PA'],"['Democrat', 'Jacksonian']",23-26
+G000012,George,Gale,,,1756.0,1815.0,1,['Representative'],['MD'],['Pro-Administration'],1-1
+G000013,Levin,Gale,,,1784.0,1834.0,1,['Representative'],['MD'],['Jacksonian'],20-20
+G000020,Albert,Gallatin,,,1761.0,1849.0,3,['Representative'],['PA'],['Democratic Republican'],4-6
+G000033,Roger,Gamble,Lawson,,1787.0,1847.0,2,['Representative'],['GA'],"['Whig', 'Jacksonian']",23-27
+G000039,Barzillai,Gannett,,,1764.0,,1,['Representative'],['MA'],['Democratic Republican'],11-11
+G000049,Barent,Gardenier,,,1776.0,1822.0,2,['Representative'],['NY'],['Federalist'],10-11
+G000052,Francis,Gardner,,,1771.0,1835.0,1,['Representative'],['NH'],['Democratic Republican'],10-10
+G000054,Gideon,Gardner,,,1759.0,1832.0,1,['Representative'],['MA'],['Democratic Republican'],11-11
+G000066,David,Garland,Shepherd,,1769.0,1841.0,1,['Representative'],['VA'],['Democratic Republican'],11-11
+G000070,Rice,Garland,,,1795.0,1861.0,4,['Representative'],['LA'],"['Whig', 'Anti-Jacksonian']",23-26
+G000075,James,Garnett,Mercer,,1770.0,1843.0,2,['Representative'],['VA'],['Democratic Republican'],9-10
+G000077,Robert,Garnett,Selden,,1789.0,1840.0,5,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",15-19
+G000078,Daniel,Garnsey,Greene,,1779.0,1851.0,2,['Representative'],['NY'],['Adams'],19-20
+G000083,Daniel,Garrison,,,1782.0,1851.0,2,['Representative'],['NJ'],"['Jackson Republican', 'Jacksonian']",18-19
+G000085,Nathaniel,Garrow,,,1780.0,1841.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+G000096,William,Gaston,,,1778.0,1844.0,2,['Representative'],['NC'],['Federalist'],13-14
+G000099,Alfred,Gatlin,Moore,,1790.0,1841.0,1,['Representative'],['NC'],['Crawford Republican'],18-18
+G000109,James,Gazlay,William,,1784.0,1874.0,1,['Representative'],['OH'],['Jackson Republican'],18-18
+G000114,John,Gebhard,,,1782.0,1854.0,1,['Representative'],['NY'],['Federalist'],17-17
+G000116,James,Geddes,,,1763.0,1838.0,1,['Representative'],['NY'],['Federalist'],13-13
+G000136,Obadiah,German,,,1766.0,1842.0,3,['Senator'],['NY'],['Democratic Republican'],11-13
+G000139,Elbridge,Gerry,,,1744.0,1814.0,4,"['Delegate', 'Representative']",['MA'],['Anti-Administration'],1-2
+G000148,James,Gholson,Herbert,,1798.0,1848.0,1,['Representative'],['VA'],['Anti-Jacksonian'],23-23
+G000150,Thomas,Gholson,,Jr.,1780.0,1816.0,5,['Representative'],['VA'],['Democratic Republican'],10-14
+G000173,Ezekiel,Gilbert,,,1756.0,1841.0,2,['Representative'],['NY'],"['Pro-Administration', 'Federalist']",3-4
+G000178,Sylvester,Gilbert,,,1755.0,1846.0,1,['Representative'],['CT'],['Democratic Republican'],15-15
+G000183,William,Giles,Branch,,1762.0,1830.0,12,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Anti-Administration']",1-13
+G000196,James,Gillespie,,,1747.0,1805.0,4,['Representative'],['NC'],"['Democratic Republican', 'Anti-Administration']",3-8
+G000200,Ransom,Gillet,Hooker,,1800.0,1876.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+G000211,Alexander,Gillon,,,1741.0,1794.0,1,['Representative'],['SC'],['Anti-Administration'],3-3
+G000215,Nicholas,Gilman,,,1755.0,1814.0,10,"['Senator', 'Delegate', 'Representative']",['NH'],"['Democratic Republican', 'Pro-Administration', 'Federalist']",1-13
+G000216,George,Gilmer,Rockingham,,1790.0,1859.0,3,['Representative'],['GA'],"['Democratic Republican', 'Jacksonian']",17-23
+G000222,John,Gilmore,,,1780.0,1845.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+G000227,Joseph,Gist,,,1775.0,1836.0,3,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+G000231,Hugh,Glasgow,,,1769.0,1818.0,2,['Representative'],['PA'],['Democratic Republican'],13-14
+G000235,Henry,Glen,,,1739.0,1814.0,4,['Representative'],['NY'],"['Pro-Administration', 'Federalist']",3-6
+G000241,John,Gloninger,,,1758.0,1836.0,1,['Representative'],['PA'],['Federalist'],13-13
+G000248,Calvin,Goddard,,,1768.0,1842.0,2,['Representative'],['CT'],['Federalist'],7-8
+G000257,Thomas,Gold,Ruggles,,1764.0,1827.0,3,['Representative'],['NY'],['Federalist'],11-14
+G000261,Charles,Goldsborough,,,1765.0,1834.0,6,['Representative'],['MD'],['Federalist'],9-14
+G000264,Robert,Goldsborough,Henry,,1779.0,1836.0,5,['Senator'],['MD'],"['Whig', 'Federalist', 'Anti-Jacksonian']",13-24
+G000279,Samuel,Goode,,,1756.0,1822.0,1,['Representative'],['VA'],['Democratic Republican'],6-6
+G000283,John,Goodenow,Milton,,1782.0,1838.0,1,['Representative'],['OH'],['Jacksonian'],21-21
+G000286,Benjamin,Goodhue,,,1748.0,1814.0,7,"['Senator', 'Representative']",['MA'],['Federalist'],1-6
+G000293,Chauncey,Goodrich,,,1759.0,1815.0,7,"['Senator', 'Representative']",['CT'],['Federalist'],4-13
+G000294,Elizur,Goodrich,,,1761.0,1849.0,1,['Representative'],['CT'],['Federalist'],6-6
+G000306,Peterson,Goodwyn,,,1745.0,1818.0,8,['Representative'],['VA'],['Democratic Republican'],8-15
+G000311,James,Gordon,,,1739.0,1810.0,2,['Representative'],['NY'],['Pro-Administration'],2-3
+G000319,William,Gordon,Fitzhugh,,1787.0,1858.0,3,['Representative'],['VA'],['Jacksonian'],21-23
+G000318,William,Gordon,,,1763.0,1802.0,2,['Representative'],['NH'],['Federalist'],5-6
+G000322,Christopher,Gore,,,1758.0,1827.0,2,['Senator'],['MA'],['Federalist'],13-14
+G000324,Benjamin,Gorham,,,1775.0,1855.0,5,['Representative'],['MA'],"['Democratic Republican', 'Adams', 'Anti-Jacksonian']",16-23
+G000345,Theodore,Gourdin,,,1764.0,1826.0,1,['Representative'],['SC'],['Democratic Republican'],13-13
+G000346,Andrew,Govan,Robison,,1794.0,1841.0,3,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+G000355,James,Graham,,,1793.0,1851.0,7,['Representative'],['NC'],"['Whig', 'Anti-Jacksonian']",23-29
+G000394,Edwin,Gray,,,1743.0,,7,['Representative'],['VA'],['Democratic Republican'],6-12
+G000398,John,Gray,Cowper,,1783.0,1823.0,1,['Representative'],['VA'],['Democratic Republican'],16-16
+G000404,William,Grayson,John,,1788.0,1863.0,2,['Representative'],['SC'],['Nullifier'],23-24
+G000403,William,Grayson,,,1740.0,1790.0,2,"['Senator', 'Delegate']",['VA'],['Anti-Administration'],1-1
+G000412,Innis,Green,,,1776.0,1839.0,2,['Representative'],['PA'],['Jacksonian'],20-21
+G000413,Isaiah,Green,Lewis,,1761.0,1841.0,3,['Representative'],['MA'],['Democratic Republican'],9-12
+G000427,Ray,Greene,,,1765.0,1849.0,3,['Senator'],['RI'],['Federalist'],5-7
+G000428,Thomas,Greene,Marston,,1758.0,1813.0,1,['Delegate'],['MS'],[],7-7
+G000434,Christopher,Greenup,,,1750.0,1818.0,3,['Representative'],['KY'],"['Democratic Republican', 'Anti-Administration']",2-4
+G000442,Andrew,Gregg,,,1755.0,1835.0,11,"['Senator', 'Representative']",['PA'],['Democratic Republican'],2-12
+G000451,George,Grennell,,Jr.,1786.0,1877.0,5,['Representative'],['MA'],"['Whig', 'Anti-Jacksonian']",21-25
+G000461,Isaac,Griffin,,,1756.0,1827.0,2,['Representative'],['PA'],['Democratic Republican'],13-14
+G000462,John,Griffin,King,,1789.0,1841.0,5,['Representative'],['SC'],"['Democrat', 'Nullifier']",22-26
+G000466,Samuel,Griffin,,,1746.0,1810.0,3,['Representative'],['VA'],"['Pro-Administration', 'Anti-Administration']",1-3
+G000467,Thomas,Griffin,,,1773.0,1837.0,1,['Representative'],['VA'],['Federalist'],8-8
+G000482,Gaylord,Griswold,,,1767.0,1809.0,1,['Representative'],['NY'],['Federalist'],8-8
+G000488,Roger,Griswold,,,1762.0,1812.0,5,['Representative'],['CT'],['Federalist'],4-8
+G000489,Stanley,Griswold,,,1763.0,1815.0,1,['Senator'],['OH'],['Democratic Republican'],11-11
+G000494,Ezra,Gross,Carter,,1787.0,1829.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+G000496,Samuel,Gross,,,1776.0,1839.0,2,['Representative'],['PA'],['Democratic Republican'],16-17
+G000498,Thomas,Grosvenor,Peabody,,1778.0,1817.0,3,['Representative'],['NY'],['Federalist'],12-14
+G000500,Jonathan,Grout,,,1737.0,1807.0,1,['Representative'],['MA'],['Anti-Administration'],1-1
+G000502,William,Grove,Barry,,1764.0,1818.0,6,['Representative'],['NC'],"['Pro-Administration', 'Federalist']",2-7
+G000509,Felix,Grundy,,,1777.0,1840.0,8,"['Senator', 'Representative']",['TN'],"['Democratic Republican', 'Jacksonian', 'Democrat']",12-26
+G000526,James,Gunn,,,1753.0,1801.0,6,['Senator'],['GA'],"['Federalist', 'Anti-Administration']",1-6
+G000529,Henry,Gurley,Hosford,,1788.0,1833.0,4,['Representative'],['LA'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-21
+G000539,James,Guyon,,Jr.,1778.0,1846.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+H000006,Aaron,Hackley,,Jr.,1783.0,1868.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+H000018,John,Hahn,,,1776.0,1823.0,1,['Representative'],['PA'],['Democratic Republican'],14-14
+H000022,William,Haile,,,1797.0,1837.0,2,['Representative'],['MS'],['Jacksonian'],19-20
+H000038,Salma,Hale,,,1787.0,1866.0,1,['Representative'],['NH'],['Democratic Republican'],15-15
+H000039,William,Hale,,,1765.0,1848.0,3,['Representative'],['NH'],['Federalist'],11-14
+H000045,Bolling,Hall,,,1767.0,1836.0,3,['Representative'],['GA'],['Democratic Republican'],12-14
+H000051,George,Hall,,,1770.0,1840.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+H000052,Hiland,Hall,,,1795.0,1885.0,6,['Representative'],['VT'],"['Whig', 'Anti-Jacksonian']",22-27
+H000056,Joseph,Hall,,,1793.0,1859.0,2,['Representative'],['ME'],['Jacksonian'],23-24
+H000064,Obed,Hall,,,1757.0,1828.0,1,['Representative'],['NH'],['Democratic Republican'],12-12
+H000072,Thomas,Hall,H.,,1773.0,1853.0,8,['Representative'],['NC'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",15-23
+H000076,Willard,Hall,,,1780.0,1875.0,2,['Representative'],['DE'],['Democratic Republican'],15-16
+H000078,William,Hall,,,1775.0,1856.0,1,['Representative'],['TN'],['Jacksonian'],22-22
+H000082,John,Hallock,,Jr.,1783.0,1840.0,2,['Representative'],['NY'],['Jacksonian'],19-20
+H000088,Jehiel,Halsey,Howell,,1788.0,1867.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+H000089,Nicoll,Halsey,,,1782.0,1865.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+H000090,Silas,Halsey,,,1743.0,1832.0,1,['Representative'],['NY'],['Democratic Republican'],9-9
+H000097,Thomas,Hamer,Lyon,,1800.0,1846.0,3,['Representative'],['OH'],"['Democrat', 'Jacksonian']",23-25
+H000110,James,Hamilton,,Jr.,1786.0,1857.0,4,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-20
+H000111,John,Hamilton,,,1754.0,1837.0,1,['Representative'],['PA'],['Democratic Republican'],9-9
+H000127,Jabez,Hammond,Delano,,1778.0,1855.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+H000133,Samuel,Hammond,,,1757.0,1842.0,1,['Representative'],['GA'],['Democratic Republican'],8-8
+H000137,Joseph,Hammons,,,1787.0,1836.0,2,['Representative'],['NH'],['Jacksonian'],21-22
+H000140,Wade,Hampton,,,1752.0,1835.0,2,['Representative'],['SC'],['Democratic Republican'],4-8
+H000148,George,Hancock,,,1754.0,1820.0,2,['Representative'],['VA'],"['Pro-Administration', 'Federalist']",3-4
+H000161,John,Hanna,Andre,,1762.0,1805.0,5,['Representative'],['PA'],['Democratic Republican'],5-9
+H000165,Robert,Hanna,,,1786.0,1858.0,1,['Senator'],['IN'],['Anti-Jacksonian'],22-22
+H000167,Edward,Hannegan,Allen,,1807.0,1859.0,5,"['Senator', 'Representative']",['IN'],"['Democrat', 'Jacksonian']",23-30
+H000176,Alexander,Hanson,Contee,,1786.0,1819.0,5,"['Senator', 'Representative']",['MD'],['Federalist'],13-16
+H000180,Gideon,Hard,,,1797.0,1885.0,2,['Representative'],['NY'],"['Anti-Jacksonian', 'Anti-Masonic']",23-24
+H000184,Benjamin,Hardin,,,1784.0,1852.0,5,['Representative'],['KY'],"['Democratic Republican', 'Anti-Jacksonian']",14-24
+H000186,Martin,Hardin,D.,,1780.0,1823.0,1,['Senator'],['KY'],['Federalist'],14-14
+H000221,James,Harper,,,1780.0,1873.0,2,['Representative'],['PA'],['Anti-Jacksonian'],23-24
+H000223,John,Harper,Adams,,1779.0,1816.0,1,['Representative'],['NH'],['Democratic Republican'],12-12
+H000224,Joseph,Harper,Morrill,,1787.0,1865.0,2,['Representative'],['NH'],['Jacksonian'],22-23
+H000225,Robert,Harper,Goodloe,,1765.0,1825.0,5,"['Senator', 'Representative']","['MD', 'SC']",['Federalist'],3-14
+H000226,William,Harper,,,1790.0,1847.0,1,['Senator'],['SC'],['Jacksonian'],19-19
+H000245,John,Harris,,,1760.0,1824.0,1,['Representative'],['NY'],['Democratic Republican'],10-10
+H000248,Mark,Harris,,,1779.0,1843.0,1,['Representative'],['ME'],['Democratic Republican'],17-17
+H000250,Robert,Harris,,,1768.0,1851.0,2,['Representative'],['PA'],"['Jackson Republican', 'Jacksonian']",18-19
+H000254,Thomas,Harris,K.,,,1816.0,1,['Representative'],['TN'],['Democratic Republican'],13-13
+H000266,Carter,Harrison,Bassett,,1756.0,1808.0,3,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",3-5
+H000276,Samuel,Harrison,Smith,,1780.0,1853.0,2,['Representative'],['PA'],['Jacksonian'],23-24
+H000279,William,Harrison,Henry,,1773.0,1841.0,5,"['Senator', 'Delegate', 'Representative']",['OH'],"['Democratic Republican', 'Adams']",6-20
+H000299,Thomas,Hartley,,,1748.0,1800.0,6,['Representative'],['PA'],"['Pro-Administration', 'Federalist']",1-6
+H000308,Jonathan,Harvey,,,1780.0,1859.0,3,['Representative'],['NH'],['Jacksonian'],19-21
+H000309,Matthew,Harvey,,,1781.0,1866.0,2,['Representative'],['NH'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+H000312,Abraham,Hasbrouck,Bruyn,,1791.0,1879.0,1,['Representative'],['NY'],['Adams'],19-19
+H000313,Abraham,Hasbrouck,Joseph,,1773.0,1845.0,1,['Representative'],['NY'],['Democratic Republican'],13-13
+H000314,Josiah,Hasbrouck,,,1755.0,1821.0,2,['Representative'],['NY'],['Democratic Republican'],8-15
+H000331,Seth,Hastings,,,1762.0,1831.0,3,['Representative'],['MA'],['Federalist'],7-9
+H000345,Samuel,Hathaway,Gilbert,,1780.0,1867.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+H000348,John,Hathorn,,,1749.0,1825.0,2,['Representative'],['NY'],"['Democratic Republican', 'Anti-Administration']",1-4
+H000354,Nathaniel,Haven,Appleton,,1762.0,1831.0,1,['Representative'],['NH'],['Federalist'],11-11
+H000359,Jonathan,Havens,Nicoll,,1757.0,1799.0,3,['Representative'],['NY'],['Democratic Republican'],4-6
+H000360,Albert,Hawes,Gallatin,,1804.0,1849.0,3,['Representative'],['KY'],['Jacksonian'],22-24
+H000361,Aylett,Hawes,,,1768.0,1833.0,3,['Representative'],['VA'],['Democratic Republican'],12-14
+H000366,James,Hawkes,,,1776.0,1865.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+H000368,Benjamin,Hawkins,,,1754.0,1816.0,4,"['Senator', 'Delegate']",['NC'],['Pro-Administration'],1-3
+H000372,Joseph,Hawkins,H.,,,1823.0,1,['Representative'],['KY'],['Democratic Republican'],13-13
+H000371,Joseph,Hawkins,,,1781.0,1832.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+H000373,Micajah,Hawkins,Thomas,,1790.0,1858.0,5,['Representative'],['NC'],"['Democrat', 'Jacksonian']",22-26
+H000387,Moses,Hayden,,,1786.0,1830.0,2,['Representative'],['NY'],"['Adams', 'Adams-Clay Republican']",18-19
+H000398,Robert,Hayne,Young,,1791.0,1839.0,5,['Senator'],['SC'],"['Jackson Republican', 'Jacksonian', 'Nullifier']",18-22
+H000399,Charles,Haynes,Eaton,,1784.0,1841.0,5,['Representative'],['GA'],"['Democrat', 'Jacksonian']",19-25
+H000410,William,Hayward,,Jr.,1787.0,1836.0,1,['Representative'],['MD'],['Crawford Republican'],18-18
+H000415,Nathaniel,Hazard,,,1776.0,1820.0,1,['Representative'],['RI'],['Democratic Republican'],16-16
+H000416,Abner,Hazeltine,,,1793.0,1879.0,2,['Representative'],['NY'],"['Anti-Jacksonian', 'Anti-Masonic']",23-24
+H000425,Joseph,Healy,,,1776.0,1861.0,2,['Representative'],['NH'],['Adams'],19-20
+H000430,James,Heath,P.,,1777.0,1854.0,1,['Representative'],['MD'],['Jacksonian'],23-23
+H000431,John,Heath,,,1758.0,1810.0,2,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",3-4
+H000464,William,Helms,,,,1813.0,5,['Representative'],['NJ'],['Democratic Republican'],7-11
+H000470,Joseph,Hemphill,,,1770.0,1842.0,6,['Representative'],['PA'],"['Jackson Federalist', 'Jacksonian', 'Federalist']",7-21
+H000472,Edward,Hempstead,,,1780.0,1817.0,2,['Delegate'],['MO'],[],12-13
+H000475,Archibald,Henderson,,,1768.0,1822.0,2,['Representative'],['NC'],['Federalist'],6-7
+H000476,Bennett,Henderson,H.,,1782.0,1849.0,1,['Representative'],['TN'],['Democratic Republican'],14-14
+H000486,Joseph,Henderson,,,1791.0,1863.0,2,['Representative'],['PA'],['Jacksonian'],23-24
+H000487,Samuel,Henderson,,,1764.0,1841.0,1,['Representative'],['PA'],['Federalist'],13-13
+H000488,Thomas,Henderson,,,1743.0,1824.0,1,['Representative'],['NJ'],['Federalist'],4-4
+H000494,William,Hendricks,,,1782.0,1850.0,10,"['Senator', 'Representative']",['IN'],['Adams'],14-24
+H000509,John,Henry,Flournoy,,1793.0,1873.0,1,['Representative'],['KY'],['Adams'],19-19
+H000508,John,Henry,,,1750.0,1798.0,7,"['Senator', 'Delegate']",['MD'],['Pro-Administration'],1-5
+H000517,Robert,Henry,Pryor,,1788.0,1826.0,2,['Representative'],['KY'],"['Jackson Republican', 'Jacksonian']",18-19
+H000525,John,Herbert,Carlyle,,1775.0,1846.0,2,['Representative'],['MD'],['Federalist'],14-15
+H000529,John,Herkimer,,,1773.0,1848.0,2,['Representative'],['NY'],"['Democratic Republican', 'Adams-Clay Republican']",15-18
+H000533,Joseph,Hernandez,Marion,,1788.0,1857.0,1,['Delegate'],['FL'],[],17-17
+H000538,Ebenezer,Herrick,,,1785.0,1839.0,3,['Representative'],['ME'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",17-19
+H000542,Samuel,Herrick,,,1779.0,1852.0,2,['Representative'],['OH'],['Democratic Republican'],15-16
+H000558,Jacob,Hibshman,,,1772.0,1852.0,1,['Representative'],['PA'],['Democratic Republican'],16-16
+H000570,Daniel,Hiester,,,1747.0,1804.0,6,['Representative'],"['PA', 'MD']","['Democratic Republican', 'Anti-Administration']",1-8
+H000571,Daniel,Hiester,,,1774.0,1834.0,1,['Representative'],['PA'],['Democratic Republican'],11-11
+H000573,John,Hiester,,,1745.0,1821.0,1,['Representative'],['PA'],['Democratic Republican'],10-10
+H000574,Joseph,Hiester,,,1752.0,1832.0,7,['Representative'],['PA'],['Democratic Republican'],5-16
+H000575,William,Hiester,,,1790.0,1853.0,3,['Representative'],['PA'],['Anti-Masonic'],22-24
+H000593,Isaac,Hill,,,1789.0,1851.0,3,['Senator'],['NH'],"['Democrat', 'Jacksonian']",22-24
+H000602,Mark,Hill,Langdon,,1772.0,1842.0,2,['Representative'],"['ME', 'MA']",['Democratic Republican'],16-17
+H000611,William,Hill,Henry,,1767.0,1809.0,2,['Representative'],['NC'],['Federalist'],6-7
+H000618,James,Hillhouse,,,1754.0,1832.0,11,"['Senator', 'Representative']",['CT'],['Federalist'],2-11
+H000629,William,Hindman,,,1743.0,1822.0,7,"['Senator', 'Delegate', 'Representative']",['MD'],"['Pro-Administration', 'Federalist']",1-7
+H000632,Thomas,Hinds,,,1780.0,1840.0,2,['Representative'],['MS'],['Jacksonian'],20-21
+H000634,Richard,Hines,,,,1851.0,1,['Representative'],['NC'],['Jacksonian'],19-19
+H000647,Peter,Hitchcock,,,1781.0,1853.0,1,['Representative'],['OH'],['Democratic Republican'],15-15
+H000659,Aaron,Hobart,,,1787.0,1858.0,4,['Representative'],['MA'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",16-19
+H000661,John,Hobart,Sloss,,1738.0,1805.0,1,['Senator'],['NY'],['Federalist'],5-5
+H000662,Selah,Hobbie,Reeve,,1797.0,1854.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+H000674,James,Hodges,Leonard,,1790.0,1846.0,3,['Representative'],['MA'],"['Adams', 'Anti-Jacksonian']",20-22
+H000688,Michael,Hoffman,,,1787.0,1848.0,4,['Representative'],['NY'],['Jacksonian'],19-22
+H000694,William,Hogan,,,1792.0,1874.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+H000695,John,Hoge,,,1760.0,1824.0,1,['Representative'],['PA'],['Democratic Republican'],8-8
+H000699,William,Hoge,,,1762.0,1814.0,3,['Representative'],['PA'],['Democratic Republican'],7-10
+H000700,James,Hogeboom,Lawrence,,1766.0,1839.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+H000705,Samuel,Hogg,,,1783.0,1842.0,1,['Representative'],['TN'],['Democratic Republican'],15-15
+H000711,George,Holcombe,,,1786.0,1828.0,4,['Representative'],['NJ'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-20
+H000715,Cornelius,Holland,,,1783.0,1870.0,2,['Representative'],['ME'],['Jacksonian'],21-22
+H000718,James,Holland,,,1754.0,1823.0,6,['Representative'],['NC'],['Democratic Republican'],4-11
+H000735,David,Holmes,,,1769.0,1832.0,10,"['Senator', 'Representative']","['VA', 'MS']","['Democratic Republican', 'Jackson Republican']",5-19
+H000737,Gabriel,Holmes,,,1769.0,1829.0,3,['Representative'],['NC'],['Jacksonian'],19-21
+H000739,John,Holmes,,,1773.0,1843.0,9,"['Senator', 'Representative']","['ME', 'MA']","['Democratic Republican', 'Adams Republican']",15-22
+H000743,Uriel,Holmes,,,1764.0,1827.0,1,['Representative'],['CT'],['Federalist'],15-15
+H000750,Samuel,Holten,,,1738.0,1816.0,3,"['Delegate', 'Representative']",['MA'],['Anti-Administration'],1-3
+H000761,Charles,Hooks,,,1768.0,1843.0,4,['Representative'],['NC'],"['Democratic Republican', 'Crawford Republican']",14-18
+H000780,Samuel,Hopkins,Miles,,1772.0,1837.0,1,['Representative'],['NY'],['Federalist'],13-13
+H000778,Samuel,Hopkins,,,1753.0,1819.0,1,['Representative'],['KY'],['Democratic Republican'],13-13
+H000784,Joseph,Hopkinson,,,1770.0,1842.0,2,['Representative'],['PA'],['Federalist'],14-15
+H000787,Henry,Horn,,,1786.0,1862.0,1,['Representative'],['PA'],['Jacksonian'],22-22
+H000795,Outerbridge,Horsey,,,1777.0,1842.0,6,['Senator'],['DE'],['Federalist'],11-16
+H000803,Hezekiah,Hosmer,Lord,,1765.0,1814.0,1,['Representative'],['NY'],['Federalist'],5-5
+H000806,Jacob,Hostetter,,,1754.0,1831.0,2,['Representative'],['PA'],['Democratic Republican'],15-16
+H000811,David,Hough,,,1753.0,1831.0,2,['Representative'],['NH'],['Federalist'],8-9
+H000827,Samuel,Houston,,,1793.0,1863.0,9,"['Senator', 'Representative']","['TN', 'TX']","['Democrat', 'American (Know-Nothing)', 'Jackson Republican', 'Jacksonian']",18-35
+H000835,Benjamin,Howard,Chew,,1791.0,1872.0,4,['Representative'],['MD'],"['Democrat', 'Jacksonian']",21-25
+H000834,Benjamin,Howard,,,1760.0,1814.0,2,['Representative'],['KY'],['Democratic Republican'],10-11
+H000841,John,Howard,Eager,,1752.0,1827.0,5,"['Senator', 'Delegate']",['MD'],['Federalist'],1-7
+H000860,Edward,Howell,,,1792.0,1871.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+H000865,Jeremiah,Howell,Brown,,1771.0,1822.0,3,['Senator'],['RI'],['Democratic Republican'],12-14
+H000867,Nathaniel,Howell,Woodhull,,1770.0,1851.0,1,['Representative'],['NY'],['Federalist'],13-13
+H000870,Benjamin,Howland,,,1755.0,1821.0,3,['Senator'],['RI'],['Democratic Republican'],8-10
+H000883,Henry,Hubbard,,,1784.0,1857.0,6,"['Senator', 'Representative']",['NH'],"['Democrat', 'Jacksonian']",21-26
+H000886,Jonathan,Hubbard,Hatch,,1768.0,1849.0,1,['Representative'],['VT'],['Federalist'],11-11
+H000887,Levi,Hubbard,,,1762.0,1836.0,1,['Representative'],['MA'],['Democratic Republican'],13-13
+H000890,Thomas,Hubbard,Hill,,1781.0,1857.0,2,['Representative'],['NY'],['Democratic Republican'],15-17
+H000914,Jacob,Hufty,,,1750.0,1814.0,3,['Representative'],['NJ'],"['Democratic Republican', 'Federalist']",11-13
+H000915,Benjamin,Huger,,,1768.0,1823.0,4,['Representative'],['SC'],['Federalist'],6-14
+H000916,Daniel,Huger,,,1742.0,1799.0,3,"['Delegate', 'Representative']",['SC'],['Pro-Administration'],1-2
+H000928,Thomas,Hughes,Hurst,,1769.0,1839.0,2,['Representative'],['NJ'],['Anti-Jacksonian'],21-22
+H000932,Daniel,Hugunin,,Jr.,1790.0,1850.0,1,['Representative'],['NY'],['Adams'],19-19
+H000935,John,Hulbert,Whitefield,,1770.0,1831.0,2,['Representative'],['MA'],['Federalist'],13-14
+H000950,Charles,Humphrey,,,1792.0,1850.0,1,['Representative'],['NY'],['Adams'],19-19
+H000957,Reuben,Humphrey,,,1757.0,1831.0,1,['Representative'],['NY'],['Democratic Republican'],10-10
+H000962,Parry,Humphreys,Wayne,,1778.0,1839.0,1,['Representative'],['TN'],['Democratic Republican'],13-13
+H000967,John,Hungerford,Pratt,,1761.0,1833.0,3,['Representative'],['VA'],['Democratic Republican'],12-14
+H000974,Jonathan,Hunt,,,1787.0,1832.0,3,['Representative'],['VT'],"['Adams', 'Anti-Jacksonian']",20-22
+H000976,Samuel,Hunt,,,1765.0,1807.0,2,['Representative'],['NH'],['Federalist'],7-8
+H000982,John,Hunter,,,1752.0,1802.0,3,"['Senator', 'Representative']",['SC'],['Democratic Republican'],3-5
+H000986,Narsworthy,Hunter,,,,1802.0,1,['Delegate'],['MS'],[],7-7
+H000990,William,Hunter,,,1754.0,1827.0,1,['Representative'],['VT'],['Democratic Republican'],15-15
+H000991,William,Hunter,,,1774.0,1849.0,5,['Senator'],['RI'],['Federalist'],12-16
+H000994,Abel,Huntington,,,1777.0,1858.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+H000995,Benjamin,Huntington,,,1736.0,1800.0,3,"['Delegate', 'Representative']",['CT'],['Pro-Administration'],1-2
+H000996,Ebenezer,Huntington,,,1754.0,1834.0,2,['Representative'],['CT'],['Federalist'],11-15
+H000997,Jabez,Huntington,Williams,,1788.0,1847.0,8,"['Senator', 'Representative']",['CT'],"['Whig', 'Anti-Jacksonian']",21-30
+H001026,John,Hyneman,M.,,1771.0,1816.0,2,['Representative'],['PA'],['Democratic Republican'],12-13
+I000006,Peter,Ihrie,,Jr.,1796.0,1871.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+I000009,Daniel,Ilsley,,,1740.0,1813.0,1,['Representative'],['MA'],['Democratic Republican'],10-10
+I000011,James,Imlay,Henderson,,1764.0,1823.0,2,['Representative'],['NJ'],['Federalist'],5-6
+I000014,William,Inge,Marshall,,1802.0,1846.0,1,['Representative'],['TN'],['Jacksonian'],23-23
+I000015,Charles,Ingersoll,Jared,,1782.0,1862.0,5,['Representative'],['PA'],"['Democratic Republican', 'Democrat']",13-30
+I000020,Ralph,Ingersoll,Isaacs,,1789.0,1872.0,4,['Representative'],['CT'],"['Adams', 'Anti-Jacksonian']",19-22
+I000022,Samuel,Ingham,Delucenna,,1779.0,1860.0,7,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",13-20
+I000028,James,Iredell,,,1788.0,1853.0,2,['Senator'],['NC'],['Jacksonian'],20-21
+I000034,William,Irvin,W.,,1779.0,1842.0,2,['Representative'],['OH'],['Jacksonian'],21-22
+I000035,William,Irvine,,,1741.0,1804.0,2,"['Delegate', 'Representative']",['PA'],['Anti-Administration'],1-3
+I000038,William,Irving,,,1766.0,1821.0,3,['Representative'],['NY'],['Democratic Republican'],13-15
+I000042,Jared,Irwin,,,1768.0,1818.0,2,['Representative'],['PA'],['Democratic Republican'],13-14
+I000043,Thomas,Irwin,,,1785.0,1870.0,1,['Representative'],['PA'],['Jacksonian'],21-21
+I000045,Jacob,Isacks,C.,,,,5,['Representative'],['TN'],"['Jackson Republican', 'Jacksonian']",18-22
+I000053,Ralph,Izard,,,1741.0,1804.0,4,"['Senator', 'Delegate']",['SC'],['Pro-Administration'],1-3
+J000005,Andrew,Jackson,,,1767.0,1845.0,4,"['Senator', 'Representative']",['TN'],['Democratic Republican'],4-19
+J000009,Ebenezer,Jackson,,Jr.,1796.0,1874.0,1,['Representative'],['CT'],['Anti-Jacksonian'],23-23
+J000010,Edward,Jackson,Brake,,1793.0,1826.0,2,['Representative'],['VA'],['Democratic Republican'],16-17
+J000012,George,Jackson,,,1757.0,1831.0,3,['Representative'],['VA'],['Democratic Republican'],4-7
+J000017,James,Jackson,,,1757.0,1806.0,6,"['Senator', 'Representative']",['GA'],"['Democratic Republican', 'Anti-Administration']",1-9
+J000021,John,Jackson,George,,1777.0,1825.0,6,['Representative'],['VA'],['Democratic Republican'],8-14
+J000025,Richard,Jackson,,Jr.,1764.0,1838.0,4,['Representative'],['RI'],['Federalist'],10-13
+J000028,William,Jackson,,,1783.0,1855.0,2,['Representative'],['MA'],['Anti-Masonic'],23-24
+J000036,Israel,Jacobs,,,1726.0,1796.0,1,['Representative'],['PA'],['Pro-Administration'],2-2
+J000056,Henry,Janes,Fisk,,1792.0,1879.0,2,['Representative'],['VT'],['Anti-Masonic'],23-24
+J000062,Leonard,Jarvis,,,1781.0,1854.0,4,['Representative'],['ME'],['Jacksonian'],21-24
+J000069,Thomas,Jefferson,,,1743.0,1826.0,2,['Delegate'],['VA'],[],1-2
+J000078,Daniel,Jenifer,,,1791.0,1855.0,4,['Representative'],['MD'],"['Whig', 'Anti-Jacksonian']",22-26
+J000085,Lemuel,Jenkins,,,1789.0,1862.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+J000087,Robert,Jenkins,,,1769.0,1848.0,2,['Representative'],['PA'],['Federalist'],10-11
+J000095,David,Jennings,,,1787.0,1834.0,1,['Representative'],['OH'],['Adams'],19-19
+J000097,Jonathan,Jennings,,,1784.0,1834.0,9,"['Delegate', 'Representative']",['IN'],"['Democratic Republican', 'Adams', 'Jackson Republican', 'Anti-Jacksonian']",11-21
+J000104,Freeborn,Jewett,Garrettson,,1791.0,1858.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+J000107,Luther,Jewett,,,1772.0,1860.0,1,['Representative'],['VT'],['Federalist'],14-14
+J000112,Kensey,Johns,,Jr.,1791.0,1857.0,2,['Representative'],['DE'],"['Adams', 'Anti-Jacksonian']",20-21
+J000122,Cave,Johnson,,,1793.0,1866.0,7,['Representative'],['TN'],"['Democrat', 'Jacksonian']",21-28
+J000123,Charles,Johnson,,,1752.0,1802.0,1,['Representative'],['NC'],['Democratic Republican'],7-7
+J000129,Francis,Johnson,,,1776.0,1842.0,4,['Representative'],['KY'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",16-19
+J000137,Henry,Johnson,,,1783.0,1864.0,10,"['Senator', 'Representative']",['LA'],"['Democratic Republican', 'Whig', 'Adams-Clay Republican', 'Anti-Jacksonian']",15-30
+J000142,James,Johnson,,,,1825.0,4,['Representative'],['VA'],['Democratic Republican'],13-16
+J000143,James,Johnson,,,1774.0,1826.0,1,['Representative'],['KY'],['Jacksonian'],19-19
+J000152,Jeromus,Johnson,,,1775.0,1846.0,2,['Representative'],['NY'],['Jacksonian'],19-20
+J000154,John,Johnson,Telemachus,,1788.0,1856.0,2,['Representative'],['KY'],"['Democratic Republican', 'Jackson Republican']",17-18
+J000155,Joseph,Johnson,,,1785.0,1877.0,7,['Representative'],['VA'],"['Democrat', 'Jackson Republican', 'Jacksonian']",18-29
+J000164,Noadiah,Johnson,,,1795.0,1839.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+J000170,Richard,Johnson,Mentor,,1780.0,1850.0,15,"['Senator', 'Representative']",['KY'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",10-24
+J000180,William,Johnson,Cost,,1806.0,1860.0,4,['Representative'],['MD'],"['Whig', 'Anti-Jacksonian']",23-27
+J000182,William,Johnson,Samuel,,1727.0,1819.0,3,"['Senator', 'Delegate']",['CT'],['Pro-Administration'],1-2
+J000185,Charles,Johnston,Clement,,1795.0,1832.0,1,['Representative'],['VA'],['Jacksonian'],22-22
+J000194,Josiah,Johnston,Stoddard,,1784.0,1833.0,7,"['Senator', 'Representative']",['LA'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",17-23
+J000198,Samuel,Johnston,,,1733.0,1816.0,3,"['Senator', 'Delegate']",['NC'],['Pro-Administration'],1-2
+J000212,Benjamin,Jones,,,1787.0,1861.0,2,['Representative'],['OH'],['Jacksonian'],23-24
+J000218,Francis,Jones,,,1788.0,1826.0,3,['Representative'],['TN'],['Democratic Republican'],15-17
+J000220,George,Jones,,,1766.0,1838.0,1,['Senator'],['GA'],['Democratic Republican'],10-10
+J000227,James,Jones,,,,1801.0,1,['Representative'],['GA'],['Federalist'],6-6
+J000228,James,Jones,,,1772.0,1848.0,2,['Representative'],['VA'],['Democratic Republican'],16-17
+J000252,Seaborn,Jones,,,1788.0,1864.0,2,['Representative'],['GA'],"['Democrat', 'Jacksonian']",23-29
+J000254,Walter,Jones,,,1745.0,1815.0,5,['Representative'],['VA'],['Democratic Republican'],5-11
+J000258,William,Jones,,,1760.0,1831.0,1,['Representative'],['PA'],['Democratic Republican'],7-7
+K000006,Elias,Kane,Kent,,1794.0,1835.0,6,['Senator'],['IL'],['Jacksonian'],19-24
+K000022,Edward,Kavanagh,,,1795.0,1844.0,2,['Representative'],['ME'],['Jacksonian'],22-23
+K000043,Richard,Keese,,,1794.0,1883.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+K000063,Charles,Kellogg,,,1773.0,1842.0,1,['Representative'],['NY'],['Jacksonian'],19-19
+K000073,James,Kelly,,,1760.0,1819.0,2,['Representative'],['PA'],['Federalist'],9-10
+K000079,William,Kelly,,,1786.0,1834.0,2,['Senator'],['AL'],"['Democratic Republican', 'Jacksonian']",17-18
+K000089,Thomas,Kenan,,,1771.0,1843.0,3,['Representative'],['NC'],['Democratic Republican'],9-11
+K000093,Jonas,Kendall,,,1757.0,1844.0,1,['Representative'],['MA'],['Federalist'],16-16
+K000094,Joseph,Kendall,Gowing,,1788.0,1847.0,2,['Representative'],['MA'],['Anti-Jacksonian'],21-22
+K000116,William,Kennedy,,,1768.0,1834.0,4,['Representative'],['NC'],"['Democratic Republican', 'Federalist']",8-13
+K000123,William,Kennon,,Sr.,1793.0,1881.0,3,['Representative'],['OH'],['Jacksonian'],21-24
+K000125,Joseph,Kent,,,1779.0,1837.0,9,"['Senator', 'Representative']",['MD'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",12-25
+K000126,Moss,Kent,,,1766.0,1838.0,2,['Representative'],['NY'],['Federalist'],13-14
+K000139,John,Kerr,Leeds,,1780.0,1844.0,5,"['Senator', 'Representative']",['MD'],"['Whig', 'Adams', 'Anti-Jacksonian']",19-27
+K000136,John,Kerr,,,1782.0,1842.0,2,['Representative'],['VA'],['Democratic Republican'],13-14
+K000141,Joseph,Kerr,,,1765.0,1837.0,1,['Senator'],['OH'],['Democratic Republican'],13-13
+K000149,John,Kershaw,,,1765.0,1829.0,1,['Representative'],['SC'],['Democratic Republican'],13-13
+K000159,Philip,Key,Barton,,1757.0,1815.0,3,['Representative'],['MD'],['Federalist'],10-12
+K000158,Philip,Key,,,1750.0,1820.0,1,['Representative'],['MD'],['Pro-Administration'],2-2
+K000160,Elias,Keyes,,,1758.0,1844.0,1,['Representative'],['VT'],['Democratic Republican'],17-17
+K000163,David,Kidder,,,1787.0,1860.0,2,['Representative'],['ME'],"['Adams', 'Adams-Clay Republican']",18-19
+K000169,James,Kilbourne,,,1770.0,1850.0,2,['Representative'],['OH'],['Democratic Republican'],13-14
+K000174,Daniel,Kilgore,,,1794.0,1851.0,3,['Representative'],['OH'],"['Democrat', 'Jacksonian']",23-25
+K000186,John,Kincaid,,,1791.0,1873.0,1,['Representative'],['KY'],['Jacksonian'],21-21
+K000192,Adam,King,,,1783.0,1835.0,3,['Representative'],['PA'],['Jacksonian'],20-22
+K000197,Cyrus,King,,,1772.0,1817.0,2,['Representative'],['MA'],['Federalist'],13-14
+K000202,Henry,King,,,1790.0,1861.0,2,['Representative'],['PA'],['Jacksonian'],22-23
+K000207,John,King,Pendleton,,1799.0,1888.0,3,['Senator'],['GA'],"['Democrat', 'Jacksonian']",23-25
+K000204,John,King,,,1775.0,1836.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+K000209,Perkins,King,,,1784.0,1875.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+K000212,Rufus,King,,,1755.0,1827.0,11,"['Senator', 'Delegate']","['MA', 'NY']","['Adams-Clay Federalist', 'Pro-Administration', 'Federalist']",1-18
+K000217,William,King,Rufus de Vane,,1786.0,1853.0,19,"['Senator', 'Representative']","['AL', 'NC']","['Democratic Republican', 'Jackson Republican', 'Jacksonian', 'Democrat']",12-32
+K000224,George,Kinnard,L.,,1803.0,1836.0,2,['Representative'],['IN'],['Jacksonian'],23-24
+K000227,Charles,Kinsey,,,1773.0,1849.0,2,['Representative'],['NJ'],['Democratic Republican'],15-16
+K000230,Martin,Kinsley,,,1754.0,1835.0,1,['Representative'],['MA'],['Democratic Republican'],16-16
+K000235,Joseph,Kirkland,,,1770.0,1844.0,1,['Representative'],['NY'],['Federalist'],17-17
+K000239,William,Kirkpatrick,,,1769.0,1832.0,1,['Representative'],['NY'],['Democratic Republican'],10-10
+K000243,Dorrance,Kirtland,,,1770.0,1840.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+K000246,Aaron,Kitchell,,,1744.0,1820.0,7,"['Senator', 'Representative']",['NJ'],"['Democratic Republican', 'Pro-Administration', 'Federalist']",2-11
+K000253,John,Kittera,Wilkes,,1752.0,1801.0,5,['Representative'],['PA'],"['Pro-Administration', 'Federalist']",2-6
+K000254,Thomas,Kittera,,,1789.0,1839.0,1,['Representative'],['PA'],['Adams'],19-19
+K000282,Herman,Knickerbocker,,,1779.0,1855.0,1,['Representative'],['NY'],['Federalist'],11-11
+K000287,Nehemiah,Knight,Rice,,1780.0,1854.0,11,['Senator'],['RI'],"['Whig', 'Adams', 'Anti-Jacksonian', 'Crawford Republican', 'Democratic Republican']",16-26
+K000286,Nehemiah,Knight,,,1746.0,1808.0,3,['Representative'],['RI'],['Democratic Republican'],8-10
+K000324,Jacob,Krebs,,,1782.0,1847.0,1,['Representative'],['PA'],['Jacksonian'],19-19
+K000329,George,Kremer,,,1775.0,1854.0,3,['Representative'],['PA'],"['Jackson Republican', 'Jacksonian']",18-20
+L000011,Abner,Lacock,,,1770.0,1837.0,4,"['Senator', 'Representative']",['PA'],['Democratic Republican'],12-15
+L000027,Henry,Lamar,Graybill,,1798.0,1861.0,2,['Representative'],['GA'],['Jacksonian'],21-22
+L000036,John,Lambert,,,1746.0,1823.0,5,"['Senator', 'Representative']",['NJ'],['Democratic Republican'],9-13
+L000057,Amos,Lane,,,1778.0,1849.0,2,['Representative'],['IN'],['Jacksonian'],23-24
+L000066,Chauncey,Langdon,,,1763.0,1830.0,1,['Representative'],['VT'],['Federalist'],14-14
+L000067,John,Langdon,,,1741.0,1819.0,8,"['Senator', 'Delegate']",['NH'],"['Democratic Republican', 'Pro-Administration', 'Anti-Administration']",1-6
+L000083,James,Lanman,,,1767.0,1841.0,3,['Senator'],['CT'],"['Democratic Republican', 'Crawford Republican']",16-18
+L000086,Gerrit,Lansing,Yates,,1783.0,1862.0,3,['Representative'],['NY'],['Jacksonian'],22-24
+L000094,John,Laporte,,,1798.0,1862.0,2,['Representative'],['PA'],['Jacksonian'],23-24
+L000097,Simon,Larned,,,1753.0,1817.0,1,['Representative'],['MA'],['Democratic Republican'],8-8
+L000112,Samuel,Lathrop,,,1772.0,1846.0,4,['Representative'],['MA'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",16-19
+L000115,Henry,Latimer,,,1752.0,1819.0,5,"['Senator', 'Representative']",['DE'],['Federalist'],3-6
+L000118,William,Lattimore,,,1774.0,1843.0,4,['Delegate'],['MS'],['Democratic Republican'],8-14
+L000120,John,Laurance,,,1750.0,1810.0,6,"['Senator', 'Delegate', 'Representative']",['NY'],['Federalist'],1-6
+L000126,Lyman,Law,,,1770.0,1842.0,3,['Representative'],['CT'],['Federalist'],12-14
+L000131,Cornelius,Lawrence,Van Wyck,,1791.0,1861.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+L000137,Joseph,Lawrence,,,1786.0,1842.0,3,['Representative'],['PA'],"['Whig', 'Adams']",19-27
+L000138,Samuel,Lawrence,,,1773.0,1837.0,1,['Representative'],['NY'],['Adams-Clay Republican'],18-18
+L000147,Thomas,Lawyer,,,1785.0,1868.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+L000150,George,Lay,Washington,,1798.0,1860.0,2,['Representative'],['NY'],"['Anti-Jacksonian', 'Anti-Masonic']",23-24
+L000164,Luke,Lea,,,1783.0,1851.0,2,['Representative'],['TN'],"['Jacksonian', 'Anti-Jacksonian']",23-24
+L000166,Pryor,Lea,,,1794.0,1879.0,2,['Representative'],['TN'],['Jacksonian'],20-21
+L000177,Walter,Leake,,,1762.0,1825.0,2,['Senator'],['MS'],['Democratic Republican'],15-16
+L000178,Amasa,Learned,,,1750.0,1825.0,2,['Representative'],['CT'],['Pro-Administration'],2-3
+L000183,Humphrey,Leavitt,Howe,,1796.0,1873.0,3,['Representative'],['OH'],['Jacksonian'],21-23
+L000186,Joseph,Lecompte,,,1797.0,1851.0,4,['Representative'],['KY'],['Jacksonian'],19-22
+L000195,Henry,Lee,,,1756.0,1818.0,2,"['Delegate', 'Representative']",['VA'],['Federalist'],1-6
+L000196,John,Lee,,,1788.0,1871.0,1,['Representative'],['MD'],['Jackson Federalist'],18-18
+L000200,Richard,Lee,Bland,,1761.0,1827.0,3,['Representative'],['VA'],['Pro-Administration'],1-3
+L000201,Richard,Lee,Henry,,1732.0,1794.0,5,"['Senator', 'Delegate']",['VA'],['Anti-Administration'],1-2
+L000204,Silas,Lee,,,1760.0,1814.0,2,['Representative'],['MA'],['Federalist'],6-7
+L000205,Thomas,Lee,,,1780.0,1855.0,2,['Representative'],['NJ'],['Jacksonian'],23-24
+L000212,Joseph,Lefever,,,1760.0,1826.0,1,['Representative'],['PA'],['Democratic Republican'],12-12
+L000213,John,Lefferts,,,1785.0,1829.0,1,['Representative'],['NY'],['Democratic Republican'],13-13
+L000214,Isaac,Leffler,,,1788.0,1866.0,1,['Representative'],['VA'],['Adams'],20-20
+L000216,Jabez,Leftwich,,,1765.0,1855.0,2,['Representative'],['VA'],"['Democratic Republican', 'Crawford Republican']",17-18
+L000229,Michael,Leib,,,1760.0,1822.0,8,"['Senator', 'Representative']",['PA'],['Democratic Republican'],6-13
+L000232,Benjamin,Leigh,Watkins,,1781.0,1849.0,2,['Senator'],['VA'],['Anti-Jacksonian'],23-24
+L000234,George,Leiper,Gray,,1786.0,1868.0,1,['Representative'],['PA'],['Jacksonian'],21-21
+L000242,James,Lent,,,1782.0,1833.0,2,['Representative'],['NY'],['Jacksonian'],21-22
+L000246,George,Leonard,,,1729.0,1819.0,3,['Representative'],['MA'],"['Pro-Administration', 'Federalist']",1-4
+L000257,Robert,Letcher,Perkins,,1788.0,1861.0,6,['Representative'],['KY'],"['Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-23
+L000278,Dixon,Lewis,Hall,,1802.0,1848.0,11,"['Senator', 'Representative']",['AL'],"['Democrat', 'Jacksonian', 'Nullifier']",21-30
+L000290,Joseph,Lewis,,Jr.,1772.0,1834.0,7,['Representative'],['VA'],['Federalist'],8-14
+L000294,Thomas,Lewis,,,,,1,['Representative'],['VA'],['Federalist'],8-8
+L000297,William,Lewis,J.,,1766.0,1828.0,1,['Representative'],['VA'],['Democratic Republican'],15-15
+L000314,Enoch,Lincoln,,,1788.0,1829.0,5,['Representative'],"['ME', 'MA']","['Democratic Republican', 'Adams', 'Adams-Clay Republican']",15-19
+L000316,Levi,Lincoln,,,1749.0,1820.0,1,['Representative'],['MA'],['Democratic Republican'],6-6
+L000315,Levi,Lincoln,,,1782.0,1868.0,5,['Representative'],['MA'],"['Whig', 'Anti-Jacksonian']",23-27
+L000336,James,Linn,,,1749.0,1821.0,1,['Representative'],['NJ'],['Democratic Republican'],6-6
+L000337,John,Linn,,,1763.0,1821.0,2,['Representative'],['NJ'],['Democratic Republican'],15-16
+L000338,Lewis,Linn,Fields,,1796.0,1843.0,6,['Senator'],['MO'],"['Democrat', 'Jacksonian']",23-28
+L000346,Elisha,Litchfield,,,1785.0,1859.0,2,['Representative'],['NY'],"['Democratic Republican', 'Crawford Republican']",17-18
+L000354,Peter,Little,,,1775.0,1830.0,8,['Representative'],['MD'],"['Democratic Republican', 'Adams', 'Jackson Republican']",12-20
+L000362,Arthur,Livermore,,,1766.0,1853.0,3,['Representative'],['NH'],"['Democratic Republican', 'Adams-Clay Republican']",15-18
+L000363,Edward,Livermore,St. Loe,,1762.0,1832.0,2,['Representative'],['MA'],['Federalist'],10-11
+L000364,Samuel,Livermore,,,1732.0,1803.0,9,"['Senator', 'Delegate', 'Representative']",['NH'],"['Federalist', 'Pro-Administration']",1-7
+L000366,Edward,Livingston,,,1764.0,1836.0,8,"['Senator', 'Representative']","['LA', 'NY']","['Democratic Republican', 'Jackson Republican', 'Jacksonian']",4-22
+L000367,Henry,Livingston,Walter,,1768.0,1810.0,2,['Representative'],['NY'],['Federalist'],8-9
+L000370,Robert,Livingston,Le Roy,,1778.0,1836.0,2,['Representative'],['NY'],['Federalist'],11-12
+L000376,Edward,Lloyd,,,1779.0,1834.0,6,"['Senator', 'Representative']",['MD'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",9-19
+L000377,James,Lloyd,,,1756.0,1830.0,2,['Senator'],['MD'],['Federalist'],5-6
+L000378,James,Lloyd,,,1769.0,1831.0,7,['Senator'],['MA'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",10-19
+L000387,Francis,Locke,,,1776.0,1823.0,2,['Senator'],['NC'],['Unknown'],13-14
+L000388,John,Locke,,,1764.0,1855.0,3,['Representative'],['MA'],"['Adams', 'Adams-Clay Republican']",18-20
+L000389,Matthew,Locke,,,1730.0,1801.0,3,['Representative'],['NC'],"['Democratic Republican', 'Anti-Administration']",3-5
+L000401,George,Logan,,,1753.0,1821.0,3,['Senator'],['PA'],['Democratic Republican'],7-9
+L000405,William,Logan,,,1776.0,1822.0,1,['Senator'],['KY'],['Democratic Republican'],16-16
+L000421,John,Long,,,1785.0,1857.0,4,['Representative'],['NC'],"['Democratic Republican', 'Adams', 'Crawford Republican']",17-20
+L000430,Stephen,Longfellow,,,1775.0,1849.0,1,['Representative'],['ME'],['Adams-Clay Federalist'],18-18
+L000455,James,Love,,,1795.0,1874.0,1,['Representative'],['KY'],['Anti-Jacksonian'],23-23
+L000456,John,Love,,,,1822.0,2,['Representative'],['VA'],['Democratic Republican'],10-11
+L000460,William,Love,Carter,,1784.0,1824.0,1,['Representative'],['NC'],['Democratic Republican'],14-14
+L000466,John,Lovett,,,1761.0,1818.0,2,['Representative'],['NY'],['Federalist'],13-14
+L000478,Christian,Lower,,,1740.0,1806.0,1,['Representative'],['PA'],['Democratic Republican'],9-9
+L000482,Thomas,Lowndes,,,1766.0,1843.0,2,['Representative'],['SC'],['Federalist'],7-8
+L000483,William,Lowndes,,,1782.0,1822.0,6,['Representative'],['SC'],['Democratic Republican'],12-17
+L000485,Walter,Lowrie,,,1784.0,1868.0,3,['Senator'],['PA'],"['Democratic Republican', 'Crawford Republican']",16-18
+L000488,George,Loyall,,,1789.0,1868.0,3,['Representative'],['VA'],['Jacksonian'],21-24
+L000490,Edward,Lucas,,,1780.0,1858.0,2,['Representative'],['VA'],['Jacksonian'],23-24
+L000492,John,Lucas,Baptiste Charles,,1758.0,1842.0,1,['Representative'],['PA'],['Democratic Republican'],8-8
+L000512,Wilson,Lumpkin,,,1783.0,1870.0,5,"['Senator', 'Representative']",['GA'],"['Democratic Republican', 'Jacksonian', 'Democrat']",14-26
+L000524,Aaron,Lyle,,,1759.0,1825.0,4,['Representative'],['PA'],['Democratic Republican'],11-14
+L000527,Joseph,Lyman,Stebbins,,1785.0,1821.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+L000528,Samuel,Lyman,,,1749.0,1802.0,3,['Representative'],['MA'],['Federalist'],4-6
+L000530,William,Lyman,,,1755.0,1811.0,2,['Representative'],['MA'],"['Democratic Republican', 'Anti-Administration']",3-4
+L000539,Asa,Lyon,,,1763.0,1841.0,1,['Representative'],['VT'],['Federalist'],14-14
+L000541,Chittenden,Lyon,,,1787.0,1842.0,4,['Representative'],['KY'],['Jacksonian'],20-23
+L000544,Lucius,Lyon,,,1800.0,1851.0,4,"['Senator', 'Delegate', 'Representative']",['MI'],['Democrat'],23-28
+L000545,Matthew,Lyon,,,1749.0,1822.0,6,['Representative'],"['VT', 'KY']",['Democratic Republican'],5-11
+L000546,Robert,Lytle,Todd,,1804.0,1839.0,1,['Representative'],['OH'],['Jacksonian'],23-23
+M000013,James,MacHir,,,,1827.0,1,['Representative'],['VA'],['Federalist'],5-5
+M000029,Samuel,MacLay,,,1741.0,1811.0,4,"['Senator', 'Representative']",['PA'],['Democratic Republican'],4-10
+M000033,William,MacLay,Plunkett,,1774.0,1842.0,3,['Representative'],['PA'],['Democratic Republican'],14-16
+M000031,William,MacLay,,,1737.0,1804.0,1,['Senator'],['PA'],['Anti-Administration'],1-1
+M000030,William,MacLay,,,1765.0,1825.0,2,['Representative'],['PA'],['Democratic Republican'],14-15
+M000034,Nathaniel,Macon,,,1757.0,1837.0,20,"['Senator', 'Representative']",['NC'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",2-20
+M000043,James,Madison,,Jr.,1751.0,1836.0,6,"['Delegate', 'Representative']",['VA'],"['Democratic Republican', 'Anti-Administration']",1-4
+M000047,John,Magee,,,1794.0,1868.0,2,['Representative'],['NY'],['Jacksonian'],20-21
+M000056,Allan,Magruder,Bowie,,1775.0,1822.0,1,['Senator'],['LA'],['Democratic Republican'],12-12
+M000057,Patrick,Magruder,,,1768.0,1819.0,1,['Representative'],['MD'],['Democratic Republican'],9-9
+M000076,Francis,Malbone,,,1759.0,1809.0,3,"['Senator', 'Representative']",['RI'],['Federalist'],3-11
+M000079,Rollin,Mallary,Carolas,,1784.0,1831.0,7,['Representative'],['VT'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",16-22
+M000096,Willie,Mangum,Person,,1792.0,1861.0,12,"['Senator', 'Representative']",['NC'],"['Whig', 'Jacksonian', 'Anti-Jacksonian', 'Crawford Republican']",18-32
+M000099,Abijah,Mann,,Jr.,1793.0,1868.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+M000107,Joel,Mann,Keith,,1780.0,1857.0,2,['Representative'],['PA'],['Jacksonian'],22-23
+M000110,Richard,Manning,Irvine,,1789.0,1836.0,2,['Representative'],['SC'],['Jacksonian'],23-24
+M000120,John,Marable,Hartwell,,1786.0,1844.0,2,['Representative'],['TN'],['Jacksonian'],19-20
+M000124,David,Marchand,,,1776.0,1832.0,2,['Representative'],['PA'],['Democratic Republican'],15-16
+M000127,William,Marcy,Learned,,1786.0,1857.0,1,['Senator'],['NY'],['Jacksonian'],22-22
+M000128,Samuel,Mardis,Wright,,1800.0,1836.0,2,['Representative'],['AL'],['Jacksonian'],22-23
+M000130,Robert,Marion,,,1766.0,1811.0,3,['Representative'],['SC'],['Democratic Republican'],9-11
+M000131,Henry,Markell,,,1792.0,1831.0,2,['Representative'],['NY'],['Adams'],19-20
+M000132,Jacob,Markell,,,1770.0,1852.0,1,['Representative'],['NY'],['Federalist'],13-13
+M000135,Philip,Markley,Swenk,,1789.0,1834.0,2,['Representative'],['PA'],"['Adams', 'Jackson Republican']",18-19
+M000137,William,Marks,,,1778.0,1858.0,3,['Senator'],['PA'],"['Adams', 'Anti-Jacksonian']",19-21
+M000141,Alem,Marr,,,1787.0,1843.0,1,['Representative'],['PA'],['Jacksonian'],21-21
+M000142,George,Marr,Washington Lent,,1779.0,1856.0,1,['Representative'],['TN'],['Democratic Republican'],15-15
+M000146,Charles,Marsh,,,1765.0,1849.0,1,['Representative'],['VT'],['Federalist'],14-14
+M000155,Humphrey,Marshall,,,1760.0,1841.0,3,['Senator'],['KY'],['Federalist'],4-6
+M000157,John,Marshall,,,1755.0,1835.0,1,['Representative'],['VA'],['Federalist'],6-6
+M000161,Thomas,Marshall,Alexander,,1794.0,1871.0,2,['Representative'],['KY'],['Anti-Jacksonian'],22-23
+M000166,Alexander,Martin,,,1740.0,1807.0,3,['Senator'],['NC'],['Anti-Administration'],3-5
+M000198,Robert,Martin,Nicols,,1798.0,1870.0,1,['Representative'],['MD'],['Adams'],19-19
+M000202,William,Martin,Dickinson,,1789.0,1833.0,2,['Representative'],['SC'],['Jacksonian'],20-21
+M000204,Henry,Martindale,Clinton,,1780.0,1860.0,5,['Representative'],['NY'],"['Adams', 'Adams-Clay Federalist', 'Anti-Jacksonian', 'Anti-Masonic']",18-23
+M000208,Dudley,Marvin,,,1786.0,1852.0,4,['Representative'],['NY'],"['Whig', 'Adams', 'Adams-Clay Republican']",18-30
+M000213,Armistead,Mason,Thomson,,1787.0,1819.0,1,['Senator'],['VA'],['Democratic Republican'],14-14
+M000215,James,Mason,Brown,,1775.0,1819.0,2,['Representative'],['RI'],['Federalist'],14-15
+M000217,Jeremiah,Mason,,,1768.0,1848.0,3,['Senator'],['NH'],['Federalist'],13-15
+M000220,John,Mason,Young,,1799.0,1859.0,3,['Representative'],['VA'],['Jacksonian'],22-24
+M000221,Jonathan,Mason,,,1756.0,1831.0,4,"['Senator', 'Representative']",['MA'],['Federalist'],6-16
+M000223,Moses,Mason,,Jr.,1789.0,1866.0,2,['Representative'],['ME'],['Jacksonian'],23-24
+M000226,Stevens,Mason,Thomson,,1760.0,1803.0,6,['Senator'],['VA'],['Democratic Republican'],3-8
+M000232,Josiah,Masters,,,1763.0,1822.0,2,['Representative'],['NY'],['Democratic Republican'],9-10
+M000234,George,Mathews,,,1739.0,1812.0,1,['Representative'],['GA'],['Anti-Administration'],1-1
+M000239,Vincent,Mathews,,,1766.0,1846.0,1,['Representative'],['NY'],['Federalist'],11-11
+M000240,Elisha,Mathewson,,,1767.0,1853.0,2,['Senator'],['RI'],['Democratic Republican'],10-11
+M000245,James,Matlack,,,1775.0,1840.0,2,['Representative'],['NJ'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+M000247,Aaron,Matson,,,1770.0,1855.0,2,['Representative'],['NH'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+M000256,William,Matthews,,,1755.0,1808.0,1,['Representative'],['MD'],['Federalist'],5-5
+M000258,John,Mattocks,,,1777.0,1847.0,3,['Representative'],['VT'],"['Democratic Republican', 'Adams', 'Whig']",17-27
+M000259,Ebenezer,Mattoon,,,1755.0,1843.0,2,['Representative'],['MA'],['Federalist'],6-7
+M000267,George,Maxwell,Clifford,,1771.0,1816.0,1,['Representative'],['NJ'],['Democratic Republican'],12-12
+M000269,Lewis,Maxwell,,,1790.0,1862.0,3,['Representative'],['VA'],"['Adams', 'Anti-Jacksonian']",20-22
+M000271,Thomas,Maxwell,,,1792.0,1864.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+M000277,William,May,L.,,1793.0,1849.0,3,['Representative'],['IL'],"['Democrat', 'Jacksonian']",23-25
+M000285,John,Maynard,,,,1850.0,2,['Representative'],['NY'],"['Whig', 'Adams']",20-27
+M000288,William,Mayrant,,,,,1,['Representative'],['SC'],['Democratic Republican'],14-14
+M000299,Duncan,McArthur,,,1772.0,1839.0,2,['Representative'],['OH'],"['Democratic Republican', 'Adams-Clay Republican']",13-18
+M000302,Archibald,McBryde,,,1766.0,1836.0,2,['Representative'],['NC'],['Federalist'],11-12
+M000320,Johnathan,McCarty,,,1795.0,1852.0,3,['Representative'],['IN'],"['Jacksonian', 'Anti-Jacksonian']",22-24
+M000321,Richard,McCarty,,,1780.0,1844.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+M000336,Blair,McClenachan,,,1735.0,1812.0,1,['Representative'],['PA'],['Democratic Republican'],5-5
+M000352,William,McComas,,,1795.0,1865.0,2,['Representative'],['VA'],"['Jacksonian', 'Anti-Jacksonian']",23-24
+M000359,Andrew,McCord,,,1754.0,1808.0,1,['Representative'],['NY'],['Democratic Republican'],8-8
+M000375,Robert,McCoy,,,,1849.0,1,['Representative'],['PA'],['Jacksonian'],22-22
+M000377,William,McCoy,,,,1864.0,11,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",12-22
+M000383,John,McCreary,,,1761.0,1833.0,1,['Representative'],['SC'],['Democratic Republican'],16-16
+M000387,William,McCreery,,,1750.0,1814.0,3,['Representative'],['MD'],['Democratic Republican'],8-10
+M000386,William,McCreery,,,1786.0,1841.0,1,['Representative'],['PA'],['Jacksonian'],21-21
+M000396,Thomas,McCullough,Grubb,,1785.0,1848.0,1,['Representative'],['PA'],['Federalist'],16-16
+M000424,Joseph,McDowell,,,1758.0,1799.0,1,['Representative'],['NC'],['Anti-Administration'],3-3
+M000423,Joseph,McDowell,,,1756.0,1801.0,1,['Representative'],['NC'],['Democratic Republican'],5-5
+M000426,George,McDuffie,,,1790.0,1851.0,10,"['Senator', 'Representative']",['SC'],"['Jacksonian', 'Nullifier', 'Jackson Republican', 'Democrat', 'Democratic Republican']",17-29
+M000437,Duncan,McFarlan,,,,1816.0,1,['Representative'],['NC'],['Democratic Republican'],9-9
+M000467,Robert,McHatton,Lytle,,1788.0,1835.0,2,['Representative'],['KY'],['Jacksonian'],19-20
+M000475,Joseph,McIlvaine,,,1769.0,1826.0,2,['Senator'],['NJ'],['Adams-Clay Republican'],18-19
+M000479,Rufus,McIntire,,,1784.0,1866.0,4,['Representative'],['ME'],['Jacksonian'],20-23
+M000489,James,McKay,Iver,,1792.0,1853.0,9,['Representative'],['NC'],"['Democrat', 'Jacksonian']",22-30
+M000492,Samuel,McKean,,,1787.0,1841.0,6,"['Senator', 'Representative']",['PA'],"['Democrat', 'Jackson Republican', 'Jacksonian']",18-25
+M000495,John,McKee,,,1771.0,1832.0,3,['Representative'],['AL'],"['Jackson Republican', 'Jacksonian']",18-20
+M000496,Samuel,McKee,,,1774.0,1826.0,4,['Representative'],['KY'],['Democratic Republican'],11-14
+M000501,Thomas,McKennan,McKean Thompson,,1794.0,1852.0,5,['Representative'],['PA'],"['Whig', 'Anti-Masonic']",22-27
+M000515,Alexander,McKim,,,1748.0,1832.0,3,['Representative'],['MD'],['Democratic Republican'],11-13
+M000516,Isaac,McKim,,,1775.0,1838.0,5,['Representative'],['MD'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian', 'Democrat']",17-25
+M000519,John,McKinley,,,1780.0,1852.0,5,"['Senator', 'Representative']",['AL'],"['Democrat', 'Jacksonian']",19-25
+M000520,William,McKinley,,,,,1,['Representative'],['VA'],['Democratic Republican'],11-11
+M000535,Louis,McLane,,,1786.0,1857.0,7,"['Senator', 'Representative']",['DE'],"['Jacksonian', 'Crawford Federalist', 'Federalist']",15-21
+M000544,Alney,McLean,,,1779.0,1841.0,2,['Representative'],['KY'],['Democratic Republican'],14-16
+M000549,John,McLean,,,1785.0,1861.0,2,['Representative'],['OH'],['Democratic Republican'],13-14
+M000550,John,McLean,,,1791.0,1830.0,3,"['Senator', 'Representative']",['IL'],"['Jacksonian', 'Crawford Republican']",15-21
+M000552,William,McLean,,,1794.0,1839.0,3,['Representative'],['OH'],"['Adams', 'Adams-Clay Republican']",18-20
+M000556,Jeremiah,McLene,,,1767.0,1837.0,2,['Representative'],['OH'],['Jacksonian'],23-24
+M000562,William,McManus,,,1780.0,1835.0,1,['Representative'],['NY'],['Adams'],19-19
+M000564,Alexander,McMillan,,,,1817.0,1,['Representative'],['NC'],['Federalist'],15-15
+M000571,William,McMillan,,,1764.0,1804.0,1,['Delegate'],['OH'],[],6-6
+M000586,Archibald,McNeill,,,,1849.0,2,['Representative'],['NC'],"['Jacksonian', 'Federalist']",17-19
+M000602,James,McSherry,,,1776.0,1849.0,1,['Representative'],['PA'],['Federalist'],17-17
+M000607,Charles,McVean,,,1802.0,1848.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+M000614,Cowles,Mead,,,1776.0,1844.0,1,['Representative'],['GA'],[],9-9
+M000622,Alexander,Mebane,,,1744.0,1795.0,1,['Representative'],['NC'],['Anti-Administration'],3-3
+M000625,Ezra,Meech,,,1773.0,1856.0,2,['Representative'],['VT'],"['Democratic Republican', 'Jacksonian']",16-19
+M000632,Henry,Meigs,,,1782.0,1861.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+M000633,Return,Meigs,Jonathan,Jr.,1764.0,1825.0,2,['Senator'],['OH'],['Democratic Republican'],10-11
+M000636,Prentiss,Mellen,,,1764.0,1840.0,2,['Senator'],['MA'],['Federalist'],15-16
+M000642,Charles,Mercer,Fenton,,1778.0,1858.0,12,['Representative'],['VA'],"['Whig', 'Federalist', 'Adams', 'Anti-Jacksonian', 'Crawford Republican']",15-26
+M000645,John,Mercer,Francis,,1759.0,1821.0,3,"['Delegate', 'Representative']","['MD', 'VA']",['Anti-Administration'],1-3
+M000649,David,Meriwether,,,1755.0,1822.0,3,['Representative'],['GA'],['Democratic Republican'],7-9
+M000651,James,Meriwether,,,1789.0,1854.0,1,['Representative'],['GA'],['Jacksonian'],19-19
+M000657,Orsamus,Merrill,Cook,,1775.0,1865.0,2,['Representative'],['VT'],['Democratic Republican'],15-16
+M000665,Orange,Merwin,,,1777.0,1853.0,2,['Representative'],['CT'],['Adams'],19-20
+M000668,Arunah,Metcalf,,,1771.0,1848.0,1,['Representative'],['NY'],['Democratic Republican'],12-12
+M000676,Thomas,Metcalfe,,,1780.0,1855.0,6,"['Senator', 'Representative']",['KY'],"['Democratic Republican', 'Adams', 'Whig', 'Adams-Clay Republican']",16-30
+M000699,Henry,Middleton,,,1770.0,1846.0,2,['Representative'],['SC'],['Democratic Republican'],14-15
+M000712,John,Milledge,,,1757.0,1818.0,7,"['Senator', 'Representative']",['GA'],['Democratic Republican'],2-11
+M000722,Daniel,Miller,H.,,,1846.0,4,['Representative'],['PA'],"['Jackson Republican', 'Jacksonian']",18-21
+M000734,Jesse,Miller,,,1800.0,1850.0,2,['Representative'],['PA'],['Jacksonian'],23-24
+M000737,John,Miller,,,1774.0,1862.0,1,['Representative'],['NY'],['Adams'],19-19
+M000747,Morris,Miller,Smith,,1779.0,1824.0,1,['Representative'],['NY'],['Federalist'],13-13
+M000750,Pleasant,Miller,Moorman,,,1849.0,1,['Representative'],['TN'],['Democratic Republican'],11-11
+M000755,Stephen,Miller,Decatur,,1787.0,1838.0,3,"['Senator', 'Representative']",['SC'],['Nullifier'],14-22
+M000767,John,Milligan,Jones,,1795.0,1875.0,4,['Representative'],['DE'],"['Whig', 'Anti-Jacksonian']",22-25
+M000774,Elijah,Mills,Hunt,,1776.0,1829.0,6,"['Senator', 'Representative']",['MA'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",14-19
+M000785,James,Milnor,,,1773.0,1844.0,1,['Representative'],['PA'],['Federalist'],12-12
+M000786,William,Milnor,,,1769.0,1848.0,4,['Representative'],['PA'],['Federalist'],10-17
+M000791,Charles,Miner,,,1780.0,1865.0,2,['Representative'],['PA'],['Adams'],19-20
+M000793,Phineas,Miner,,,1777.0,1839.0,1,['Representative'],['CT'],['Anti-Jacksonian'],23-23
+M000810,George,Mitchell,Edward,,1781.0,1832.0,4,['Representative'],['MD'],"['Jacksonian', 'Adams-Clay Republican']",18-22
+M000813,Henry,Mitchell,,,1784.0,1856.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+M000815,James,Mitchell,Coffield,,1786.0,1843.0,2,['Representative'],['TN'],['Jacksonian'],19-20
+M000816,James,Mitchell,S.,,1784.0,1844.0,3,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+M000817,John,Mitchell,,,1781.0,1849.0,2,['Representative'],['PA'],['Jacksonian'],19-20
+M000824,Nahum,Mitchell,,,1769.0,1853.0,1,['Representative'],['MA'],['Federalist'],8-8
+M000827,Robert,Mitchell,,,1778.0,1848.0,1,['Representative'],['OH'],['Jacksonian'],23-23
+M000828,Stephen,Mitchell,Mix,,1743.0,1835.0,2,"['Senator', 'Delegate']",['CT'],['Pro-Administration'],1-3
+M000829,Thomas,Mitchell,Rothmaler,,1783.0,1837.0,4,['Representative'],['SC'],"['Democratic Republican', 'Jacksonian']",17-22
+M000831,Samuel,Mitchill,Latham,,1764.0,1831.0,7,"['Senator', 'Representative']",['NY'],['Democratic Republican'],7-12
+M000840,Hosea,Moffitt,,,1757.0,1825.0,2,['Representative'],['NY'],['Federalist'],13-14
+M000853,Robert,Monell,,,1786.0,1860.0,2,['Representative'],['NY'],"['Democratic Republican', 'Jacksonian']",16-21
+M000858,James,Monroe,,,1758.0,1831.0,4,"['Senator', 'Delegate']",['VA'],['Anti-Administration'],1-3
+M000864,Daniel,Montgomery,,Jr.,1765.0,1831.0,1,['Representative'],['PA'],['Democratic Republican'],10-10
+M000867,John,Montgomery,,,1764.0,1828.0,2,['Representative'],['MD'],['Democratic Republican'],10-11
+M000872,Thomas,Montgomery,,,1779.0,1828.0,3,['Representative'],['KY'],['Democratic Republican'],13-17
+M000873,William,Montgomery,,,1736.0,1816.0,1,['Representative'],['PA'],['Anti-Administration'],3-3
+M000891,Andrew,Moore,,,1752.0,1821.0,8,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Anti-Administration']",1-10
+M000898,Gabriel,Moore,,,1785.0,1844.0,7,"['Senator', 'Representative']",['AL'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-24
+M000909,Nicholas,Moore,Ruxton,,1756.0,1816.0,5,['Representative'],['MD'],['Democratic Republican'],8-13
+M000913,Robert,Moore,,,1778.0,1831.0,2,['Representative'],['PA'],['Democratic Republican'],15-16
+M000917,Samuel,Moore,McDowell,,1796.0,1875.0,1,['Representative'],['VA'],['Anti-Jacksonian'],23-23
+M000916,Samuel,Moore,,,1774.0,1861.0,3,['Representative'],['PA'],['Democratic Republican'],15-17
+M000920,Thomas,Moore,Love,,,1862.0,2,['Representative'],['VA'],['Democratic Republican'],16-17
+M000921,Thomas,Moore,Patrick,,1797.0,1853.0,3,['Representative'],['KY'],"['Jackson Republican', 'Jacksonian']",18-20
+M000919,Thomas,Moore,,,1759.0,1822.0,7,['Representative'],['SC'],['Democratic Republican'],7-14
+M000946,Daniel,Morgan,,,1736.0,1802.0,1,['Representative'],['VA'],['Federalist'],5-5
+M000951,James,Morgan,,,1756.0,1822.0,1,['Representative'],['NJ'],['Democratic Republican'],12-12
+M000953,John,Morgan,Jordan,,1770.0,1849.0,3,['Representative'],['NY'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-23
+M000966,David,Morril,Lawrence,,1772.0,1849.0,3,['Senator'],['NH'],['Democratic Republican'],15-17
+M000976,Gouverneur,Morris,,,1752.0,1816.0,3,"['Senator', 'Delegate']",['NY'],['Federalist'],1-7
+M000983,Lewis,Morris,Richard,,1760.0,1825.0,3,['Representative'],['VT'],['Federalist'],5-7
+M000985,Robert,Morris,,,1734.0,1806.0,4,"['Senator', 'Delegate']",['PA'],['Pro-Administration'],1-3
+M000989,Thomas,Morris,,,1776.0,1844.0,3,['Senator'],['OH'],['Jacksonian'],23-25
+M000988,Thomas,Morris,,,1771.0,1849.0,1,['Representative'],['NY'],['Federalist'],7-7
+M001003,Jeremiah,Morrow,,,1771.0,1852.0,10,"['Senator', 'Representative']",['OH'],"['Democratic Republican', 'Whig']",8-27
+M001005,John,Morrow,,,,,2,['Representative'],['VA'],['Democratic Republican'],9-10
+M001019,Marcus,Morton,,,1784.0,1864.0,2,['Representative'],['MA'],['Democratic Republican'],15-16
+M001023,Jonathan,Moseley,Ogden,,1762.0,1838.0,8,['Representative'],['CT'],['Federalist'],9-16
+M001039,James,Mott,,,1739.0,1823.0,2,['Representative'],['NJ'],['Democratic Republican'],7-8
+M001061,Francis,Muhlenberg,Swaine,,1795.0,1831.0,1,['Representative'],['OH'],['Adams'],20-20
+M001063,Frederick,Muhlenberg,Augustus Conrad,,1750.0,1801.0,5,"['Delegate', 'Representative']",['PA'],"['Democratic Republican', 'Pro-Administration', 'Anti-Administration']",1-4
+M001065,Henry,Muhlenberg,Augustus Philip,,1782.0,1844.0,5,['Representative'],['PA'],"['Democrat', 'Jacksonian']",21-25
+M001066,John,Muhlenberg,Peter Gabriel,,1746.0,1807.0,4,"['Senator', 'Representative']",['PA'],['Democratic Republican'],1-7
+M001075,George,Mumford,,,,1818.0,1,['Representative'],['NC'],['Democratic Republican'],15-15
+M001076,Gurdon,Mumford,Saltonstall,,1764.0,1831.0,3,['Representative'],['NY'],['Democratic Republican'],9-11
+M001084,William,Murfree,Hardy,,1781.0,1827.0,2,['Representative'],['NC'],['Democratic Republican'],13-14
+M001097,John,Murphy,,,1786.0,1841.0,1,['Representative'],['AL'],['Jacksonian'],23-23
+M001109,John,Murray,,,1768.0,1834.0,2,['Representative'],['PA'],['Democratic Republican'],15-16
+M001115,Thomas,Murray,,Jr.,1770.0,1823.0,1,['Representative'],['PA'],['Democratic Republican'],17-17
+M001119,William,Murray,Vans,,1760.0,1803.0,3,['Representative'],['MD'],"['Pro-Administration', 'Federalist']",2-4
+N000010,Arnold,Naudain,,,1790.0,1872.0,4,['Senator'],['DE'],['Anti-Jacksonian'],21-24
+N000018,Raphael,Neale,,,,1833.0,3,['Representative'],['MD'],"['Adams-Clay Federalist', 'Federalist']",16-18
+N000035,Hugh,Nelson,,,1768.0,1836.0,6,['Representative'],['VA'],['Democratic Republican'],12-17
+N000036,Jeremiah,Nelson,,,1769.0,1838.0,7,['Representative'],['MA'],"['Adams-Clay Federalist', 'Federalist', 'Anti-Jacksonian']",9-22
+N000037,John,Nelson,,,1791.0,1860.0,1,['Representative'],['MD'],['Democratic Republican'],17-17
+N000041,Roger,Nelson,,,1759.0,1815.0,4,['Representative'],['MD'],['Democratic Republican'],8-11
+N000043,Thomas,Nelson,Maduit,,1782.0,1853.0,2,['Representative'],['VA'],['Democratic Republican'],14-15
+N000049,Wilson,Nesbitt,,,,1861.0,1,['Representative'],['SC'],['Democratic Republican'],15-15
+N000055,Joseph,Neville,,,1730.0,1819.0,1,['Representative'],['VA'],['Anti-Administration'],3-3
+N000058,Anthony,New,,,1747.0,1833.0,9,['Representative'],"['VA', 'KY']","['Democratic Republican', 'Anti-Administration']",3-17
+N000064,Thomas,Newbold,,,1760.0,1823.0,3,['Representative'],['NJ'],['Democratic Republican'],10-12
+N000071,Daniel,Newnan,,,1780.0,1851.0,1,['Representative'],['GA'],['Jacksonian'],22-22
+N000078,Thomas,Newton,,Jr.,1768.0,1847.0,16,['Representative'],['VA'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",7-22
+N000084,John,Nicholas,,,1757.0,1819.0,4,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",3-6
+N000086,Wilson,Nicholas,Cary,,1761.0,1820.0,5,"['Senator', 'Representative']",['VA'],['Democratic Republican'],6-11
+N000098,John,Nicholson,,,1765.0,1820.0,1,['Representative'],['NY'],['Democratic Republican'],11-11
+N000100,Joseph,Nicholson,Hopper,,1770.0,1817.0,4,['Representative'],['MD'],['Democratic Republican'],6-9
+N000109,Nathaniel,Niles,,,1741.0,1828.0,2,['Representative'],['VT'],['Anti-Administration'],2-3
+N000118,James,Noble,,,1785.0,1831.0,8,['Senator'],['IN'],"['Democratic Republican', 'Adams', 'Anti-Jacksonian', 'Crawford Republican']",14-21
+N000142,William,North,,,1755.0,1836.0,1,['Senator'],['NY'],['Federalist'],5-5
+N000146,Ebenezer,Norton,Foote,,1774.0,1851.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+N000161,Abraham,Nott,,,1768.0,1830.0,1,['Representative'],['SC'],['Federalist'],6-6
+N000164,John,Noyes,,,1764.0,1841.0,1,['Representative'],['VT'],['Federalist'],14-14
+N000167,William,Nuckolls,Thompson,,1801.0,1855.0,3,['Representative'],['SC'],['Jacksonian'],20-22
+O000013,Jeremiah,O'Brien,,,1778.0,1858.0,3,['Representative'],['ME'],"['Adams', 'Adams-Clay Republican']",18-20
+O000003,Thomas,Oakley,Jackson,,1783.0,1857.0,2,['Representative'],['NY'],"['Jacksonian', 'Federalist']",13-20
+O000041,Aaron,Ogden,,,1756.0,1839.0,2,['Senator'],['NJ'],['Federalist'],6-7
+O000043,David,Ogden,A.,,1770.0,1829.0,1,['Representative'],['NY'],['Federalist'],15-15
+O000045,Alexander,Ogle,,,1766.0,1832.0,1,['Representative'],['PA'],['Democratic Republican'],15-15
+O000060,Simeon,Olcott,,,1735.0,1815.0,2,['Senator'],['NH'],['Federalist'],7-8
+O000067,Gideon,Olin,,,1743.0,1823.0,2,['Representative'],['VT'],['Democratic Republican'],8-9
+O000068,Henry,Olin,,,1768.0,1837.0,1,['Representative'],['VT'],['Adams-Clay Republican'],18-18
+O000100,Stephen,Ormsby,,,1759.0,1844.0,3,['Representative'],['KY'],['Democratic Republican'],12-14
+O000101,Alexander,Orr,Dalrymple,,1761.0,1835.0,3,['Representative'],['KY'],"['Democratic Republican', 'Anti-Administration']",2-4
+O000102,Benjamin,Orr,,,1772.0,1828.0,1,['Representative'],['MA'],['Federalist'],15-15
+O000105,Robert,Orr,,Jr.,1786.0,1876.0,2,['Representative'],['PA'],['Jacksonian'],19-20
+O000115,Gayton,Osgood,Pickman,,1797.0,1861.0,1,['Representative'],['MA'],['Jacksonian'],23-23
+O000127,Harrison,Otis,Gray,,1765.0,1848.0,5,"['Senator', 'Representative']",['MA'],['Federalist'],5-17
+O000139,George,Outlaw,,,1771.0,1825.0,1,['Representative'],['NC'],['Crawford Republican'],18-18
+O000142,James,Overstreet,,,1773.0,1822.0,2,['Representative'],['SC'],['Democratic Republican'],16-17
+O000147,Walter,Overton,Hampden,,1788.0,1845.0,1,['Representative'],['LA'],['Jacksonian'],21-21
+O000150,George,Owen,Washington,,1796.0,1837.0,3,['Representative'],['AL'],"['Jackson Republican', 'Jacksonian']",18-20
+O000151,James,Owen,,,1784.0,1865.0,1,['Representative'],['NC'],['Democratic Republican'],15-15
+P000018,John,Page,,,1743.0,1808.0,4,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",1-4
+P000021,Robert,Page,,,1765.0,1840.0,1,['Representative'],['VA'],['Federalist'],6-6
+P000023,Sherman,Page,,,1779.0,1853.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+P000026,Elijah,Paine,,,1757.0,1842.0,4,['Senator'],['VT'],['Federalist'],4-7
+P000036,Beriah,Palmer,,,1740.0,1812.0,1,['Representative'],['NY'],['Democratic Republican'],8-8
+P000041,John,Palmer,,,1785.0,1840.0,2,['Representative'],['NY'],"['Democratic Republican', 'Democrat']",15-25
+P000045,William,Palmer,Adams,,1781.0,1860.0,4,['Senator'],['VT'],"['Democratic Republican', 'Adams-Clay Republican']",15-18
+P000052,Benjamin,Parke,,,1777.0,1835.0,2,['Delegate'],['IN'],[],9-10
+P000058,Isaac,Parker,,,1768.0,1830.0,1,['Representative'],['MA'],['Federalist'],5-5
+P000061,James,Parker,,,1776.0,1868.0,2,['Representative'],['NJ'],['Jacksonian'],23-24
+P000060,James,Parker,,,1768.0,1837.0,2,['Representative'],['MA'],['Democratic Republican'],13-16
+P000065,Josiah,Parker,,,1751.0,1810.0,6,['Representative'],['VA'],"['Pro-Administration', 'Federalist', 'Anti-Administration']",1-6
+P000067,Nahum,Parker,,,1760.0,1839.0,2,['Senator'],['NH'],['Democratic Republican'],10-11
+P000072,Severn,Parker,Eyre,,1787.0,1836.0,1,['Representative'],['VA'],['Democratic Republican'],16-16
+P000074,Gorham,Parks,,,1794.0,1877.0,2,['Representative'],['ME'],['Jacksonian'],23-24
+P000079,Albion,Parris,Keith,,1788.0,1857.0,3,"['Senator', 'Representative']","['ME', 'MA']","['Democratic Republican', 'Jacksonian']",14-20
+P000084,John,Parrott,Fabyan,,1767.0,1836.0,4,"['Senator', 'Representative']",['NH'],"['Democratic Republican', 'Adams-Clay Republican']",15-18
+P000092,George,Partridge,,,1740.0,1828.0,3,"['Delegate', 'Representative']",['MA'],['Pro-Administration'],1-2
+P000101,John,Paterson,,,1744.0,1808.0,1,['Representative'],['NY'],['Democratic Republican'],8-8
+P000102,William,Paterson,,,1745.0,1806.0,1,['Senator'],['NJ'],['Pro-Administration'],1-1
+P000108,John,Patten,,,1746.0,1800.0,3,"['Delegate', 'Representative']",['DE'],"['Democratic Republican', 'Anti-Administration']",1-4
+P000122,John,Patterson,,,1771.0,1848.0,1,['Representative'],['OH'],['Adams-Clay Republican'],18-18
+P000128,Thomas,Patterson,,,1764.0,1841.0,4,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican']",15-18
+P000131,Walter,Patterson,,,,,1,['Representative'],['NY'],['Federalist'],17-17
+P000132,William,Patterson,,,1790.0,1868.0,2,['Representative'],['OH'],['Jacksonian'],23-24
+P000140,John,Patton,Mercer,,1797.0,1858.0,5,['Representative'],['VA'],"['Democrat', 'Jacksonian']",21-25
+P000146,William,Paulding,,Jr.,1770.0,1854.0,1,['Representative'],['NY'],['Democratic Republican'],12-12
+P000147,Levi,Pawling,,,1773.0,1845.0,1,['Representative'],['PA'],['Federalist'],15-15
+P000160,Dutee,Pearce,Jerauld,,1789.0,1849.0,6,['Representative'],['RI'],"['Adams', 'Anti-Jacksonian', 'Anti-Masonic']",19-24
+P000168,Joseph,Pearson,,,1776.0,1834.0,3,['Representative'],['NC'],['Federalist'],11-13
+P000183,Harmanus,Peek,,,1782.0,1838.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+P000189,John,Pegram,,,1773.0,1831.0,1,['Representative'],['VA'],['Democratic Republican'],15-15
+P000190,Joseph,Peirce,,,1748.0,1812.0,1,['Representative'],['NH'],['Federalist'],7-7
+P000201,Edmund,Pendleton,Henry,,1788.0,1862.0,1,['Representative'],['NY'],['Anti-Jacksonian'],22-22
+P000231,Elias,Perkins,,,1767.0,1845.0,1,['Representative'],['CT'],['Federalist'],7-7
+P000250,George,Peter,,,1779.0,1861.0,3,['Representative'],['MD'],"['Jacksonian', 'Federalist']",14-19
+P000275,Spencer,Pettis,Darwin,,1802.0,1831.0,1,['Representative'],['MO'],['Jacksonian'],21-21
+P000282,Balie,Peyton,,,1803.0,1878.0,2,['Representative'],['TN'],"['Jacksonian', 'Anti-Jacksonian']",23-24
+P000294,Elisha,Phelps,,,1779.0,1847.0,3,['Representative'],['CT'],"['Democratic Republican', 'Adams']",16-20
+P000298,Oliver,Phelps,,,1749.0,1809.0,1,['Representative'],['NY'],['Democratic Republican'],8-8
+P000310,John,Phillips,,,,,1,['Representative'],['PA'],['Federalist'],17-17
+P000312,Stephen,Phillips,Clarendon,,1801.0,1857.0,3,['Representative'],['MA'],"['Whig', 'Anti-Jacksonian']",23-25
+P000316,Robert,Philson,,,1759.0,1831.0,1,['Representative'],['PA'],['Democratic Republican'],16-16
+P000320,Andrew,Pickens,,,1739.0,1817.0,1,['Representative'],['SC'],['Anti-Administration'],3-3
+P000321,Francis,Pickens,Wilkinson,,1805.0,1869.0,5,['Representative'],['SC'],"['Democrat', 'Nullifier']",23-27
+P000322,Israel,Pickens,,,1780.0,1827.0,4,"['Senator', 'Representative']","['AL', 'NC']","['Democratic Republican', 'Jacksonian']",12-19
+P000324,Timothy,Pickering,,,1745.0,1829.0,6,"['Senator', 'Representative']",['MA'],['Federalist'],8-14
+P000330,Benjamin,Pickman,,Jr.,1763.0,1843.0,1,['Representative'],['MA'],['Federalist'],11-11
+P000333,Franklin,Pierce,,,1804.0,1869.0,5,"['Senator', 'Representative']",['NH'],['Democrat'],23-27
+P000341,Isaac,Pierson,,,1770.0,1833.0,2,['Representative'],['NJ'],"['Adams', 'Anti-Jacksonian']",20-21
+P000342,Jeremiah,Pierson,Halsey,,1766.0,1855.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+P000343,Job,Pierson,,,1791.0,1860.0,2,['Representative'],['NY'],['Jacksonian'],22-23
+P000354,Charles,Pinckney,,,1757.0,1824.0,5,"['Senator', 'Delegate', 'Representative']",['SC'],['Democratic Republican'],1-16
+P000355,Henry,Pinckney,Laurens,,1794.0,1863.0,2,['Representative'],['SC'],['Nullifier'],23-24
+P000357,Thomas,Pinckney,,,1750.0,1828.0,2,['Representative'],['SC'],['Federalist'],5-6
+P000358,James,Pindall,,,1783.0,1825.0,2,['Representative'],['VA'],['Federalist'],15-16
+P000362,William,Pinkney,,,1764.0,1822.0,4,"['Senator', 'Representative']",['MD'],['Democratic Republican'],2-17
+P000363,William,Piper,,,1774.0,1852.0,3,['Representative'],['PA'],['Democratic Republican'],12-14
+P000367,Nathaniel,Pitcher,,,1777.0,1836.0,3,['Representative'],['NY'],"['Democratic Republican', 'Jacksonian']",16-22
+P000368,Timothy,Pitkin,,,1766.0,1847.0,7,['Representative'],['CT'],['Federalist'],9-15
+P000375,David,Plant,,,1783.0,1851.0,1,['Representative'],['CT'],['Adams'],20-20
+P000378,Thomas,Plater,,,1769.0,1830.0,2,['Representative'],['MD'],['Federalist'],7-8
+P000381,Jonas,Platt,,,1769.0,1834.0,1,['Representative'],['NY'],['Federalist'],6-6
+P000386,James,Pleasants,,,1769.0,1836.0,7,"['Senator', 'Representative']",['VA'],['Democratic Republican'],12-17
+P000392,George,Plumer,,,1762.0,1843.0,3,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+P000394,William,Plumer,,Jr.,1789.0,1854.0,3,['Representative'],['NH'],"['Democratic Republican', 'Adams-Clay Republican']",16-18
+P000393,William,Plumer,,,1759.0,1850.0,3,['Senator'],['NH'],['Federalist'],7-9
+P000397,Franklin,Plummer,E.,,1795.0,1852.0,2,['Representative'],['MS'],['Jacksonian'],22-23
+P000402,George,Poindexter,,,1779.0,1853.0,7,"['Senator', 'Delegate', 'Representative']",['MS'],"['Democratic Republican', 'Jacksonian', 'Anti-Jacksonian']",10-23
+P000404,Joel,Poinsett,Roberts,,1779.0,1851.0,3,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+P000409,James,Polk,Knox,,1795.0,1849.0,7,['Representative'],['TN'],"['Democrat', 'Jacksonian']",19-25
+P000425,Benjamin,Pond,,,1768.0,1814.0,1,['Representative'],['NY'],['Democratic Republican'],12-12
+P000431,John,Pope,,,1770.0,1845.0,6,"['Senator', 'Representative']",['KY'],"['Democratic Republican', 'Whig']",10-27
+P000432,Nathaniel,Pope,,,1784.0,1850.0,2,['Delegate'],['IL'],[],14-15
+P000433,Patrick,Pope,Hamilton,,1806.0,1841.0,1,['Representative'],['KY'],['Jacksonian'],23-23
+P000436,Alexander,Porter,,,1785.0,1844.0,2,['Senator'],['LA'],['Anti-Jacksonian'],23-24
+P000442,James,Porter,,,1787.0,1839.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+P000443,John,Porter,,,,,3,['Representative'],['PA'],['Democratic Republican'],9-11
+P000446,Peter,Porter,Buell,,1773.0,1844.0,3,['Representative'],['NY'],['Democratic Republican'],11-14
+P000448,Timothy,Porter,H.,,1785.0,1845.0,1,['Representative'],['NY'],['Adams'],19-19
+P000450,Thomas,Posey,,,1750.0,1818.0,1,['Senator'],['LA'],['Democratic Republican'],12-12
+P000455,Jotham,Post,,Jr.,1771.0,1817.0,1,['Representative'],['NY'],['Federalist'],13-13
+P000463,Elisha,Potter,Reynolds,,1764.0,1835.0,5,['Representative'],['RI'],['Federalist'],4-13
+P000467,Robert,Potter,,,1800.0,1842.0,2,['Representative'],['NC'],['Jacksonian'],21-22
+P000468,Samuel,Potter,John,,1753.0,1804.0,1,['Senator'],['RI'],['Democratic Republican'],8-8
+P000472,David,Potts,,Jr.,1794.0,1863.0,4,['Representative'],['PA'],['Anti-Masonic'],22-25
+P000473,Richard,Potts,,,1753.0,1808.0,4,"['Senator', 'Delegate']",['MD'],['Pro-Administration'],1-4
+P000478,Alfred,Powell,H.,,1781.0,1831.0,1,['Representative'],['VA'],['Adams'],19-19
+P000482,Leven,Powell,,,1737.0,1810.0,1,['Representative'],['VA'],['Federalist'],6-6
+P000484,Samuel,Powell,,,1776.0,1841.0,1,['Representative'],['TN'],['Democratic Republican'],14-14
+P000489,Gershom,Powers,,,1789.0,1831.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+P000493,Julien,Poydras,de Lallande,,1740.0,1824.0,1,['Delegate'],['OL'],[],11-11
+P000510,Samuel,Prentiss,,,1782.0,1857.0,6,['Senator'],['VT'],['Anti-Jacksonian'],22-27
+P000514,Francis,Preston,,,1765.0,1835.0,2,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",3-4
+P000519,William,Preston,Campbell,,1794.0,1860.0,5,['Senator'],['SC'],['Nullifier'],23-27
+P000539,Oliver,Prince,Hillhouse,,1787.0,1837.0,1,['Senator'],['GA'],['Jacksonian'],20-20
+P000540,William,Prince,,,1772.0,1824.0,1,['Representative'],['IN'],['Democratic Republican'],18-18
+P000562,John,Pugh,,,1761.0,1842.0,2,['Representative'],['PA'],['Democratic Republican'],9-10
+P000577,Samuel,Purviance,Dinsmore,,1774.0,1806.0,1,['Representative'],['NC'],['Federalist'],8-8
+Q000005,Tunstall,Quarles,,,1770.0,1855.0,2,['Representative'],['KY'],['Democratic Republican'],15-16
+Q000015,Josiah,Quincy,,,1772.0,1864.0,4,['Representative'],['MA'],['Federalist'],9-12
+R000028,Robert,Ramsey,,,1780.0,1849.0,2,['Representative'],['PA'],"['Whig', 'Jacksonian']",23-27
+R000029,William,Ramsey,,,1779.0,1831.0,3,['Representative'],['PA'],['Jacksonian'],20-22
+R000044,James,Randolph,Fitz,,1791.0,1872.0,3,['Representative'],['NJ'],"['Adams', 'Anti-Jacksonian']",20-22
+R000047,John,Randolph,,,1773.0,1833.0,14,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",6-20
+R000051,Thomas,Randolph,Mann,,1768.0,1828.0,2,['Representative'],['VA'],['Democratic Republican'],8-9
+R000054,Christopher,Rankin,,,1788.0,1826.0,4,['Representative'],['MS'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",16-19
+R000089,John,Rea,,,1755.0,1829.0,5,['Representative'],['PA'],['Democratic Republican'],8-13
+R000091,George,Read,,,1733.0,1798.0,5,"['Senator', 'Delegate']",['DE'],['Pro-Administration'],1-3
+R000092,Jacob,Read,,,1752.0,1816.0,4,"['Senator', 'Delegate']",['SC'],['Federalist'],1-6
+R000093,Nathan,Read,,,1759.0,1849.0,2,['Representative'],['MA'],['Federalist'],6-7
+R000115,Edward,Reed,Cambridge,,1793.0,1883.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+R000121,John,Reed,,,1781.0,1860.0,12,['Representative'],['MA'],"['Whig', 'Adams-Clay Federalist', 'Federalist', 'Anti-Masonic', 'Adams', 'Anti-Jacksonian']",13-26
+R000120,John,Reed,,,1751.0,1831.0,3,['Representative'],['MA'],['Federalist'],4-6
+R000125,Philip,Reed,,,1760.0,1829.0,6,"['Senator', 'Representative']",['MD'],['Democratic Republican'],9-17
+R000129,Thomas,Reed,Buck,,1787.0,1829.0,2,['Senator'],['MS'],['Jacksonian'],19-21
+R000130,William,Reed,,,1776.0,1837.0,2,['Representative'],['MA'],['Federalist'],12-13
+R000151,Robert,Reid,Raymond,,1789.0,1841.0,3,['Representative'],['GA'],['Democratic Republican'],15-17
+R000162,Abraham,Rencher,,,1798.0,1883.0,6,['Representative'],['NC'],"['Whig', 'Jacksonian', 'Anti-Jacksonian']",21-27
+R000173,James,Reynolds,B.,,1779.0,1851.0,2,['Representative'],['TN'],"['Democratic Republican', 'Jackson Republican']",14-18
+R000174,John,Reynolds,,,1788.0,1865.0,4,['Representative'],['IL'],"['Democrat', 'Jacksonian']",23-27
+R000181,John,Rhea,,,1753.0,1832.0,9,['Representative'],['TN'],['Democratic Republican'],8-17
+R000204,Thomas,Rice,,,1768.0,1854.0,2,['Representative'],['MA'],['Federalist'],14-15
+R000207,Charles,Rich,,,1771.0,1824.0,5,['Representative'],['VT'],['Democratic Republican'],13-18
+R000210,Gabriel,Richard,,,1767.0,1832.0,1,['Delegate'],['MI'],[],18-18
+R000212,Jacob,Richards,,,1773.0,1816.0,3,['Representative'],['PA'],['Democratic Republican'],8-10
+R000216,John,Richards,,,1765.0,1850.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+R000215,John,Richards,,,1753.0,1822.0,1,['Representative'],['PA'],['Democratic Republican'],4-4
+R000217,Mark,Richards,,,1760.0,1844.0,2,['Representative'],['VT'],['Democratic Republican'],15-16
+R000218,Matthias,Richards,,,1758.0,1830.0,2,['Representative'],['PA'],['Democratic Republican'],10-11
+R000226,Joseph,Richardson,,,1778.0,1871.0,2,['Representative'],['MA'],"['Adams', 'Anti-Jacksonian']",20-21
+R000231,William,Richardson,Merchant,,1774.0,1838.0,2,['Representative'],['MA'],['Democratic Republican'],12-13
+R000235,Jonathan,Richmond,,,1774.0,1853.0,1,['Representative'],['NY'],['Democratic Republican'],16-16
+R000245,Henry,Ridgely,Moore,,1779.0,1847.0,4,"['Senator', 'Representative']",['DE'],"['Jacksonian', 'Federalist']",12-20
+R000257,Samuel,Riker,,,1743.0,1823.0,2,['Representative'],['NY'],['Democratic Republican'],8-10
+R000263,Samuel,Ringgold,,,1770.0,1829.0,5,['Representative'],['MD'],['Democratic Republican'],11-16
+R000266,James,Ripley,Wheelock,,1786.0,1835.0,3,['Representative'],['ME'],['Jacksonian'],19-21
+R000285,William,Rives,Cabell,,1793.0,1868.0,10,"['Senator', 'Representative']",['VA'],"['Democrat', 'Whig', 'Jacksonian', 'Crawford Republican']",18-28
+R000292,John,Roane,Jones,,1794.0,1869.0,1,['Representative'],['VA'],['Jacksonian'],22-22
+R000291,John,Roane,,,1766.0,1838.0,6,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian']",11-24
+R000293,William,Roane,Henry,,1787.0,1845.0,3,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Democrat']",14-26
+R000297,Asher,Robbins,,,1761.0,1845.0,7,['Senator'],['RI'],"['Whig', 'Adams', 'Anti-Jacksonian']",19-25
+R000313,Jonathan,Roberts,,,1771.0,1854.0,6,"['Senator', 'Representative']",['PA'],['Democratic Republican'],12-16
+R000322,George,Robertson,,,1790.0,1874.0,2,['Representative'],['KY'],['Democratic Republican'],15-16
+R000323,John,Robertson,,,1787.0,1873.0,3,['Representative'],['VA'],"['Whig', 'Anti-Jacksonian']",23-25
+R000326,Thomas,Robertson,Bolling,,1779.0,1828.0,4,['Representative'],['LA'],['Democratic Republican'],12-15
+R000344,John,Robinson,McCracken,,1794.0,1843.0,6,['Senator'],['IL'],"['Democrat', 'Jacksonian']",21-26
+R000346,Jonathan,Robinson,,,1756.0,1819.0,4,['Senator'],['VT'],['Democratic Republican'],10-13
+R000350,Moses,Robinson,,,1741.0,1813.0,3,['Senator'],['VT'],['Anti-Administration'],2-4
+R000360,William,Rochester,Beatty,,1789.0,1838.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+R000375,William,Rodman,,,1757.0,1824.0,1,['Representative'],['PA'],['Democratic Republican'],12-12
+R000377,Caesar,Rodney,Augustus,,1772.0,1824.0,3,"['Senator', 'Representative']",['DE'],['Democratic Republican'],8-17
+R000378,Daniel,Rodney,,,1764.0,1846.0,2,"['Senator', 'Representative']",['DE'],['Adams'],17-19
+R000403,Thomas,Rogers,Jones,,1781.0,1832.0,4,['Representative'],['PA'],['Democratic Republican'],15-18
+R000431,Erastus,Root,,,1773.0,1846.0,4,['Representative'],['NY'],"['Democratic Republican', 'Jacksonian']",8-22
+R000439,Robert,Rose,Selden,,1774.0,1835.0,3,['Representative'],['NY'],"['Adams', 'Adams-Clay Republican', 'Anti-Masonic']",18-21
+R000447,Henry,Ross,Howard,,1790.0,1862.0,1,['Representative'],['NY'],['Adams'],19-19
+R000448,James,Ross,,,1762.0,1847.0,5,['Senator'],['PA'],"['Pro-Administration', 'Federalist']",3-7
+R000449,John,Ross,,,1770.0,1834.0,3,['Representative'],['PA'],['Democratic Republican'],11-15
+R000456,Thomas,Ross,Randolph,,1788.0,1869.0,3,['Representative'],['OH'],"['Democratic Republican', 'Crawford Republican']",16-18
+R000471,John,Rowan,,,1773.0,1843.0,4,"['Senator', 'Representative']",['KY'],"['Democratic Republican', 'Jacksonian']",10-21
+R000500,Benjamin,Ruggles,,,1783.0,1857.0,9,['Senator'],['OH'],"['Democratic Republican', 'Adams', 'Anti-Jacksonian', 'Crawford Republican']",14-22
+R000501,Charles,Ruggles,Herman,,1789.0,1865.0,1,['Representative'],['NY'],['Federalist'],17-17
+R000502,John,Ruggles,,,1789.0,1874.0,4,['Senator'],['ME'],"['Democrat', 'Jacksonian']",23-26
+R000503,Nathaniel,Ruggles,,,1761.0,1819.0,3,['Representative'],['MA'],['Federalist'],13-15
+R000519,John,Russ,,,1767.0,1833.0,2,['Representative'],['CT'],['Democratic Republican'],16-17
+R000529,John,Russell,,,1772.0,1842.0,2,['Representative'],['NY'],['Democratic Republican'],9-10
+R000531,Jonathan,Russell,,,1771.0,1832.0,1,['Representative'],['MA'],['Democratic Republican'],17-17
+R000540,William,Russell,,,1782.0,1845.0,4,['Representative'],['OH'],"['Whig', 'Jacksonian']",20-27
+R000548,Robert,Rutherford,,,1728.0,1803.0,2,['Representative'],['VA'],"['Democratic Republican', 'Anti-Administration']",3-4
+R000550,John,Rutherfurd,,,1760.0,1840.0,4,['Senator'],['NJ'],['Pro-Administration'],2-5
+R000553,John,Rutledge,,Jr.,1766.0,1819.0,3,['Representative'],['SC'],['Federalist'],5-7
+S000012,Ebenezer,Sage,,,1755.0,1834.0,4,['Representative'],['NY'],['Democratic Republican'],11-16
+S000015,Peter,Sailly,,,1754.0,1826.0,1,['Representative'],['NY'],['Democratic Republican'],9-9
+S000023,Thomas,Sammons,,,1762.0,1838.0,4,['Representative'],['NY'],"['Democratic Republican', 'Federalist']",8-12
+S000026,Zabdiel,Sampson,,,1781.0,1828.0,2,['Representative'],['MA'],['Democratic Republican'],15-16
+S000040,James,Sandford,T.,,,,1,['Representative'],['TN'],['Jackson Republican'],18-18
+S000041,Thomas,Sandford,,,1762.0,1808.0,2,['Representative'],['KY'],['Democratic Republican'],8-9
+S000046,Joshua,Sands,,,1757.0,1835.0,2,['Representative'],['NY'],"['Adams', 'Federalist']",8-19
+S000050,Jonah,Sanford,,,1790.0,1867.0,1,['Representative'],['NY'],['Jacksonian'],21-21
+S000052,Nathan,Sanford,,,1777.0,1838.0,6,['Senator'],['NY'],"['Democratic Republican', 'Adams', 'Anti-Jacksonian']",14-21
+S000078,Romulus,Saunders,Mitchell,,1791.0,1867.0,5,['Representative'],['NC'],"['Democratic Republican', 'Jacksonian', 'Democrat', 'Crawford Republican']",17-28
+S000082,John,Savage,,,1779.0,1863.0,2,['Representative'],['NY'],['Democratic Republican'],14-15
+S000089,Lemuel,Sawyer,,,1777.0,1852.0,8,['Representative'],['NC'],"['Democratic Republican', 'Jacksonian']",10-20
+S000098,Benjamin,Say,,,1755.0,1813.0,2,['Representative'],['PA'],['Democratic Republican'],10-11
+S000115,Abraham,Schenck,Henry,,1775.0,1831.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+S000116,Ferdinand,Schenck,Schureman,,1790.0,1860.0,2,['Representative'],['NJ'],['Jacksonian'],23-24
+S000130,William,Schley,,,1786.0,1858.0,1,['Representative'],['GA'],['Jacksonian'],23-23
+S000140,Cornelius,Schoonmaker,Corneliusen,,1745.0,1796.0,1,['Representative'],['NY'],['Anti-Administration'],2-2
+S000149,Martin,Schuneman,Gerretsen,,1764.0,1827.0,1,['Representative'],['NY'],['Democratic Republican'],9-9
+S000150,James,Schureman,,,1756.0,1824.0,5,"['Senator', 'Delegate', 'Representative']",['NJ'],"['Pro-Administration', 'Federalist']",1-13
+S000153,Philip,Schuyler,Jeremiah,,1768.0,1835.0,1,['Representative'],['NY'],['Federalist'],15-15
+S000154,Philip,Schuyler,John,,1733.0,1804.0,3,"['Senator', 'Delegate']",['NY'],['Pro-Administration'],1-5
+S000175,John,Scott,,,1784.0,1850.0,1,['Representative'],['PA'],['Jacksonian'],21-21
+S000176,John,Scott,,,1785.0,1861.0,6,"['Delegate', 'Representative']",['MO'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",14-19
+S000186,Thomas,Scott,,,1739.0,1796.0,2,['Representative'],['PA'],['Pro-Administration'],1-3
+S000200,John,Scudder,Anderson,,1759.0,1836.0,1,['Representative'],['NJ'],['Democratic Republican'],11-11
+S000203,Tredwell,Scudder,,,1778.0,1834.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+S000215,Ebenezer,Seaver,,,1763.0,1844.0,5,['Representative'],['MA'],['Democratic Republican'],8-12
+S000222,Theodore,Sedgwick,,,1746.0,1813.0,8,"['Senator', 'Delegate', 'Representative']",['MA'],['Federalist'],1-6
+S000233,Dudley,Selden,,,1797.0,1855.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+S000238,Benedict,Semmes,Joseph,,1789.0,1863.0,2,['Representative'],['MD'],['Anti-Jacksonian'],21-22
+S000242,Joshua,Seney,,,1756.0,1798.0,3,"['Delegate', 'Representative']",['MD'],['Anti-Administration'],1-2
+S000246,John,Sergeant,,,1779.0,1852.0,8,['Representative'],['PA'],"['Whig', 'Adams', 'Federalist']",14-27
+S000254,Thomas,Settle,,,1789.0,1857.0,2,['Representative'],['NC'],['Democratic Republican'],15-16
+S000256,Ambrose,Sevier,Hundley,,1801.0,1848.0,12,"['Senator', 'Delegate']",['AR'],"['Democrat', 'Jacksonian']",20-30
+S000257,John,Sevier,,,1745.0,1815.0,4,['Representative'],"['TN', 'NC']","['Democratic Republican', 'Pro-Administration']",1-14
+S000258,Charles,Sewall,S.,,1779.0,1848.0,2,['Representative'],['MD'],"['Democrat', 'Jacksonian']",22-27
+S000259,Samuel,Sewall,,,1757.0,1814.0,3,['Representative'],['MA'],['Federalist'],4-6
+S000264,Adam,Seybert,,,1773.0,1825.0,4,['Representative'],['PA'],['Democratic Republican'],11-15
+S000268,Horatio,Seymour,,,1778.0,1857.0,6,['Senator'],['VT'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",17-22
+S000289,Thomas,Shannon,,,1786.0,1843.0,1,['Representative'],['OH'],['Adams'],19-19
+S000295,Solomon,Sharp,P.,,1780.0,1825.0,2,['Representative'],['KY'],['Democratic Republican'],13-14
+S000297,Peter,Sharpe,,,1777.0,1842.0,2,['Representative'],['NY'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+S000307,Henry,Shaw,,,1788.0,1857.0,2,['Representative'],['MA'],['Democratic Republican'],15-16
+S000310,Samuel,Shaw,,,1768.0,1827.0,3,['Representative'],['VT'],['Democratic Republican'],10-12
+S000312,James,Sheafe,,,1755.0,1829.0,2,"['Senator', 'Representative']",['NH'],['Federalist'],6-7
+S000317,Daniel,Sheffey,,,1770.0,1830.0,4,['Representative'],['VA'],['Federalist'],11-14
+S000331,William,Shepard,Biddle,,1799.0,1852.0,4,['Representative'],['NC'],['Anti-Jacksonian'],21-24
+S000330,William,Shepard,,,1737.0,1817.0,3,['Representative'],['MA'],['Federalist'],5-7
+S000334,Ether,Shepley,,,1789.0,1877.0,2,['Senator'],['ME'],['Jacksonian'],23-24
+S000338,Augustine,Shepperd,Henry,,1792.0,1864.0,9,['Representative'],['NC'],"['Whig', 'Jacksonian', 'Anti-Jacksonian']",20-31
+S000339,John,Sherburne,Samuel,,1757.0,1830.0,2,['Representative'],['NH'],"['Democratic Republican', 'Anti-Administration']",3-4
+S000340,Upton,Sheredine,,,1740.0,1800.0,1,['Representative'],['MD'],['Anti-Administration'],2-2
+S000349,Roger,Sherman,,,1721.0,1793.0,6,"['Senator', 'Delegate', 'Representative']",['CT'],['Pro-Administration'],1-3
+S000357,Samuel,Sherwood,Burr,,1767.0,1833.0,1,['Representative'],['CT'],['Federalist'],15-15
+S000356,Samuel,Sherwood,,,1779.0,1862.0,1,['Representative'],['NY'],['Federalist'],13-13
+S000361,James,Shields,,,1762.0,1831.0,1,['Representative'],['OH'],['Jacksonian'],21-21
+S000365,William,Shinn,Norton,,1782.0,1871.0,2,['Representative'],['NJ'],['Jacksonian'],23-24
+S000366,Zebulon,Shipherd,Rudd,,1768.0,1841.0,1,['Representative'],['NY'],['Federalist'],13-13
+S000397,Jonas,Sibley,,,1762.0,1834.0,1,['Representative'],['MA'],['Adams-Clay Republican'],18-18
+S000400,Solomon,Sibley,,,1769.0,1846.0,2,['Delegate'],['MI'],[],16-17
+S000410,Thomas,Sill,Hale,,1783.0,1856.0,2,['Representative'],['PA'],"['Adams', 'Anti-Jacksonian']",19-21
+S000411,Nathaniel,Silsbee,,,1773.0,1850.0,7,"['Senator', 'Representative']",['MA'],['Adams'],15-23
+S000412,Peter,Silvester,,,1734.0,1808.0,2,['Representative'],['NY'],['Pro-Administration'],1-2
+S000414,Eldred,Simkins,,,1779.0,1831.0,2,['Representative'],['SC'],['Democratic Republican'],15-16
+S000449,Thomas,Sinnickson,,,1786.0,1873.0,1,['Representative'],['NJ'],['Adams'],20-20
+S000448,Thomas,Sinnickson,,,1744.0,1817.0,2,['Representative'],['NJ'],"['Pro-Administration', 'Federalist']",1-5
+S000460,Samuel,Sitgreaves,,,1764.0,1827.0,2,['Representative'],['PA'],['Federalist'],4-5
+S000469,Richard,Skinner,,,1778.0,1833.0,1,['Representative'],['VT'],['Democratic Republican'],13-13
+S000471,Thomson,Skinner,Joseph,,1752.0,1809.0,3,['Representative'],['MA'],['Democratic Republican'],4-8
+S000474,Charles,Slade,,,1797.0,1834.0,1,['Representative'],['IL'],['Jacksonian'],23-23
+S000475,William,Slade,,,1786.0,1859.0,6,['Representative'],['VT'],"['Whig', 'Anti-Masonic']",22-27
+S000483,Amos,Slaymaker,,,1755.0,1837.0,1,['Representative'],['PA'],['Federalist'],13-13
+S000493,James,Sloan,,,1748.0,1831.0,3,['Representative'],['NJ'],['Democratic Republican'],8-10
+S000494,John,Sloane,,,1779.0,1856.0,5,['Representative'],['OH'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",16-20
+S000495,Jonathan,Sloane,,,1785.0,1854.0,2,['Representative'],['OH'],"['Whig', 'Anti-Masonic']",23-24
+S000497,Jesse,Slocumb,,,1780.0,1820.0,2,['Representative'],['NC'],['Federalist'],15-16
+S000507,Dennis,Smelt,,,1763.0,1818.0,3,['Representative'],['GA'],['Democratic Republican'],9-11
+S000508,John,Smilie,,,1741.0,1812.0,8,['Representative'],['PA'],"['Democratic Republican', 'Anti-Administration']",3-12
+S000515,Arthur,Smith,,,1785.0,1853.0,2,['Representative'],['VA'],"['Democratic Republican', 'Crawford Republican']",17-18
+S000516,Ballard,Smith,,,,,3,['Representative'],['VA'],['Democratic Republican'],14-16
+S000518,Bernard,Smith,,,1776.0,1835.0,1,['Representative'],['NJ'],['Democratic Republican'],16-16
+S000524,Daniel,Smith,,,1748.0,1818.0,4,['Senator'],['TN'],['Democratic Republican'],5-11
+S000531,Francis,Smith,Ormand Jonathan,,1806.0,1876.0,3,['Representative'],['ME'],"['Democrat', 'Jacksonian']",23-25
+S000537,George,Smith,,,,,2,['Representative'],['PA'],['Democratic Republican'],11-12
+S000555,Isaac,Smith,,,1740.0,1807.0,1,['Representative'],['NJ'],['Federalist'],4-4
+S000556,Isaac,Smith,,,1761.0,1834.0,1,['Representative'],['PA'],['Democratic Republican'],13-13
+S000557,Israel,Smith,,,1759.0,1810.0,7,"['Senator', 'Representative']",['VT'],['Democratic Republican'],2-10
+S000559,James,Smith,Strudwick,,1790.0,1859.0,2,['Representative'],['NC'],['Democratic Republican'],15-16
+S000562,Jedediah,Smith,Kilburn,,1770.0,1828.0,1,['Representative'],['NH'],['Democratic Republican'],10-10
+S000563,Jeremiah,Smith,,,1759.0,1842.0,4,['Representative'],['NH'],"['Pro-Administration', 'Federalist']",2-5
+S000570,John,Smith,Cotton,,1765.0,1845.0,4,['Representative'],['CT'],['Federalist'],6-9
+S000575,John,Smith,Speed,,1792.0,1854.0,1,['Representative'],['KY'],['Democratic Republican'],17-17
+S000567,John,Smith,,,1735.0,1824.0,3,['Senator'],['OH'],['Democratic Republican'],8-10
+S000564,John,Smith,,,1750.0,1836.0,7,['Representative'],['VA'],['Democratic Republican'],7-13
+S000566,John,Smith,,,1752.0,1816.0,8,"['Senator', 'Representative']","['NY', None]",['Democratic Republican'],6-12
+S000582,Josiah,Smith,,,1738.0,1803.0,1,['Representative'],['MA'],['Democratic Republican'],7-7
+S000594,Nathan,Smith,,,1770.0,1835.0,2,['Senator'],['CT'],['Anti-Jacksonian'],23-24
+S000595,Nathaniel,Smith,,,1762.0,1822.0,2,['Representative'],['CT'],['Federalist'],4-5
+S000598,O'Brien,Smith,,,1756.0,1811.0,1,['Representative'],['SC'],['Democratic Republican'],9-9
+S000599,Oliver,Smith,Hampton,,1794.0,1859.0,4,"['Senator', 'Representative']",['IN'],"['Whig', 'Jacksonian']",20-27
+S000611,Samuel,Smith,A.,,1795.0,1861.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+S000609,Samuel,Smith,,,1752.0,1839.0,21,"['Senator', 'Representative']",['MD'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",3-22
+S000610,Samuel,Smith,,,,,3,['Representative'],['PA'],['Democratic Republican'],9-11
+S000608,Samuel,Smith,,,1765.0,1842.0,1,['Representative'],['NH'],['Federalist'],13-13
+S000617,Thomas,Smith,,,1773.0,1846.0,1,['Representative'],['PA'],['Federalist'],14-14
+S000633,William,Smith,Loughton,,1758.0,1812.0,5,['Representative'],['SC'],"['Pro-Administration', 'Federalist']",1-5
+S000638,William,Smith,Stephens,,1755.0,1816.0,1,['Representative'],['NY'],['Federalist'],13-13
+S000625,William,Smith,,,1751.0,1837.0,1,['Representative'],['SC'],['Democratic Republican'],5-5
+S000624,William,Smith,,,1728.0,1814.0,2,"['Delegate', 'Representative']",['MD'],['Anti-Administration'],1-2
+S000626,William,Smith,,,,,3,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",17-19
+S000628,William,Smith,,,1762.0,1840.0,7,['Senator'],['SC'],['Democratic Republican'],14-21
+S000646,Alexander,Smyth,,,1765.0,1830.0,6,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",15-21
+S000681,Nathan,Soule,,,1790.0,1860.0,1,['Representative'],['NY'],['Jacksonian'],22-22
+S000685,Henry,Southard,,,1747.0,1842.0,8,['Representative'],['NJ'],['Democratic Republican'],7-16
+S000686,Isaac,Southard,,,1783.0,1850.0,1,['Representative'],['NJ'],['Anti-Jacksonian'],22-22
+S000689,Samuel,Southard,Lewis,,1787.0,1842.0,7,['Senator'],['NJ'],"['Democratic Republican', 'Whig', 'Anti-Jacksonian']",16-27
+S000693,Richard,Spaight,Dobbs,,1758.0,1802.0,3,"['Delegate', 'Representative']",['NC'],['Democratic Republican'],1-6
+S000694,Richard,Spaight,Dobbs,Jr.,1796.0,1850.0,1,['Representative'],['NC'],['Crawford Republican'],18-18
+S000698,Thomas,Spalding,,,1774.0,1851.0,1,['Representative'],['GA'],['Democratic Republican'],9-9
+S000699,David,Spangler,,,1796.0,1856.0,2,['Representative'],['OH'],"['Whig', 'Anti-Jacksonian']",23-24
+S000700,Jacob,Spangler,,,1767.0,1843.0,1,['Representative'],['PA'],['Democratic Republican'],15-15
+S000710,Thomas,Speed,,,1768.0,1842.0,1,['Representative'],['KY'],['Democratic Republican'],15-15
+S000715,Jesse,Speight,,,1795.0,1847.0,6,"['Senator', 'Representative']","['NC', 'MS']","['Democrat', 'Jacksonian']",21-30
+S000719,John,Spence,Selby,,1788.0,1840.0,5,"['Senator', 'Representative']",['MD'],"['Whig', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-26
+S000721,Ambrose,Spencer,,,1765.0,1848.0,1,['Representative'],['NY'],['Anti-Jacksonian'],21-21
+S000722,Elijah,Spencer,,,1775.0,1852.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+S000727,John,Spencer,Canfield,,1788.0,1855.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+S000729,Richard,Spencer,,,1796.0,1868.0,1,['Representative'],['MD'],['Jacksonian'],21-21
+S000743,Peleg,Sprague,,,1756.0,1800.0,1,['Representative'],['NH'],['Federalist'],5-5
+S000744,Peleg,Sprague,,,1793.0,1880.0,5,"['Senator', 'Representative']",['ME'],"['Adams', 'Anti-Jacksonian']",19-23
+S000751,Michael,Sprigg,Cresap,,1791.0,1845.0,2,['Representative'],['MD'],['Jacksonian'],20-21
+S000752,Richard,Sprigg,,Jr.,1769.0,1806.0,3,['Representative'],['MD'],['Democratic Republican'],4-7
+S000753,Thomas,Sprigg,,,1747.0,1809.0,2,['Representative'],['MD'],"['Democratic Republican', 'Anti-Administration']",3-4
+S000788,William,Stanbery,,,1788.0,1873.0,3,['Representative'],['OH'],"['Jacksonian', 'Anti-Jacksonian']",20-22
+S000789,James,Standifer,Israel,,1782.0,1837.0,5,['Representative'],['TN'],"['Jackson Republican', 'Jacksonian', 'Anti-Jacksonian']",18-24
+S000794,Richard,Stanford,,,1767.0,1816.0,10,['Representative'],['NC'],['Democratic Republican'],5-14
+S000800,John,Stanly,,,1774.0,1834.0,2,['Representative'],['NC'],['Federalist'],7-11
+S000805,Joseph,Stanton,,Jr.,1739.0,1821.0,5,"['Senator', 'Representative']",['RI'],"['Democratic Republican', 'Anti-Administration']",1-9
+S000821,Asahel,Stearns,,,1774.0,1839.0,1,['Representative'],['MA'],['Federalist'],14-14
+S000828,William,Stedman,,,1765.0,1831.0,4,['Representative'],['MA'],['Federalist'],8-11
+S000834,John,Steele,Nevett,,1796.0,1853.0,2,['Representative'],['MD'],"['Whig', 'Anti-Jacksonian']",23-24
+S000832,John,Steele,,,1764.0,1815.0,2,['Representative'],['NC'],['Pro-Administration'],1-2
+S000859,Philander,Stephens,,,1788.0,1842.0,2,['Representative'],['PA'],['Jacksonian'],21-22
+S000862,Benjamin,Stephenson,,,1769.0,1822.0,2,['Delegate'],['IL'],[],13-14
+S000864,James,Stephenson,,,1764.0,1833.0,4,['Representative'],['VA'],"['Crawford Federalist', 'Federalist']",8-18
+S000866,Samuel,Sterett,,,1758.0,1833.0,1,['Representative'],['MD'],['Anti-Administration'],2-2
+S000867,John,Sterigere,Benton,,1793.0,1852.0,2,['Representative'],['PA'],['Jacksonian'],20-21
+S000868,Ansel,Sterling,,,1782.0,1853.0,2,['Representative'],['CT'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+S000871,Micah,Sterling,,,1784.0,1844.0,1,['Representative'],['NY'],['Federalist'],17-17
+S000882,James,Stevens,,,1768.0,1835.0,1,['Representative'],['CT'],['Democratic Republican'],16-16
+S000891,Andrew,Stevenson,,,1784.0,1857.0,7,['Representative'],['VA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",17-23
+S000892,James,Stevenson,S.,,1780.0,1831.0,2,['Representative'],['PA'],['Jacksonian'],19-20
+S000899,Andrew,Stewart,,,1791.0,1872.0,9,['Representative'],['PA'],"['Whig', 'Jacksonian', 'Anti-Masonic', 'Adams', 'Jackson Republican', 'Democratic Republican']",17-30
+S000909,James,Stewart,,,1775.0,1821.0,1,['Representative'],['NC'],['Federalist'],15-15
+S000912,John,Stewart,,,,1820.0,3,['Representative'],['PA'],['Democratic Republican'],6-8
+S000941,Richard,Stockton,,,1764.0,1828.0,3,"['Senator', 'Representative']",['NJ'],['Federalist'],4-13
+S000943,Ebenezer,Stoddard,,,1785.0,1847.0,2,['Representative'],['CT'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+S000944,John,Stoddert,Truman,,1790.0,1870.0,1,['Representative'],['MD'],['Jacksonian'],23-23
+S000949,Montfort,Stokes,,,1762.0,1842.0,4,['Senator'],['NC'],['Democratic Republican'],14-17
+S000955,David,Stone,,,1770.0,1818.0,5,"['Senator', 'Representative']",['NC'],['Democratic Republican'],6-13
+S000961,Michael,Stone,Jenifer,,1747.0,1812.0,1,['Representative'],['MD'],['Anti-Administration'],1-1
+S000972,Clement,Storer,,,1760.0,1830.0,2,"['Senator', 'Representative']",['NH'],['Democratic Republican'],10-15
+S000976,Henry,Storrs,Randolph,,1787.0,1837.0,6,['Representative'],['NY'],"['Adams', 'Adams-Clay Federalist', 'Federalist', 'Anti-Jacksonian']",15-21
+S000977,William,Storrs,Lucius,,1795.0,1861.0,3,['Representative'],['CT'],"['Whig', 'Anti-Jacksonian']",21-26
+S000978,Joseph,Story,,,1779.0,1845.0,1,['Representative'],['MA'],['Democratic Republican'],10-10
+S000984,Silas,Stow,,,1773.0,1827.0,1,['Representative'],['NY'],['Democratic Republican'],12-12
+S000986,John,Stower,G.,,1791.0,1850.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+S000994,John,Stratton,,,1769.0,1804.0,1,['Representative'],['VA'],['Federalist'],7-7
+S001002,Randall,Street,S.,,1780.0,1841.0,1,['Representative'],['NY'],['Federalist'],16-16
+S001009,Caleb,Strong,,,1745.0,1819.0,4,['Senator'],['MA'],['Pro-Administration'],1-4
+S001010,James,Strong,,,1783.0,1847.0,5,['Representative'],['NY'],"['Adams', 'Adams-Clay Federalist', 'Federalist', 'Anti-Jacksonian']",16-21
+S001017,Solomon,Strong,,,1780.0,1850.0,2,['Representative'],['MA'],['Federalist'],14-15
+S001022,William,Strong,,,1763.0,1840.0,3,['Representative'],['VT'],['Democratic Republican'],12-16
+S001023,George,Strother,French,,1783.0,1840.0,2,['Representative'],['VA'],['Democratic Republican'],15-16
+S001029,William,Strudwick,Francis,,1765.0,1812.0,1,['Representative'],['NC'],['Federalist'],4-4
+S001036,Philip,Stuart,,,1760.0,1830.0,4,['Representative'],['MD'],['Federalist'],12-15
+S001047,Jonathan,Sturges,,,1740.0,1819.0,3,"['Delegate', 'Representative']",['CT'],['Pro-Administration'],1-2
+S001048,Lewis,Sturges,Burr,,1763.0,1844.0,6,['Representative'],['CT'],['Federalist'],9-14
+S001052,George,Sullivan,,,1771.0,1838.0,1,['Representative'],['NH'],['Federalist'],12-12
+S001073,Thomas,Sumter,,,1734.0,1832.0,10,"['Senator', 'Representative']",['SC'],['Democratic Republican'],1-11
+S001083,Joel,Sutherland,Barlow,,1792.0,1861.0,5,['Representative'],['PA'],['Jacksonian'],20-24
+S001088,Samuel,Swan,,,1771.0,1844.0,5,['Representative'],['NJ'],"['Democratic Republican', 'Adams', 'Jackson Republican', 'Anti-Jacksonian']",17-21
+S001095,John,Swanwick,,,1760.0,1798.0,2,['Representative'],['PA'],['Democratic Republican'],4-5
+S001096,Peter,Swart,,,1752.0,1829.0,1,['Representative'],['NY'],['Democratic Republican'],10-10
+S001116,Benjamin,Swift,,,1781.0,1847.0,5,"['Senator', 'Representative']",['VT'],"['Adams', 'Anti-Jacksonian']",20-25
+S001119,Zephaniah,Swift,,,1759.0,1823.0,2,['Representative'],['CT'],"['Pro-Administration', 'Federalist']",3-4
+S001125,Jacob,Swoope,,,,1832.0,1,['Representative'],['VA'],['Federalist'],11-11
+T000003,Thomas,Taber,,II,1785.0,1862.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+T000012,Samuel,Taggart,,,1754.0,1825.0,7,['Representative'],['MA'],['Federalist'],8-14
+T000015,Charles,Tait,,,1768.0,1835.0,5,['Senator'],['GA'],['Democratic Republican'],11-15
+T000017,Isham,Talbot,,,1773.0,1837.0,6,['Senator'],['KY'],"['Democratic Republican', 'Adams-Clay Republican']",13-18
+T000019,Silas,Talbot,,,1751.0,1813.0,1,['Representative'],['NY'],['Pro-Administration'],3-3
+T000025,Benjamin,Taliaferro,,,1750.0,1821.0,2,['Representative'],['GA'],"['Democratic Republican', 'Federalist']",6-7
+T000027,John,Taliaferro,,,1768.0,1852.0,10,['Representative'],['VA'],"['Whig', 'Adams', 'Anti-Jacksonian', 'Crawford Republican', 'Democratic Republican']",7-27
+T000029,Benjamin,Tallmadge,,,1754.0,1835.0,8,['Representative'],['CT'],['Federalist'],7-14
+T000031,James,Tallmadge,,Jr.,1778.0,1853.0,1,['Representative'],['NY'],['Democratic Republican'],15-15
+T000032,Nathaniel,Tallmadge,Pitcher,,1795.0,1864.0,6,['Senator'],['NY'],"['Democrat', 'Whig', 'Jacksonian']",23-28
+T000033,Peleg,Tallman,,,1764.0,1840.0,1,['Representative'],['MA'],['Democratic Republican'],12-12
+T000036,Adamson,Tannehill,,,1750.0,1820.0,1,['Representative'],['PA'],['Democratic Republican'],13-13
+T000042,Christian,Tarr,,,1765.0,1833.0,2,['Representative'],['PA'],['Democratic Republican'],15-16
+T000047,Magnus,Tate,,,1760.0,1823.0,1,['Representative'],['VA'],['Federalist'],14-14
+T000050,Absalom,Tatom,,,1742.0,1802.0,1,['Representative'],['NC'],['Democratic Republican'],4-4
+T000051,Edward,Tattnall,Fenwick,,1788.0,1832.0,3,['Representative'],['GA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",17-19
+T000052,Josiah,Tattnall,,,1762.0,1803.0,2,['Senator'],['GA'],['Democratic Republican'],4-5
+T000054,Micah,Taul,,,1785.0,1850.0,1,['Representative'],['KY'],['Democratic Republican'],14-14
+T000091,John,Taylor,W.,,1784.0,1854.0,10,['Representative'],['NY'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",13-22
+T000085,John,Taylor,,,1770.0,1832.0,6,"['Senator', 'Representative']",['SC'],['Democratic Republican'],10-14
+T000084,John,Taylor,,,,,1,['Representative'],['SC'],['Democratic Republican'],14-14
+T000086,John,Taylor,,,1753.0,1824.0,5,['Senator'],['VA'],"['Democratic Republican', 'Crawford Republican', 'Anti-Administration']",2-18
+T000097,Robert,Taylor,,,1763.0,1845.0,1,['Representative'],['VA'],['Adams'],19-19
+T000102,Waller,Taylor,,,1786.0,1826.0,5,['Senator'],['IN'],['Democratic Republican'],14-18
+T000105,William,Taylor,Penn,,,,1,['Representative'],['VA'],['Anti-Jacksonian'],23-23
+T000103,William,Taylor,,,1791.0,1865.0,3,['Representative'],['NY'],"['Democrat', 'Jacksonian']",23-25
+T000107,Henry,Tazewell,,,1753.0,1799.0,3,['Senator'],['VA'],['Anti-Administration'],3-5
+T000108,Littleton,Tazewell,Waller,,1774.0,1860.0,6,"['Senator', 'Representative']",['VA'],['Jackson Republican'],6-22
+T000115,Thomas,Telfair,,,1780.0,1818.0,2,['Representative'],['GA'],['Democratic Republican'],13-14
+T000125,Egbert,Ten Eyck,,,1779.0,1844.0,2,['Representative'],['NY'],"['Jacksonian', 'Crawford Republican']",18-19
+T000127,Samuel,Tenney,,,1748.0,1816.0,4,['Representative'],['NH'],['Federalist'],6-9
+T000132,William,Terrell,,,1778.0,1855.0,2,['Representative'],['GA'],['Democratic Republican'],15-16
+T000135,Nathaniel,Terry,,,1768.0,1844.0,1,['Representative'],['CT'],['Federalist'],15-15
+T000138,John,Test,,,1781.0,1849.0,3,['Representative'],['IN'],"['Adams', 'Jackson Republican', 'Anti-Jacksonian']",18-21
+T000141,George,Thacher,,,1754.0,1824.0,7,"['Delegate', 'Representative']",['MA'],['Federalist'],1-6
+T000143,Samuel,Thatcher,,,1776.0,1872.0,2,['Representative'],['MA'],['Federalist'],7-8
+T000163,David,Thomas,,,1762.0,1831.0,4,['Representative'],['NY'],['Democratic Republican'],7-10
+T000166,Francis,Thomas,,,1799.0,1876.0,9,['Representative'],['MD'],"['Jacksonian', 'Republican', 'Unconditional Unionist', 'Democrat', 'Unionist']",22-40
+T000169,Isaac,Thomas,,,1784.0,1859.0,1,['Representative'],['TN'],['Democratic Republican'],14-14
+T000171,Jesse,Thomas,Burgess,,1777.0,1853.0,7,"['Senator', 'Delegate']","['IN', 'IL']","['Democratic Republican', 'Adams', 'Crawford Republican']",10-20
+T000173,John,Thomas,Chew,,1764.0,1836.0,1,['Representative'],['MD'],['Federalist'],6-6
+T000181,Philemon,Thomas,,,1763.0,1847.0,2,['Representative'],['LA'],['Anti-Jacksonian'],22-23
+T000183,Richard,Thomas,,,1744.0,1832.0,3,['Representative'],['PA'],['Federalist'],4-6
+T000202,Hedge,Thompson,,,1780.0,1828.0,1,['Representative'],['NJ'],['Adams'],20-20
+T000205,Joel,Thompson,,,1760.0,1843.0,1,['Representative'],['NY'],['Federalist'],13-13
+T000206,John,Thompson,,,1749.0,1823.0,3,['Representative'],['NY'],['Democratic Republican'],6-11
+T000213,Philip,Thompson,Rootes,,1766.0,1837.0,3,['Representative'],['VA'],['Democratic Republican'],7-9
+T000211,Philip,Thompson,,,1789.0,1836.0,1,['Representative'],['KY'],['Adams-Clay Republican'],18-18
+T000220,Thomas,Thompson,Weston,,1766.0,1821.0,3,"['Senator', 'Representative']",['NH'],['Federalist'],9-14
+T000222,Wiley,Thompson,,,1781.0,1835.0,6,['Representative'],['GA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",17-22
+T000227,Alexander,Thomson,,,1788.0,1848.0,2,['Representative'],['PA'],"['Jackson Republican', 'Jacksonian']",18-19
+T000230,John,Thomson,,,1780.0,1852.0,5,['Representative'],['OH'],['Jacksonian'],19-24
+T000232,Mark,Thomson,,,1739.0,1803.0,2,['Representative'],['NJ'],['Federalist'],4-5
+T000247,Enos,Throop,Thompson,,1784.0,1874.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+T000249,Buckner,Thruston,,,1763.0,1845.0,3,['Senator'],['KY'],['Democratic Republican'],9-11
+T000262,George,Tibbits,,,1763.0,1849.0,1,['Representative'],['NY'],['Federalist'],8-8
+T000264,Isaac,Tichenor,,,1754.0,1838.0,5,['Senator'],['VT'],['Federalist'],4-16
+T000268,Edward,Tiffin,,,1766.0,1829.0,1,['Senator'],['OH'],['Democratic Republican'],10-10
+T000273,Thomas,Tillinghast,,,1742.0,1821.0,2,['Representative'],['RI'],"['Democratic Republican', 'Federalist']",5-7
+T000284,John,Tipton,,,1786.0,1839.0,4,['Senator'],['IN'],"['Democrat', 'Jacksonian']",22-25
+T000290,John,Tod,,,1780.0,1830.0,2,['Representative'],['PA'],['Democratic Republican'],17-18
+T000300,Gideon,Tomlinson,,,1780.0,1854.0,7,"['Senator', 'Representative']",['CT'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",16-24
+T000303,Caleb,Tompkins,,,1759.0,1846.0,2,['Representative'],['NY'],['Democratic Republican'],15-16
+T000304,Christopher,Tompkins,,,1780.0,1858.0,2,['Representative'],['KY'],['Anti-Jacksonian'],22-23
+T000306,Daniel,Tompkins,D.,,1774.0,1825.0,0,[],[],[],
+T000333,George,Townsend,,,1769.0,1844.0,2,['Representative'],['NY'],['Democratic Republican'],14-15
+T000343,Albert,Tracy,Haller,,1793.0,1859.0,3,['Representative'],['NY'],"['Democratic Republican', 'Adams-Clay Republican']",16-18
+T000346,Phineas,Tracy,Lyman,,1786.0,1876.0,3,['Representative'],['NY'],"['Adams', 'Anti-Masonic']",20-22
+T000347,Uri,Tracy,,,1764.0,1838.0,3,['Representative'],['NY'],['Democratic Republican'],9-12
+T000348,Uriah,Tracy,,,1755.0,1807.0,9,"['Senator', 'Representative']",['CT'],['Federalist'],3-10
+T000361,Thomas,Tredwell,,,1743.0,1831.0,2,['Representative'],['NY'],['Anti-Administration'],2-3
+T000365,James,Trezvant,,,,1841.0,3,['Representative'],['VA'],['Jacksonian'],19-21
+T000368,Abram,Trigg,,,1750.0,,6,['Representative'],['VA'],['Democratic Republican'],5-10
+T000370,John,Trigg,Johns,,1748.0,1804.0,4,['Representative'],['VA'],['Democratic Republican'],5-8
+T000372,David,Trimble,,,1782.0,1842.0,5,['Representative'],['KY'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",15-19
+T000377,William,Trimble,Allen,,1786.0,1821.0,2,['Senator'],['OH'],['Democratic Republican'],16-17
+T000382,George,Troup,Michael,,1780.0,1856.0,8,"['Senator', 'Representative']",['GA'],"['Democratic Republican', 'Jacksonian']",10-22
+T000389,Jonathan,Trumbull,,Jr.,1740.0,1809.0,4,"['Senator', 'Representative']",['CT'],['Federalist'],1-4
+T000391,Joseph,Trumbull,,,1782.0,1861.0,3,['Representative'],['CT'],"['Whig', 'Anti-Jacksonian']",23-27
+T000396,Ebenezer,Tucker,,,1758.0,1845.0,2,['Representative'],['NJ'],['Adams'],19-20
+T000397,George,Tucker,,,1775.0,1861.0,3,['Representative'],['VA'],"['Democratic Republican', 'Crawford Republican']",16-18
+T000398,Henry,Tucker,St. George,,1780.0,1848.0,2,['Representative'],['VA'],['Democratic Republican'],14-15
+T000402,Starling,Tucker,,,1770.0,1834.0,7,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",15-21
+T000403,Thomas,Tucker,Tudor,,1745.0,1828.0,3,"['Delegate', 'Representative']","['SC', None]",[],1-2
+T000416,Charles,Turner,,Jr.,1760.0,1839.0,2,['Representative'],['MA'],['Democratic Republican'],11-12
+T000418,Daniel,Turner,,,1796.0,1860.0,1,['Representative'],['NC'],['Jacksonian'],20-20
+T000423,James,Turner,,,1766.0,1824.0,6,['Senator'],['NC'],['Democratic Republican'],9-14
+T000422,James,Turner,,,1783.0,1861.0,2,['Representative'],['MD'],['Jacksonian'],23-24
+T000435,Joel,Turrill,,,1794.0,1859.0,2,['Representative'],['NY'],['Jacksonian'],23-24
+T000438,Selah,Tuthill,,,1771.0,1821.0,1,['Representative'],['NY'],[],17-17
+T000442,Samuel,Tweedy,,,1776.0,1868.0,1,['Representative'],['CT'],['Anti-Jacksonian'],23-23
+T000450,John,Tyler,,,1790.0,1862.0,8,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Jacksonian', 'Anti-Jacksonian']",14-24
+T000453,Jacob,Tyson,,,1773.0,1848.0,1,['Representative'],['NY'],['Crawford Republican'],18-18
+U000003,Daniel,Udree,,,1751.0,1828.0,4,['Representative'],['PA'],"['Democratic Republican', 'Jackson Republican']",13-18
+U000022,George,Upham,Baxter,,1768.0,1848.0,1,['Representative'],['NH'],['Federalist'],7-7
+U000023,Jabez,Upham,,,1764.0,1811.0,2,['Representative'],['MA'],['Federalist'],10-11
+U000024,Nathaniel,Upham,,,1774.0,1829.0,3,['Representative'],['NH'],['Democratic Republican'],15-17
+V000011,James,Van Alen,Isaac,,1772.0,1822.0,1,['Representative'],['NY'],['Democratic Republican'],10-10
+V000012,John,Van Alen,Evert,,1749.0,1807.0,3,['Representative'],['NY'],['Federalist'],3-5
+V000009,Martin,Van Buren,,,1782.0,1862.0,4,['Senator'],['NY'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",17-20
+V000022,Philip,Van Cortlandt,,,1749.0,1831.0,8,['Representative'],['NY'],"['Democratic Republican', 'Anti-Administration']",3-10
+V000023,Pierre,Van Cortlandt,,Jr.,1762.0,1848.0,1,['Representative'],['NY'],['Democratic Republican'],12-12
+V000037,Nicholas,Van Dyke,,,1770.0,1826.0,7,"['Senator', 'Representative']",['DE'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",10-19
+V000039,Peter,Van Gaasbeck,,,1754.0,1797.0,1,['Representative'],['NY'],['Pro-Administration'],3-3
+V000043,Archibald,Van Horne,,,,1817.0,2,['Representative'],['MD'],['Democratic Republican'],10-11
+V000044,Espy,Van Horne,,,1795.0,1829.0,2,['Representative'],['PA'],['Jacksonian'],19-20
+V000045,Isaac,Van Horne,,,1754.0,1834.0,2,['Representative'],['PA'],['Democratic Republican'],7-8
+V000046,Isaac,Van Houten,B.,,1776.0,1850.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+V000049,John,Van Ness,Peter,,1769.0,1846.0,1,['Representative'],['NY'],['Democratic Republican'],7-7
+V000053,Jeremiah,Van Rensselaer,,,1738.0,1810.0,1,['Representative'],['NY'],['Anti-Administration'],1-1
+V000054,Killian,Van Rensselaer,Killian,,1763.0,1845.0,5,['Representative'],['NY'],['Federalist'],7-11
+V000055,Solomon,Van Rensselaer,Van Vechten,,1774.0,1852.0,2,['Representative'],['NY'],['Federalist'],16-17
+V000056,Stephen,Van Rensselaer,,III,1764.0,1839.0,4,['Representative'],['NY'],"['Adams', 'Adams-Clay Federalist', 'Federalist']",17-20
+V000059,Thomas,Van Swearingen,,,1784.0,1822.0,2,['Representative'],['VA'],['Federalist'],16-17
+V000068,William,Van Wyck,William,,1777.0,1840.0,2,['Representative'],['NY'],"['Democratic Republican', 'Adams-Clay Republican']",17-18
+V000017,Joseph,Vance,,,1786.0,1852.0,9,['Representative'],['OH'],"['Whig', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian', 'Democratic Republican']",17-29
+V000018,Robert,Vance,Brank,,1793.0,1827.0,1,['Representative'],['NC'],['Jackson Republican'],18-18
+V000028,Aaron,Vanderpoel,,,1799.0,1870.0,3,['Representative'],['NY'],"['Democrat', 'Jacksonian']",23-26
+V000073,John,Varnum,,,1778.0,1836.0,3,['Representative'],['MA'],"['Adams', 'Anti-Jacksonian']",19-21
+V000074,Joseph,Varnum,Bradley,,1750.0,1821.0,11,"['Senator', 'Representative']",['MA'],['Democratic Republican'],4-14
+V000083,Abraham,Venable,Bedford,,1758.0,1811.0,5,"['Senator', 'Representative']",['VA'],"['Democratic Republican', 'Anti-Administration']",2-8
+V000088,Daniel,Verplanck,Crommelin,,1762.0,1834.0,3,['Representative'],['NY'],['Democratic Republican'],8-10
+V000089,Gulian,Verplanck,Crommelin,,1786.0,1870.0,4,['Representative'],['NY'],['Jacksonian'],19-22
+V000104,John,Vining,,,1758.0,1802.0,6,"['Senator', 'Delegate', 'Representative']",['DE'],['Pro-Administration'],1-5
+V000107,Samuel,Vinton,Finley,,1792.0,1862.0,11,['Representative'],['OH'],"['Whig', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-31
+V000120,Roger,Vose,,,1763.0,1841.0,2,['Representative'],['NH'],['Federalist'],13-14
+W000013,Jeremiah,Wadsworth,,,1743.0,1804.0,4,"['Delegate', 'Representative']",['CT'],['Pro-Administration'],1-3
+W000014,Peleg,Wadsworth,,,1748.0,1829.0,7,['Representative'],['MA'],['Federalist'],3-9
+W000016,David,Wagener,Douglas,,1792.0,1860.0,4,['Representative'],['PA'],"['Democrat', 'Jacksonian']",23-26
+W000017,George,Waggaman,Augustus,,1782.0,1843.0,2,['Senator'],['LA'],['Anti-Jacksonian'],22-23
+W000042,George,Wales,Edward,,1792.0,1860.0,2,['Representative'],['VT'],['Adams'],19-20
+W000046,Benjamin,Walker,,,1753.0,1818.0,1,['Representative'],['NY'],['Federalist'],7-7
+W000048,David,Walker,,,,1820.0,2,['Representative'],['KY'],['Democratic Republican'],15-16
+W000050,Felix,Walker,,,1753.0,1828.0,3,['Representative'],['NC'],['Democratic Republican'],15-17
+W000051,Francis,Walker,,,1764.0,1806.0,1,['Representative'],['VA'],['Anti-Administration'],3-3
+W000052,Freeman,Walker,,,1780.0,1827.0,2,['Senator'],['GA'],['Democratic Republican'],16-17
+W000053,George,Walker,,,1763.0,1819.0,1,['Senator'],['KY'],['Democratic Republican'],13-13
+W000061,John,Walker,Williams,,1783.0,1823.0,2,['Senator'],['AL'],['Democratic Republican'],16-17
+W000059,John,Walker,,,1744.0,1809.0,2,"['Senator', 'Delegate']",['VA'],['Pro-Administration'],1-2
+W000078,James,Wallace,M.,,1750.0,1823.0,3,['Representative'],['PA'],['Democratic Republican'],14-16
+W000094,Robert,Waln,,,1765.0,1836.0,2,['Representative'],['PA'],['Federalist'],5-6
+W000114,George,Walton,,,1749.0,1804.0,3,"['Senator', 'Delegate']",['GA'],['Federalist'],1-4
+W000116,Matthew,Walton,,,,1819.0,2,['Representative'],['KY'],['Democratic Republican'],8-9
+W000118,Reuben,Walworth,Hyde,,1788.0,1867.0,1,['Representative'],['NY'],['Democratic Republican'],17-17
+W000125,Aaron,Ward,,,1790.0,1867.0,6,['Representative'],['NY'],"['Democrat', 'Adams', 'Jacksonian']",19-27
+W000128,Artemas,Ward,,Jr.,1762.0,1847.0,2,['Representative'],['MA'],['Federalist'],13-14
+W000127,Artemas,Ward,,,1727.0,1800.0,3,"['Delegate', 'Representative']",['MA'],['Pro-Administration'],2-3
+W000136,Jonathan,Ward,,,1768.0,1842.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+W000141,Thomas,Ward,,,1759.0,1842.0,2,['Representative'],['NJ'],['Democratic Republican'],13-14
+W000146,Daniel,Wardwell,,,1791.0,1878.0,3,['Representative'],['NY'],['Jacksonian'],22-24
+W000148,Nicholas,Ware,,,1776.0,1824.0,2,['Senator'],['GA'],"['Democratic Republican', 'Crawford Republican']",17-18
+W000150,Henry,Warfield,Ridgely,,1774.0,1839.0,3,['Representative'],['MD'],"['Adams-Clay Federalist', 'Federalist']",16-18
+W000179,George,Washington,Corbin,,1789.0,1854.0,4,['Representative'],['MD'],"['Whig', 'Adams', 'Anti-Jacksonian']",20-24
+W000178,George,Washington,,,1732.0,1799.0,2,['Delegate'],['VA'],[],1-2
+W000195,John,Watmough,Goddard,,1793.0,1861.0,2,['Representative'],['PA'],['Anti-Jacksonian'],22-23
+W000202,James,Watson,,,1750.0,1806.0,2,['Senator'],['NY'],['Federalist'],5-6
+W000211,John,Watts,,,1749.0,1836.0,1,['Representative'],['NY'],['Pro-Administration'],3-3
+W000216,Anthony,Wayne,,,1745.0,1796.0,1,['Representative'],['GA'],[],2-2
+W000217,Isaac,Wayne,,,1772.0,1852.0,1,['Representative'],['PA'],['Jackson Federalist'],18-18
+W000218,James,Wayne,Moore,,1790.0,1867.0,3,['Representative'],['GA'],['Jacksonian'],21-23
+W000220,Robert,Weakley,,,1764.0,1845.0,1,['Representative'],['TN'],['Democratic Republican'],11-11
+W000238,Daniel,Webster,,,1782.0,1852.0,14,"['Senator', 'Representative']","['NH', 'MA']","['Whig', 'Adams-Clay Federalist', 'Federalist', 'Adams', 'Anti-Jacksonian']",13-31
+W000241,Taylor,Webster,,,1800.0,1876.0,3,['Representative'],['OH'],"['Democrat', 'Jacksonian']",23-25
+W000245,John,Weeks,Wingate,,1781.0,1853.0,2,['Representative'],['NH'],['Jacksonian'],21-22
+W000250,John,Weems,Crompton,,1778.0,1862.0,2,['Representative'],['MD'],['Jacksonian'],19-20
+W000287,William,Wells,Hill,,1769.0,1829.0,6,['Senator'],['DE'],['Federalist'],5-14
+W000293,Peter,Wendover,Hercules,,1768.0,1834.0,3,['Representative'],['NY'],['Democratic Republican'],14-16
+W000309,Rensselaer,Westerlo,,,1776.0,1851.0,1,['Representative'],['NY'],['Federalist'],15-15
+W000321,Reuben,Whallon,,,1776.0,1843.0,1,['Representative'],['NY'],['Jacksonian'],23-23
+W000324,Jesse,Wharton,,,1782.0,1833.0,3,"['Senator', 'Representative']",['TN'],['Democratic Republican'],10-14
+W000329,Laban,Wheaton,,,1754.0,1846.0,4,['Representative'],['MA'],['Federalist'],11-14
+W000334,Grattan,Wheeler,Henry,,1783.0,1852.0,1,['Representative'],['NY'],['Anti-Masonic'],22-22
+W000345,Thomas,Whipple,,Jr.,1787.0,1835.0,4,['Representative'],['NH'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",17-20
+W000352,Alexander,White,,,1738.0,1804.0,2,['Representative'],['VA'],['Pro-Administration'],1-2
+W000356,Bartow,White,,,1776.0,1862.0,1,['Representative'],['NY'],['Adams'],19-19
+W000358,Campbell,White,Patrick,,1787.0,1859.0,3,['Representative'],['NY'],['Jacksonian'],21-23
+W000363,David,White,,,1785.0,1834.0,1,['Representative'],['KY'],['Adams-Clay Republican'],18-18
+W000365,Edward,White,Douglass,,1795.0,1847.0,5,['Representative'],['LA'],"['Whig', 'Anti-Jacksonian']",21-27
+W000367,Francis,White,,,,1826.0,1,['Representative'],['VA'],['Federalist'],13-13
+W000376,Hugh,White,Lawson,,1773.0,1840.0,8,['Senator'],['TN'],"['Whig', 'Jacksonian', 'Anti-Jacksonian']",19-26
+W000377,James,White,,,1749.0,1809.0,3,['Delegate'],"['TN', 'NC']",[],1-4
+W000383,Joseph,White,M.,,1798.0,1839.0,6,['Delegate'],['FL'],[],19-24
+W000385,Leonard,White,,,1767.0,1849.0,1,['Representative'],['MA'],['Federalist'],12-12
+W000389,Phineas,White,,,1770.0,1847.0,1,['Representative'],['VT'],['Federalist'],17-17
+W000392,Samuel,White,,,1770.0,1809.0,6,['Senator'],['DE'],['Federalist'],6-11
+W000402,James,Whitehill,,,1762.0,1822.0,1,['Representative'],['PA'],['Democratic Republican'],13-13
+W000403,John,Whitehill,,,1729.0,1815.0,2,['Representative'],['PA'],['Democratic Republican'],8-9
+W000404,Robert,Whitehill,,,1738.0,1813.0,5,['Representative'],['PA'],['Democratic Republican'],9-13
+W000411,Jenkin,Whiteside,,,1772.0,1822.0,2,['Senator'],['TN'],['Democratic Republican'],11-12
+W000412,John,Whiteside,,,1773.0,1830.0,2,['Representative'],['PA'],['Democratic Republican'],14-15
+W000421,Ezekiel,Whitman,,,1776.0,1866.0,4,['Representative'],"['ME', 'MA']",['Federalist'],11-17
+W000422,Lemuel,Whitman,,,1780.0,1841.0,1,['Representative'],['CT'],['Adams-Clay Republican'],18-18
+W000423,Elias,Whitmore,,,1772.0,1853.0,1,['Representative'],['NY'],['Adams'],19-19
+W000431,Elisha,Whittlesey,,,1783.0,1863.0,8,['Representative'],['OH'],"['Whig', 'Anti-Masonic', 'Adams', 'Adams-Clay Republican', 'Anti-Jacksonian']",18-25
+W000432,Frederick,Whittlesey,,,1799.0,1851.0,2,['Representative'],['NY'],['Anti-Masonic'],22-23
+W000440,Eliphalet,Wickes,,,1769.0,1850.0,1,['Representative'],['NY'],['Democratic Republican'],9-9
+W000442,Charles,Wickliffe,Anderson,,1788.0,1869.0,6,['Representative'],['KY'],"['Jackson Republican', 'Jacksonian', 'Unionist']",18-37
+W000444,William,Widgery,,,1753.0,1822.0,1,['Representative'],['MA'],['Democratic Republican'],12-12
+W000454,Isaac,Wilbour,,,1763.0,1837.0,1,['Representative'],['RI'],['Democratic Republican'],10-10
+W000456,Jeduthun,Wilcox,,,1768.0,1838.0,2,['Representative'],['NH'],['Federalist'],13-14
+W000460,Richard,Wilde,Henry,,1789.0,1847.0,6,['Representative'],['GA'],"['Democratic Republican', 'Jacksonian', 'Crawford Republican']",14-23
+W000472,James,Wilkin,Whitney,,1762.0,1845.0,2,['Representative'],['NY'],['Democratic Republican'],14-15
+W000473,Samuel,Wilkin,Jones,,1793.0,1866.0,1,['Representative'],['NY'],['Anti-Jacksonian'],22-22
+W000475,William,Wilkins,,,1779.0,1865.0,3,"['Senator', 'Representative']",['PA'],"['Democrat', 'Jacksonian']",22-28
+W000482,Calvin,Willey,,,1776.0,1858.0,3,['Senator'],['CT'],['Adams'],19-21
+W000491,Benjamin,Williams,,,1751.0,1814.0,1,['Representative'],['NC'],['Anti-Administration'],3-3
+W000495,David,Williams,Rogerson,,1776.0,1830.0,3,['Representative'],['SC'],['Democratic Republican'],9-12
+W000505,Isaac,Williams,,Jr.,1777.0,1860.0,3,['Representative'],['NY'],"['Democratic Republican', 'Adams-Clay Republican']",13-18
+W000510,Jared,Williams,,,1766.0,1831.0,3,['Representative'],['VA'],"['Democratic Republican', 'Crawford Republican']",16-18
+W000516,John,Williams,,,1778.0,1837.0,4,['Senator'],['TN'],['Democratic Republican'],14-17
+W000513,John,Williams,,,1752.0,1806.0,2,['Representative'],['NY'],['Federalist'],4-5
+W000523,Jonathan,Williams,,,1750.0,1815.0,1,['Representative'],['PA'],[],14-14
+W000526,Lemuel,Williams,,,1747.0,1828.0,3,['Representative'],['MA'],['Federalist'],6-8
+W000527,Lewis,Williams,,,1782.0,1842.0,14,['Representative'],['NC'],"['Whig', 'Adams', 'Anti-Jacksonian', 'Crawford Republican', 'Democratic Republican']",14-27
+W000529,Marmaduke,Williams,,,1774.0,1850.0,3,['Representative'],['NC'],['Democratic Republican'],8-10
+W000531,Nathan,Williams,,,1773.0,1835.0,1,['Representative'],['NY'],['Democratic Republican'],9-9
+W000534,Robert,Williams,,,1768.0,1836.0,3,['Representative'],['NC'],['Democratic Republican'],5-7
+W000540,Thomas,Williams,Hill,,1773.0,1850.0,6,['Senator'],['MS'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",15-20
+W000541,Thomas,Williams,Scott,,1777.0,1861.0,1,['Representative'],['CT'],['Federalist'],15-15
+W000551,Hugh,Williamson,,,1735.0,1819.0,3,"['Delegate', 'Representative']",['NC'],['Federalist'],1-2
+W000554,William,Williamson,Durkee,,1779.0,1846.0,1,['Representative'],['ME'],['Democratic Republican'],17-17
+W000560,Francis,Willis,,,1745.0,1829.0,1,['Representative'],['GA'],['Anti-Administration'],2-2
+W000565,Westel,Willoughby,,Jr.,1769.0,1844.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+W000568,Alexander,Wilson,,,,,3,['Representative'],['VA'],['Democratic Republican'],8-10
+W000574,Edgar,Wilson,Campbell,,1800.0,1860.0,1,['Representative'],['VA'],['Anti-Jacksonian'],23-23
+W000576,Ephraim,Wilson,King,,1771.0,1834.0,2,['Representative'],['MD'],"['Adams', 'Jacksonian']",20-21
+W000584,Henry,Wilson,,,1778.0,1826.0,2,['Representative'],['PA'],"['Jackson Republican', 'Jacksonian']",18-19
+W000586,Isaac,Wilson,,,1780.0,1848.0,1,['Representative'],['NY'],['Democratic Republican'],18-18
+W000595,James,Wilson,Jefferson,,1775.0,1824.0,3,['Senator'],['NJ'],['Democratic Republican'],14-16
+W000588,James,Wilson,,,1779.0,1868.0,3,['Representative'],['PA'],"['Adams', 'Jackson Republican']",18-20
+W000592,James,Wilson,,,1766.0,1839.0,1,['Representative'],['NH'],['Federalist'],11-11
+W000597,John,Wilson,,,1773.0,1828.0,3,['Representative'],['SC'],"['Democratic Republican', 'Jackson Republican', 'Jacksonian']",17-19
+W000598,John,Wilson,,,1777.0,1848.0,2,['Representative'],['MA'],['Federalist'],13-15
+W000606,Nathan,Wilson,,,1758.0,1834.0,1,['Representative'],['NY'],['Democratic Republican'],10-10
+W000615,Thomas,Wilson,,,1765.0,1826.0,1,['Representative'],['VA'],['Federalist'],12-12
+W000616,Thomas,Wilson,,,1772.0,1824.0,2,['Representative'],['PA'],['Democratic Republican'],13-14
+W000618,William,Wilson,,,,,2,['Representative'],['PA'],['Democratic Republican'],14-15
+W000619,William,Wilson,,,1773.0,1827.0,2,['Representative'],['OH'],"['Adams', 'Crawford Republican']",18-19
+W000631,Austin,Wing,Eli,,1792.0,1849.0,3,['Delegate'],['MI'],[],19-22
+W000632,Joseph,Wingate,Ferdinand,,1786.0,,2,['Representative'],['ME'],"['Adams', 'Anti-Jacksonian']",20-21
+W000633,Paine,Wingate,,,1739.0,1838.0,4,"['Senator', 'Delegate', 'Representative']",['NH'],['Anti-Administration'],1-3
+W000637,Richard,Winn,,,1750.0,1818.0,8,['Representative'],['SC'],"['Democratic Republican', 'Anti-Administration']",3-12
+W000642,Joseph,Winston,,,1746.0,1815.0,3,['Representative'],['NC'],"['Democratic Republican', 'Anti-Administration']",3-9
+W000644,Elisha,Winter,I.,,1781.0,1849.0,1,['Representative'],['NY'],['Federalist'],13-13
+W000649,Henry,Wise,Alexander,,1806.0,1876.0,6,['Representative'],['VA'],"['Whig', 'Jacksonian', 'Democrat']",23-28
+W000657,James,Witherell,,,1759.0,1838.0,1,['Representative'],['VT'],['Democratic Republican'],10-10
+W000661,Robert,Witherspoon,,,1767.0,1837.0,1,['Representative'],['SC'],['Democratic Republican'],11-11
+W000673,George,Wolf,,,1777.0,1840.0,3,['Representative'],['PA'],"['Jackson Republican', 'Jacksonian']",18-20
+W000687,Abiel,Wood,,,1772.0,1834.0,1,['Representative'],['MA'],['Democratic Republican'],13-13
+W000697,John,Wood,Jacob,,1784.0,1874.0,1,['Representative'],['NY'],['Jacksonian'],20-20
+W000703,Silas,Wood,,,1769.0,1847.0,5,['Representative'],['NY'],"['Democratic Republican', 'Adams', 'Adams-Clay Republican']",16-20
+W000709,William,Woodbridge,,,1780.0,1861.0,4,"['Senator', 'Delegate']",['MI'],['Whig'],16-29
+W000711,Levi,Woodbury,,,1789.0,1851.0,6,['Senator'],['NH'],"['Democrat', 'Jacksonian']",19-29
+W000712,David,Woodcock,,,1785.0,1835.0,2,['Representative'],['NY'],"['Democratic Republican', 'Adams']",17-20
+W000722,Henry,Woods,,,1764.0,1826.0,2,['Representative'],['PA'],['Federalist'],6-7
+W000725,John,Woods,,,1761.0,1816.0,1,['Representative'],['PA'],['Federalist'],14-14
+W000724,John,Woods,,,1794.0,1855.0,2,['Representative'],['OH'],['Adams'],19-20
+W000727,William,Woods,,,1790.0,1837.0,1,['Representative'],['NY'],['Adams-Clay Republican'],18-18
+W000729,Samuel,Woodson,Hughes,,1777.0,1827.0,1,['Representative'],['KY'],['Democratic Republican'],17-17
+W000733,William,Woodward,,,,,1,['Representative'],['SC'],['Democratic Republican'],14-14
+W000745,Ludwig,Worman,,,1761.0,1822.0,1,['Representative'],['PA'],['Federalist'],17-17
+W000748,John,Worthington,Tolley Hood,,1788.0,1849.0,3,['Representative'],['MD'],"['Democrat', 'Jacksonian']",22-26
+W000751,Thomas,Worthington,Contee,,1782.0,1847.0,1,['Representative'],['MD'],['Adams'],19-19
+W000750,Thomas,Worthington,,,1773.0,1827.0,5,['Senator'],['OH'],['Democratic Republican'],8-13
+W000764,John,Wright,Crafts,,1783.0,1861.0,3,['Representative'],['OH'],"['Adams', 'Adams-Clay Republican']",18-20
+W000768,Robert,Wright,,,1752.0,1826.0,8,"['Senator', 'Representative']",['MD'],['Democratic Republican'],7-17
+W000770,Silas,Wright,,Jr.,1795.0,1847.0,8,"['Senator', 'Representative']",['NY'],"['Democrat', 'Jacksonian']",20-28
+W000774,John,Wurts,,,1792.0,1861.0,1,['Representative'],['PA'],['Jacksonian'],19-19
+W000783,Henry,Wynkoop,,,1737.0,1816.0,3,"['Delegate', 'Representative']",['PA'],['Pro-Administration'],1-2
+W000786,Thomas,Wynns,,,1764.0,1825.0,3,['Representative'],['NC'],['Democratic Republican'],7-9
+Y000001,Bartlett,Yancey,,,1785.0,1828.0,2,['Representative'],['NC'],['Democratic Republican'],13-14
+Y000002,Joel,Yancey,,,1773.0,1838.0,2,['Representative'],['KY'],['Jacksonian'],20-21
+Y000009,John,Yates,Barentse,,1784.0,1836.0,1,['Representative'],['NY'],['Democratic Republican'],14-14
+Y000034,Ebenezer,Young,,,1783.0,1851.0,3,['Representative'],['CT'],['Anti-Jacksonian'],21-23
+Y000057,William,Young,Singleton,,1790.0,1827.0,1,['Representative'],['KY'],['Adams'],19-19
