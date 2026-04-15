@@ -1,0 +1,188 @@
+---
+title: "Bayesian_Model"
+output: html_document
+date: "2026-04-14"
+---
+### Data Prep
+```{r}
+library(tidyverse)
+library(arrow)
+
+df <- read_parquet("eda/misc/all_info_embedded_trimmed.parquet")
+bill_matrix <- do.call(rbind, df$bill_des_embed)  # reduce bill embedding into one dimensions
+bill_pca    <- prcomp(bill_matrix, center = TRUE, scale. = FALSE)
+df$bill_embed_score <- bill_pca$x[, 1]            # first component
+ 
+bio_matrix <- do.call(rbind, df$bio_embed)# reduce bio embedding into one dimension
+bio_pca    <- prcomp(bio_matrix, center = TRUE, scale. = FALSE)
+df$bio_embed_score <- bio_pca$x[, 1]
+
+
+df$parties      <- as.factor(df$parties)
+df$parties_nums <- as.integer(df$parties) - 1     # encode parties
+
+df_model <- df %>% filter(vote %in% c(0, 1)) # only yes/no votes
+```
+
+```{r}
+# ── DATA PREP ─────────────────────────────────────────────────────────────────
+set.seed(42)
+n <- nrow(df_model)
+train_idx <- sample(seq_len(n), size = floor(0.8 * n))
+test_idx  <- setdiff(seq_len(n), train_idx)
+
+y       <- df_model$vote
+X_bill <- as.vector(scale(df_model$bill_embed_score))
+X_bio  <- as.vector(scale(df_model$bio_embed_score))
+X_year <- as.vector(scale(df_model$birthYear))  # standardized
+party   <- df_model$parties_nums      # 0-indexed
+state   <- df_model$state_num         # 0-indexed
+n_party <- length(unique(party))
+n_state <- 50
+n_params <- 4 + n_party + n_state
+```
+
+```{r}
+
+log_prior <- function(params) {
+  alpha   <- params[1]
+  b_bill  <- params[2]
+  b_bio   <- params[3]
+  b_year  <- params[4]
+  b_party <- params[5:(4 + n_party)]
+  b_state <- params[(5 + n_party):n_params]
+
+  dnorm(alpha,  0, 1,   log=TRUE) +
+  dnorm(b_bill, 0, 0.5, log=TRUE) +
+  dnorm(b_bio,  0, 0.5, log=TRUE) +
+  dnorm(b_year, 0, 1,   log=TRUE) +
+  sum(dnorm(b_party, 0, 1, log=TRUE)) +  # tightened from 2 to 1
+  sum(dnorm(b_state, 0, 1, log=TRUE))
+}
+
+# ── LOG LIKELIHOOD ─────────────────────────────────────────────────────────────
+log_likelihood <- function(params, idx) {
+  alpha   <- params[1]
+  b_bill  <- params[2]
+  b_bio   <- params[3]
+  b_year  <- params[4]
+  b_party <- params[5:(4 + n_party)]
+  b_state <- params[(5 + n_party):n_params]
+
+  logit_p <- alpha +
+             b_party[party[idx] + 1] +
+             b_state[state[idx] + 1] +
+             b_bill * X_bill[idx] +
+             b_bio  * X_bio[idx]  +
+             b_year * X_year[idx]
+
+  p <- pmax(pmin(plogis(logit_p), 1 - 1e-10), 1e-10)
+  sum(y[idx] * log(p) + (1 - y[idx]) * log(1 - p))
+}
+
+# ── LOG POSTERIOR ──────────────────────────────────────────────────────────────
+log_posterior <- function(params, idx) {
+  log_prior(params) + log_likelihood(params, idx)
+}
+
+# ── METROPOLIS-HASTINGS ────────────────────────────────────────────────────────
+senator_metropolis <- function(n_samples, step_size = 0.006, burn = 0.30, train_idx) {
+  total   <- as.integer(n_samples / (1 - burn))
+  m       <- as.integer(total * burn)
+  samples <- matrix(0, nrow = total, ncol = n_params)
+  current <- rep(0, n_params)
+  current_lp <- log_posterior(current, train_idx)
+  accepted <- 0
+
+  for (i in seq_len(total)) {
+    proposal <- current
+    
+    # propose each group separately with different step sizes
+    proposal[1:4]                    <- current[1:4]                    + rnorm(4,       0, step_size)
+    proposal[5:(4+n_party)]          <- current[5:(4+n_party)]          + rnorm(n_party, 0, step_size * 0.3)  # tighter for party
+    proposal[(5+n_party):n_params]   <- current[(5+n_party):n_params]   + rnorm(n_state, 0, step_size)
+
+    proposal_lp <- log_posterior(proposal, train_idx)
+
+    if (log(runif(1)) < proposal_lp - current_lp) {
+      current    <- proposal
+      current_lp <- proposal_lp
+      accepted   <- accepted + 1
+    }
+
+    samples[i, ] <- current
+
+    if (i %% 500 == 0) cat(sprintf("Step %d / %d\n", i, total))
+  }
+
+  cat(sprintf("Acceptance rate: %.2f%%\n", 100 * accepted / total))
+  samples[(m + 1):total, ]
+}
+
+# ── RUN ────────────────────────────────────────────────────────────────────────
+posterior <- senator_metropolis(n_samples = 40000, step_size = 0.014, burn = 0.30, train_idx = train_idx)
+thinned_posterior <- posterior[seq(1, nrow(posterior), by = 30), ]
+# ── PREDICT ───────────────────────────────────────────────────────────────────
+predict_votes <- function(posterior, idx) {
+  alpha   <- mean(thinned_posterior[, 1])
+  b_bill  <- mean(thinned_posterior[, 2])
+  b_bio   <- mean(thinned_posterior[, 3])
+  b_year  <- mean(thinned_posterior[, 4])
+  b_party <- colMeans(thinned_posterior[, 5:(4 + n_party)])
+  b_state <- colMeans(thinned_posterior[, (5 + n_party):n_params])
+
+  logit_p <- alpha +
+             b_party[party[idx] + 1] +
+             b_state[state[idx] + 1] +
+             b_bill * X_bill[idx] +
+             b_bio  * X_bio[idx]  +
+             b_year * X_year[idx]
+  plogis(logit_p)
+}
+
+probs <- predict_votes(posterior, test_idx)
+preds <- as.integer(probs >= 0.5)
+acc   <- mean(preds == y[test_idx])
+cat(sprintf("Test accuracy: %.2f%%\n", acc * 100))
+
+# ── CONVERGENCE PLOTS ─────────────────────────────────────────────────────────
+par(mfrow = c(2, 2))
+plot(thinned_posterior[, 1], type = "l", main = "Convergence: α",      ylab = "α")
+plot(thinned_posterior[, 2], type = "l", main = "Convergence: β_bill", ylab = "β_bill")
+plot(thinned_posterior[, 3], type = "l", main = "Convergence: β_bio",  ylab = "β_bio")
+plot(thinned_posterior[, 4], type = "l", main = "Convergence: β_year", ylab = "β_year")
+# party params (one plot per party)
+for (j in 1:n_party) {
+  plot(thinned_posterior[, 4 + j], type = "l",
+       main = sprintf("Convergence: β_party[%d]", j),
+       ylab = sprintf("β_party[%d]", j))
+}
+
+# state params — plot a sample of states (plotting all 50 is too many)
+for (k in c(1, 5, 10, 20, 30, 40, 50)) {
+  plot(thinned_posterior[, 4 + n_party + k], type = "l",
+       main = sprintf("Convergence: β_state[%d]", k),
+       ylab = sprintf("β_state[%d]", k))
+}
+# ── DISTRIBUTION PLOTS ────────────────────────────────────────────────────────
+par(mfrow = c(1, 2))
+
+hist(probs[y[test_idx] == 1], col = rgb(0.2,0.6,0.2,0.5), breaks = 40,
+     main = "Predicted Probabilities by Actual Vote",
+     xlab = "P(vote=1)", ylab = "Count")
+hist(probs[y[test_idx] == 0], col = rgb(0.8,0.2,0.2,0.5), breaks = 40, add = TRUE)
+abline(v = 0.5, lty = 2, lwd = 2)
+legend("topright", legend = c("Actual Yes", "Actual No"),
+       fill = c(rgb(0.2,0.6,0.2,0.5), rgb(0.8,0.2,0.2,0.5)))
+
+hist(probs, breaks = 40, col = "steelblue",
+     main = sprintf("Predicted Probabilities\nAccuracy: %.1f%%", acc * 100),
+     xlab = "P(vote=1)", ylab = "Count")
+abline(v = 0.5, lty = 2, lwd = 2)
+
+```
+```{r}
+# check autocorrelation for key parameters
+# make sure you're running ACF on the full posterior, not already-thinned
+acf(thinned_posterior[, 1], lag.max = 100 , main = "ACF: α")  # extend lag.max way out
+```
