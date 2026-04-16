@@ -22,24 +22,30 @@ df$parties      <- as.factor(df$parties)
 df$parties_nums <- as.integer(df$parties) - 1     # encode parties
 
 df_model <- df %>% filter(vote %in% c(0, 1)) # only yes/no votes
+df_model <- df_model %>% 
+  filter(!is.na(nominate_dim1_y), !is.na(nominate_dim2_y))
+head(df_model)
 ```
 
 ```{r}
-# ── DATA PREP ─────────────────────────────────────────────────────────────────
+# data prep!!
 set.seed(42)
 n <- nrow(df_model)
 train_idx <- sample(seq_len(n), size = floor(0.8 * n))
 test_idx  <- setdiff(seq_len(n), train_idx)
 
-y       <- df_model$vote
+y      <- df_model$vote
 X_bill <- as.vector(scale(df_model$bill_embed_score))
 X_bio  <- as.vector(scale(df_model$bio_embed_score))
-X_year <- as.vector(scale(df_model$birthYear))  # standardized
-party   <- df_model$parties_nums      # 0-indexed
-state   <- df_model$state_num         # 0-indexed
+X_year <- as.vector(scale(df_model$birthYear))
+X_dim1 <- as.vector(scale(df_model$nominate_dim1_y))  # scale these too
+X_dim2 <- as.vector(scale(df_model$nominate_dim2_y))
+
+party   <- df_model$parties_nums
+state   <- df_model$state_num
 n_party <- length(unique(party))
 n_state <- 50
-n_params <- 4 + n_party + n_state
+n_params <- 6 + n_party + n_state  # updated: was 4, now 6
 ```
 
 ```{r}
@@ -49,43 +55,51 @@ log_prior <- function(params) {
   b_bill  <- params[2]
   b_bio   <- params[3]
   b_year  <- params[4]
-  b_party <- params[5:(4 + n_party)]
-  b_state <- params[(5 + n_party):n_params]
+  b_dim1 <- params[5]
+  b_dim2 <- params[6]
+  b_party <- params[7:(6 + n_party)]
+  b_state <- params[(7 + n_party):n_params]
 
   dnorm(alpha,  0, 1,   log=TRUE) +
   dnorm(b_bill, 0, 0.5, log=TRUE) +
   dnorm(b_bio,  0, 0.5, log=TRUE) +
   dnorm(b_year, 0, 1,   log=TRUE) +
+  dnorm(b_dim1, 0, 1,   log=TRUE) +
+  dnorm(b_dim2, 0, 1,   log=TRUE) +
   sum(dnorm(b_party, 0, 1, log=TRUE)) +  # tightened from 2 to 1
   sum(dnorm(b_state, 0, 1, log=TRUE))
 }
 
-# ── LOG LIKELIHOOD ─────────────────────────────────────────────────────────────
+# likelihood
 log_likelihood <- function(params, idx) {
   alpha   <- params[1]
   b_bill  <- params[2]
   b_bio   <- params[3]
   b_year  <- params[4]
-  b_party <- params[5:(4 + n_party)]
-  b_state <- params[(5 + n_party):n_params]
+  b_dim1 <- params[5]
+  b_dim2 <- params[6]
+  b_party <- params[7:(6 + n_party)]
+  b_state <- params[(7 + n_party):n_params]
 
   logit_p <- alpha +
              b_party[party[idx] + 1] +
              b_state[state[idx] + 1] +
              b_bill * X_bill[idx] +
              b_bio  * X_bio[idx]  +
+            b_dim1 * X_dim1[idx] +
+            b_dim2 * X_dim2[idx] +
              b_year * X_year[idx]
 
   p <- pmax(pmin(plogis(logit_p), 1 - 1e-10), 1e-10)
   sum(y[idx] * log(p) + (1 - y[idx]) * log(1 - p))
 }
 
-# ── LOG POSTERIOR ──────────────────────────────────────────────────────────────
+# log posterios
 log_posterior <- function(params, idx) {
   log_prior(params) + log_likelihood(params, idx)
 }
 
-# ── METROPOLIS-HASTINGS ────────────────────────────────────────────────────────
+#  metropolis hastings
 senator_metropolis <- function(n_samples, step_size = 0.006, burn = 0.30, train_idx) {
   total   <- as.integer(n_samples / (1 - burn))
   m       <- as.integer(total * burn)
@@ -98,9 +112,9 @@ senator_metropolis <- function(n_samples, step_size = 0.006, burn = 0.30, train_
     proposal <- current
     
     # propose each group separately with different step sizes
-    proposal[1:4]                    <- current[1:4]                    + rnorm(4,       0, step_size)
-    proposal[5:(4+n_party)]          <- current[5:(4+n_party)]          + rnorm(n_party, 0, step_size * 0.3)  # tighter for party
-    proposal[(5+n_party):n_params]   <- current[(5+n_party):n_params]   + rnorm(n_state, 0, step_size)
+   proposal[1:6]                    <- current[1:6]                    + rnorm(6,       0, step_size)
+  proposal[7:(6+n_party)]          <- current[7:(6+n_party)]          + rnorm(n_party, 0, step_size * 0.3)
+  proposal[(7+n_party):n_params]   <- current[(7+n_party):n_params]   + rnorm(n_state, 0, step_size)
 
     proposal_lp <- log_posterior(proposal, train_idx)
 
@@ -119,52 +133,59 @@ senator_metropolis <- function(n_samples, step_size = 0.006, burn = 0.30, train_
   samples[(m + 1):total, ]
 }
 
-# ── RUN ────────────────────────────────────────────────────────────────────────
-posterior <- senator_metropolis(n_samples = 40000, step_size = 0.014, burn = 0.30, train_idx = train_idx)
+posterior <- senator_metropolis(n_samples = 40000, step_size = 0.011, burn = 0.30, train_idx = train_idx)
 thinned_posterior <- posterior[seq(1, nrow(posterior), by = 30), ]
-# ── PREDICT ───────────────────────────────────────────────────────────────────
+
+# predicting
 predict_votes <- function(posterior, idx) {
-  alpha   <- mean(thinned_posterior[, 1])
-  b_bill  <- mean(thinned_posterior[, 2])
-  b_bio   <- mean(thinned_posterior[, 3])
-  b_year  <- mean(thinned_posterior[, 4])
-  b_party <- colMeans(thinned_posterior[, 5:(4 + n_party)])
-  b_state <- colMeans(thinned_posterior[, (5 + n_party):n_params])
+  alpha   <- mean(posterior[, 1])
+  b_bill  <- mean(posterior[, 2])
+  b_bio   <- mean(posterior[, 3])
+  b_year  <- mean(posterior[, 4])
+  b_dim1  <- mean(posterior[, 5])
+  b_dim2  <- mean(posterior[, 6])
+  b_party <- colMeans(posterior[, 7:(6 + n_party)])
+  b_state <- colMeans(posterior[, (7 + n_party):n_params])
 
   logit_p <- alpha +
              b_party[party[idx] + 1] +
              b_state[state[idx] + 1] +
-             b_bill * X_bill[idx] +
-             b_bio  * X_bio[idx]  +
-             b_year * X_year[idx]
+             b_bill  * X_bill[idx]  +
+             b_bio   * X_bio[idx]   +
+             b_year  * X_year[idx]  +
+             b_dim1  * X_dim1[idx]  +
+             b_dim2  * X_dim2[idx]
   plogis(logit_p)
 }
 
-probs <- predict_votes(posterior, test_idx)
+probs <- predict_votes(thinned_posterior, test_idx)
 preds <- as.integer(probs >= 0.5)
 acc   <- mean(preds == y[test_idx])
 cat(sprintf("Test accuracy: %.2f%%\n", acc * 100))
-
-# ── CONVERGENCE PLOTS ─────────────────────────────────────────────────────────
+```
+### PLOTS
+```{r}
 par(mfrow = c(2, 2))
 plot(thinned_posterior[, 1], type = "l", main = "Convergence: α",      ylab = "α")
 plot(thinned_posterior[, 2], type = "l", main = "Convergence: β_bill", ylab = "β_bill")
 plot(thinned_posterior[, 3], type = "l", main = "Convergence: β_bio",  ylab = "β_bio")
 plot(thinned_posterior[, 4], type = "l", main = "Convergence: β_year", ylab = "β_year")
-# party params (one plot per party)
+
 for (j in 1:n_party) {
-  plot(thinned_posterior[, 4 + j], type = "l",
+  plot(thinned_posterior[, 6 + j], type = "l",
        main = sprintf("Convergence: β_party[%d]", j),
        ylab = sprintf("β_party[%d]", j))
 }
 
-# state params — plot a sample of states (plotting all 50 is too many)
 for (k in c(1, 5, 10, 20, 30, 40, 50)) {
-  plot(thinned_posterior[, 4 + n_party + k], type = "l",
+  plot(thinned_posterior[, 6 + n_party + k], type = "l",
        main = sprintf("Convergence: β_state[%d]", k),
        ylab = sprintf("β_state[%d]", k))
 }
-# ── DISTRIBUTION PLOTS ────────────────────────────────────────────────────────
+
+```
+### PLOTS
+```{r}
 par(mfrow = c(1, 2))
 
 hist(probs[y[test_idx] == 1], col = rgb(0.2,0.6,0.2,0.5), breaks = 40,
@@ -179,10 +200,29 @@ hist(probs, breaks = 40, col = "steelblue",
      main = sprintf("Predicted Probabilities\nAccuracy: %.1f%%", acc * 100),
      xlab = "P(vote=1)", ylab = "Count")
 abline(v = 0.5, lty = 2, lwd = 2)
-
 ```
 ```{r}
 # check autocorrelation for key parameters
 # make sure you're running ACF on the full posterior, not already-thinned
 acf(thinned_posterior[, 1], lag.max = 100 , main = "ACF: α")  # extend lag.max way out
+```
+```{r}
+# ── POSTERIOR MEANS (coefficients) ────────────────────────────────────────────
+coef_names <- c("α", "β_bill", "β_bio", "β_year", "β_dim1", "β_dim2",
+                paste0("β_party[", 1:n_party, "]"),
+                paste0("β_state[", 1:n_state, "]"))
+
+coef_means <- colMeans(thinned_posterior)
+coef_sd    <- apply(thinned_posterior, 2, sd)
+
+coef_df <- data.frame(
+  parameter = coef_names,
+  mean      = round(coef_means, 4),
+  sd        = round(coef_sd, 4)
+)
+
+print(coef_df)
+```
+```{r}
+levels(df_model$parties)  # party[4] corresponds to level 4
 ```
